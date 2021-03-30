@@ -1,0 +1,574 @@
+ 
+Date and Time: Sunday, March 28, 2021 2:38:00 PM EDT
+Job Number: 140042277
+Documents (7)
+1. LOWER FEES, BETTER TECH?;NEW VOICES ARE VYING FOR SPACE IN THE FOOD-DELIVERY WORLD
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+2. How to erase the digital divide
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+3. CORONAVIRUS IN CALIFORNIA;We don't know the half of it;Did 50% of L.A. residents catch COVID-19? It all depends.
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+4. CITY BEAT;A tail-wagging tale of man and corgi
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+5. In the West, wildfire smoke accounts for more pollution;Air quality declines again after years of steady gains, study finds
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+6. Back to the drawing board, maps
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+
+7. Asian Americans split on affirmative action at UC;Proposition 16 divides university system's most overrepresented group of students.
+Client/Matter: -None-
+Search Terms: "data science"
+Search Type: Natural Language 
+Narrowed by: 
+
+Content Type	Narrowed by
+News	Sources: Los Angeles Times
+ 
+ 
+
+LOWER FEES, BETTER TECH?; NEW VOICES ARE VYING FOR SPACE IN THE FOOD-DELIVERY WORLD
+Los Angeles Times
+March 7, 2021 Sunday
+Final Edition
+
+
+Copyright 2021 Los Angeles Times All Rights Reserved
+Section: FOOD; Food Desk; Part FO; Pg. 1
+Length: 1031 words
+Byline: STEPHANIE BREIJO
+Body
+
+
+Nabeel Alamgir keeps waiting for a cease-and-desist letter. If he gets one, he says, he'll view it as a badge of honor.
+In January, the food-tech entrepreneur launched NotGrubhub.org, a map-based website that points customers to restaurants that take food orders directly. It was designed to bypass Grubhub and third-party food delivery apps and platforms that can legally charge up to 20% in commissions or marketing fees from restaurants in Los Angeles.
+Any restaurant can add itself to the database, which is free to owners and customers and lists more than 120 businesses nationwide.
+"That's just an awareness campaign," says Alamgir, who used to work in food service. His website is one of a number of emerging voices vying for space in the food-delivery world, offering fees that are typically lower than those of major players such as Postmates, Uber Eats and Grubhub.
+The former chief marketing officer of Bareburger said he watched as his chain's profits diminished over the years and realized if a national chain was hurting from app commissions and fees, mom-and-pop restaurants could be too.
+In 2019 Alamgir cofounded Lunchbox, a platform that charges restaurants a monthly flat fee -- as opposed to sales commissions -- that range from $88 to $490, depending on the service package; most clients, he says, pay $200. The platform hosts and designs apps, websites and ordering pages; maintains the virtual end of cloud kitchens; and creates marketing materials such as Instagram ads. Lunchbox also hires the same delivery drivers used by the big third-party platforms at the same cost of roughly $6 per driver per order and makes marketing technology and materials easier for restaurateurs and chefs to use.
+"A very messy system was created because restaurant people are not starting these tech companies -- tech people are," Alamgir says. "Restaurateurs are not tech people; they want to be hospitable and create amazing food, and then we told them, 'You've got to be amazing with tech as well or you're dead. Your business is dead.' "
+The new contenders tend to promise restaurants one of two things to remain competitive with larger, more established platforms: flat-rate fees, like Lunchbox, or commission rates that can hover as low as 2%, as well as marketing capabilities to help restaurants stay visible.
+Grassroots and more locally focused newcomers also can offer hypertailored curation, privacy and a shift from third-party delivery systems entirely.
+The owners of Pasadena-based DiNG -- not to be confused with Ding Menu, a new commission-free restaurant ordering tool -- say they want it to become the Spotify of food platforms by tailoring meal recommendations based on a two-minute quiz.
+Former chef and DiNG cofounder Mike Chen said his background in data science helped inform the company's algorithm, which is based on answers to questions such as, "What looks good for a cold winter night?" (Your options might be fish fillet in chile sauce; braised pork belly; or a soup of salted pork with bamboo shoots.)
+The Asian-cuisine-focused operation also allows menu ordering, but the format is arranged by dishes or even region, as opposed to separate restaurants, creating a sort of editors' pick of noodles, poached chicken, curries, stews and more from a mix of restaurants largely located in the San Gabriel Valley.
+The platform charges a commission of less than 5%. The startup also focuses on user privacy: Hired drivers, also used by third-party apps, pick up food from the restaurants and deliver them to designated DiNG handoff points. From there, the company's own drivers deliver on the last leg of the route to avoid providing home addresses to the major platforms.
+DiNG, spurred by the pandemic and still in its nascency, offers daily service within a limited radius. By the end of 2021, Chen hopes it will provide the same daily service to all of Los Angeles County as well as Ventura and Orange counties.
+Some innovators never intended to enter the delivery business at all. Jared Jue envisioned MAMA as a restaurant-recommendation site, but as the pandemic began to shutter independent restaurants, the founder felt a need to preserve businesses in need -- many of which are underrepresented in media and run by immigrant families.
+With the help of Alice Han, MAMA launched Drive-By Kitchen, which picks up an ever-changing lineup of dishes from multiple restaurants throughout Los Angeles and Orange counties and then delivers them to three pickup locations: the Westside, Koreatown and Alhambra.
+The service is not offered on a daily basis; rather, it is scheduled approximately every other week. Customers must order in advance, almost like an event, and "tickets" are limited.
+Drive-By Kitchen participants are frequently restaurants that can't afford to join the major delivery apps or aren't tech-savvy, and they keep 100% of the profits. MAMA's only charge to customers? A credit card service charge, along with a small fee for team members and gasoline.
+"Businesses were kind of living and dying by the phone waiting for some sort of Doordash or Grubhub or Uber to come through, and I think it was mentally just draining because they weren't getting what they needed," Jue says. "We knew what we wanted to do was focus on placing large orders with the restaurants so that they could have something concrete, in a way."
+The format ensures restaurants don't lose money on food costs, while the "combo-meal" format gives diners a new lineup every time.
+This year Drive-By Kitchen, which Han oversees, also launched a meal-matching program, where every meal sold gets matched by a charitable partner that buys a second meal -- doubling the restaurants' revenues and donating that second portion to those in need, such as seniors in Chinatown.
+"In terms of the big players in the market, we're not trying to compete with them by any means; I think that they're business-first, and our mission is more culturally relevant-first," says Jue. "We're really trying to preserve the dishes, the recipes, the restaurants -- those kinds of things that will actually disappear at the end of this whole thing. Is it sustainable? I hope so. I hope we can change the conversation."
+
+Graphic
+
+ 
+PHOTO: (no caption)  PHOTOGRAPHER:Kay Scanlon For The Times; Getty 
+Classification
+
+
+Language: ENGLISH
+
+
+Publication-Type: Newspaper
+
+
+Subject: ENTREPRENEURSHIP (90%); CEASE & DESIST ORDERS (89%); SALES & SELLING (77%); SMALL BUSINESS (77%); PLATFORMS & ISSUES (76%); POLITICS (50%); RESTAURANTS (%); DELIVERY SERVICES (%); FEES (%); TECHNOLOGY (%)
+
+
+Industry: ON DEMAND SERVICES (90%); RESTAURANT DELIVERY SERVICES (90%); RESTAURANTS (90%); RESTAURANTS & FOOD SERVICE (78%); INFORMATION TECHNOLOGY INDUSTRY (77%); RIDE SHARING SERVICES (76%)
+
+
+Geographic: LOS ANGELES, CA, USA (79%); CALIFORNIA, USA (59%)
+
+
+Load-Date: March 7, 2021
+
+
+End of Document 
+ 
+
+How to erase the digital divide
+Los Angeles Times
+March 1, 2021 Monday
+Final Edition
+
+
+Copyright 2021 Los Angeles Times All Rights Reserved
+Section: MAIN NEWS; Opinion Desk; Part A; Pg. 1
+Length: 870 words
+Byline: Meka Egwuekwe, Meka Egwuekwe is executive director of CodeCrew.
+Body
+
+
+The computer sci-ence industry is filled with talented techies, most of whom are white or Asian. Black professionals make up only 5% of the tech workforce, a segment that increased by only 1 percentage point between 2014 and 2020, according to a recent report. That's unacceptable.
+Much is made of the digital divide, but little has been done to eradicate it.
+Bias in artificial intelligence, its algorithms and its training data are direct byproducts of the divide. These biases are more dangerous than ever because they can impact decision-making on a massive scale and at breakneck speeds, hindering business in all sectors of the economy.
+To help solve this problem, we need to get more underrepresented communities into careers in computing and engineering, especially data sci-ence. More, and different, perspectives can only help lead to better products and services.
+At the same time, we can truly advance a Black and brown middle class, and create generational wealth, boosting economic growth and providing an entire new set of industries and opportunities across the nation.
+It won't be easy to grow such a culture of tech producers in underrepresented communities, but it is absolutely doable.
+The organization I lead, Memphis-based CodeCrew, and others such as the California-based Black Girls Code, are working to build that culture into the heart of Black and brown communities.
+The potential economic impact is significant. Computer science graduates of CodeCrew's adult coding boot camp make an annual average starting salary of more than $51,000. Before their training, they made an average of just $15,000 per year.
+That boost in income can be life-changing, providing a comfortable middle-class life in Memphis and many other parts of the country.
+If we are to truly diversify the tech community we are going to need help -- a lot of it -- from the business and technology communities.
+What could they do?
+Waive the four-year college requirement for entry-level computer science positions at their companies. That is often a barrier for qualified CodeCrew grads.
+Set goals and targets for diversity in workplaces, especially on engineering and leadership teams, and hold themselves publicly accountable by annually publishing how they are doing, as Netflix did recently. In three years, the company doubled the number of Black employees in its workforce and on its leadership team.
+At the same time, companies should take an honest look at barriers in their workplaces that prevent them from retaining diverse talent and then eliminate discriminatory or unwelcoming environments and conditions. That could include establishing equitable pay and promotion opportunities, and initiating zero-tolerance policies for harassment, stereotypes or microaggressions.
+Allow a small percentage of company time for employees to participate in mentoring programs that target underrepresented groups. WorldQuant Predictive's data scientists are working with CodeCrew students to bridge this gap and bring new skills to a diverse workforce. Google encourages employees to explore tech ideas not directly related to their assigned projects, a policy that has been credited with launching Gmail and Google News.
+Why not have that same moonshot mentality with respect to diversity, equity and inclusion goals? Mentoring is a simple but highly effective means to transmit knowledge and skills.
+Set up data science/software engineering offices in more regions where there are disproportionate populations of underrepresented groups -- including such places as Memphis and New Orleans.
+Partner with historically Black colleges and universities, which have been working on these issues for a long time, despite being under-resourced. Then make sure to include these schools, along with diverse coding boot camps, as sources for talent -- and increase financial support for them.
+Lobby the federal government to subsidize or otherwise make broadband internet access affordable in low-income communities, much like food is subsidized. Broadband is no longer a luxury, but a necessity, and should be treated as a utility, like electricity, gas and water.
+Doing these things can create a new environment for data science and AI. But that is just a means to an overall greater outcome, which is building businesses by increasing the number of people of color in technology.
+In doing so, we could become more internationally competitive with a rising China, advancing India, resurging Russia and unified European Union.
+To bridge the digital divide, we need to catch future techies early. Every child should have access to computer science and computational thinking in school.
+CodeCrew is working in Tennessee to help secure passage of legislation that requires every high school in the state to offer computer science classes and provide the necessary funding to train teachers to lead these classes.
+Of the 500 kids CodeCrew works with each week, more than 90% are Black and Latinx youth. The vast majority of our students are more likely to go on to study computer science. With an assist from businesses and tech companies, overdue change like this could happen on a national level -- and businesses would ultimately be the biggest beneficiaries.
+Classification
+
+
+Language: ENGLISH
+
+
+Document-Type: Opinion piece
+
+
+Publication-Type: Newspaper
+
+
+Subject: COMPUTER SCIENCE (90%); DIGITAL DIVIDE (90%); LABOR FORCE (90%); RACE & ETHNICITY (90%); TECHNICIANS & TECHNOLOGICAL WORKERS (90%); ECONOMIC CONDITIONS (78%); EMERGING MARKETS (78%); ECONOMIC GROWTH (77%); WORKPLACE DIVERSITY & INCLUSION (77%); MENTORS & ROLE MODELS (76%); ASSOCIATIONS & ORGANIZATIONS (74%); ECONOMIC STIMULUS (74%); ECONOMICS (74%); MATH & SCIENCE EDUCATION (74%); ARTIFICIAL INTELLIGENCE (71%); STUDENTS & STUDENT LIFE (70%); AVERAGE EARNINGS (69%); WAGES & SALARIES (69%)
+
+
+Company:  NETFLIX INC (51%)
+
+
+Ticker: NFLX (NASDAQ) (51%)
+
+
+Industry: NAICS532282 VIDEO TAPE & DISC RENTAL (51%); SIC7841 VIDEO TAPE RENTAL (51%); COMPUTER SCIENCE (90%); ARTIFICIAL INTELLIGENCE (71%)
+
+
+Geographic: CALIFORNIA, USA (79%)
+
+
+Load-Date: March 1, 2021
+
+
+End of Document 
+ 
+
+CORONAVIRUS IN CALIFORNIA; We don't know the half of it; Did 50% of L.A. residents catch COVID-19? It all depends.
+Los Angeles Times
+March 5, 2021 Friday
+Final Edition
+
+
+Copyright 2021 Los Angeles Times All Rights Reserved
+Section: CALIFORNIA; Metro Desk; Part B; Pg. 1
+Length: 1106 words
+Byline: SANDY BANKS
+Body
+
+
+I've grown accustomed to conflicting views when it comes to the pandemic.
+We can gather in the library, but our kids can't go to school. I can finally get my hair done, but a facial is not allowed. You shouldn't wear a mask, you have to wear a mask, you really should be wearing two masks.
+I understand the inconsistency. This virus is so new that all of us -- from CDC scientists to supermarket cashiers -- are still trying to navigate a steep learning curve.
+And I like to think that nothing surprises me anymore. But then something comes along that shocks me all over again. Last week, it was the news about how many people locally already carry antibodies to the virus.
+According to some estimates, as reported in The Times and elsewhere, as many as half of Los Angeles County's 10 million people have already been infected. And that's even though tests for COVID-19 have confirmed fewer than 1.2 million local infections.
+The prospect of that many millions of uncounted infections seemed mind-boggling to me. How could more than 3 million people slip through our testing apparatus?
+I wanted to know how those numbers were calculated, so I called L.A. County's chief prognosticator, Dr. Roger Lewis. His job is to quantify and model the spread of COVID-19, to help make sure that the county's hospital system is prepared to meet pandemic healthcare needs.
+He is not surprised by the high immunity estimates, but he noted that calculations vary. "I've seen different estimates, from 1 in 4 to more than 50%," he said.
+The county's official immunity estimate is near the middle of that spread, at approximately 3 in 8 people, or 37.5% of county residents. And that does not take into account the almost 2 million people who have received at least one dose of the vaccine.
+Measuring immunity, it turns out, is more sophisticated that just counting positive tests and vaccinations. When the virus first emerged last year, California researchers began "antibody surveillance" -- tests of random people to check for COVID-19 antibodies.
+"They found that the fraction of people with antibodies was much larger than the fraction of people who knew they'd been sick or people who'd tested positive," Dr. Lewis said. Many people with evidence of having been infected had never experienced symptoms of the illness; others may not have had access to tests.
+Projecting that forward suggests there are now millions of uncounted COVID-19 survivors who were never tested, or at least not at a point when they would register as positive.
+That early antibody testing clued researchers in to the phenomenon of asymptomatic infection and surreptitious spread. Further study of virus replication, infection demographics, hospitalizations, deaths and more led them to believe that approximately 40% of COVID-19 carriers will have no symptoms and may not show up in testing statistics.
+That information established a baseline for measuring how many people might be immune -- and, by extension, how many others are still vulnerable to the disease.
+But immunity estimates are also influenced by what assumptions researchers make and what trajectory they expect.
+"If you talk to enough people, you're bound to get a mix of opinions," said Dr. George Rutherford, professor of epidemiology and biostatistics at UC San Francisco. "Some might [estimate] conservatively, and some are more gung-ho," he told me.
+In other words, they all use the same basic formula, but the ingredients and measurements might differ a bit.
+"We know the natural progression of this disease," explained David Conti, a USC professor of preventive medicine and specialist in data science integration. "We can describe that with a mathematical model."
+But in real life "the number of new cases each day bounces around a lot," Conti said. "So as soon as we come up with a model, it's out of date."
+The USC researchers' recent model offers a wide range of estimated cumulative infections, concluding that between 3 million and 5.5 million people in Los Angeles County have likely already been infected by COVID-19.
+That translates to between 30% and 55% of the county's population. It's the higher number -- painting us as a hotbed of infection but also as a region drawing closer to herd immunity -- that has caught people's attention.
+But that doesn't mean that half of the people you know have already been infected with COVID-19.
+"Our model is on the level of the entire L.A. County," where infection rates vary drastically by neighborhood, USC researcher Abigail Horn said. "People want to take a number and make a statement about it. But it really is about the local communities ... and how this [pandemic] has amplified healthcare disparities."
+That is a message we can't afford to forget. The burden of disease is distributed unevenly -- and a 50% immunity rate looks different depending on where you live. It's a worrying reflection of the dismal job we've done protecting working-class families from infection -- or it's an encouraging prospect, because the remaining pool of prospective virus spreaders is smaller than presumed.
+Considering that sort of ambiguous messaging, I couldn't help but wonder how vested we should be in the barrage of statistics that accompanies our journey through COVID-19.
+I put that question to Dr. Rutherford, who specializes in the study of infectious diseases. He thinks a break from tracking the stats may be just what people like me need. "When you're listening to all these statistics and opinions," he said, "people may lose the forest for the trees."
+The "forest," to him, is the rapid creation of effective COVID-19 vaccines, which he sees as "the greatest miracle of modern molecular biology since the discovery of DNA," he says. "That's the overwhelming good news right now ... the culmination of 70 years of [scientific] advances."
+The "trees" are the numbers we're being bombarded with. "There were 64,000 [research] papers published about COVID-19 by the end of October," he said. "There's a lot of information to digest."
+We are not going to find the reassurance we seek in the minutiae of statistics. "A vaccine that is 90% effective, is the same as one that is 85%," Dr. Rutherford said. "You're not being cheated out of that 5%." Yet people are obsessing about which vaccine to get.
+He reminded me that our health rests not on the numbers, but on the precautions we take. We may not know what number equals herd immunity, but we do know how to protect ourselves, the doctor says:
+"Wear a mask, keep your distance from people outside your pod, avoid crowded indoor spaces. Don't go to Costco on a Saturday afternoon. And get vaccinated as soon as your turn comes."
+
+Graphic
+
+ 
+PHOTO: NURSE Marijorie Tabago administers a COVID-19 test on Mercedes Madrano at an Ontario testing site.  PHOTOGRAPHER:Irfan Khan Los Angeles Times PHOTO: NURSE Celeste Montoya, left, inoculates Winnetka resident Ana Vidales Torres as her daughter Talia, 6, gets a close-up look at a mass vaccination site at Valley Crossroads Seventh-day Adventist Church in Pacoima.  PHOTOGRAPHER:Mel Melcon Los Angeles Times PHOTO: DRIVERS remain in their vehicles while being monitored to ensure they suffer no adverse reaction to the COVID-19 vaccine at the Forum in Inglewood in January.  PHOTOGRAPHER:Al Seib Los Angeles Times 
+Classification
+
+
+Language: ENGLISH
+
+
+Document-Type: Column
+
+
+Publication-Type: Newspaper
+
+
+Subject: COVID CORONAVIRUS (91%); COVID-19 CORONAVIRUS (91%); CORONAVIRUSES (90%); EPIDEMICS (90%); INFECTIOUS DISEASE (90%); PANDEMICS (90%); PUBLIC HEALTH (90%); VIRUSES (90%); VACCINES (89%); VACCINATION & IMMUNIZATION (78%); VIROLOGY (78%); COUNTIES (76%); DISEASES & DISORDERS (76%); COUNTY GOVERNMENT (73%); DISASTER PLANNING (73%); HEALTH CARE POLICY (69%)
+
+
+Industry: VACCINES (89%); IMMUNOLOGIC FACTORS (88%); VACCINATION & IMMUNIZATION (78%); VIROLOGY (78%); HEALTH CARE POLICY (69%); HOSPITALS (69%)
+
+
+Geographic: CALIFORNIA, USA (94%)
+
+
+Load-Date: March 5, 2021
+
+
+End of Document 
+ 
+
+CITY BEAT; A tail-wagging tale of man and corgi
+Los Angeles Times
+January 30, 2021 Saturday
+Final Edition
+
+
+Copyright 2021 Los Angeles Times All Rights Reserved
+Section: CALIFORNIA; Metro Desk; Part B; Pg. 1
+Length: 1471 words
+Byline: NITA LELYVELD
+Body
+
+
+Nearly a year ago, I told you about a small act of kindness to a homeless man and his corgi that had grown into something much larger for all those it touched.
+It pulled at a lot of your heartstrings -- in good part, I think, because dog love runs deep, and corgi lovers are particularly ardent.
+I told you about the man and his corgi and the couple who had stepped in to help them early last March, less than two weeks before COVID-19 shut down California.
+And, despite how many more people have found themselves in dire straits in the ensuing crisis, I've never stopped hearing from those eager for the latest on how dog and man were faring.
+I'm glad to say that the update I'm bringing you at long last may offer some respite from the current grim news. It gives me pleasure to say, too, that much of the good I have to share springs directly from the generosity of readers.
+Still, that's really not my reason for telling it. I do so in this time of widespread need to reiterate the central point I set out to make in my first corgi column -- about the enormous potential benefit to both givers and receivers of doing something, however little, to help others.
+But first, a recap.
+The corgi I introduced you to last March had been having a hard time since his person lost his good job, then his home. Over four tough years, man and dog had ended up homeless -- and neither had adjusted easily.
+The corgi's person had a PhD and had worked for years in a highly specialized field with few job openings. He was earning six figures in the job he lost, and when he couldn't find another one, his circumstances steadily worsened until he and his corgi no longer had a place to live. They bounced around, with stops at a group home and a single-room occupancy hotel on skid row in downtown L.A.
+The man started driving for Uber while he tried to teach himself skills for a new line of work. When he no longer could make payments on his car, he rented cars from Uber by the hour -- working longer for less gain, with less time to spend prepping for a new career and less chance of climbing out of his hole.
+And all the while, as he reached out to social-service organizations for short-term emergency housing, many doors remained closed because he had a dog.
+Which is where the initial act of kindness came in.
+Loath to be alone, but desperate, the man wrote a Craigslist post in the fall of 2019 asking for someone to step in and help him by fostering his corgi for a few months. A friend of Ted and Sandy Rogers of Hollywood forwarded the post to them, thinking that helping the dog might also help them as they grieved the loss late that summer of their own beloved corgi, Sienna, due to cancer.
+Ted has diabetes, and Sienna alerted him with licks when his blood sugar dipped low. Sienna had been the center of their lives.
+The foster corgi they took into their home was traumatized from all the instability. Ted and Sandy made it their mission to restore his sense of calm and security.
+Meanwhile, the corgi's person showed up on Sunday afternoons to visit -- and while he and his dog cuddled and played, he gradually opened up and told Ted and Sandy all that he'd been through. He also needed their emotional support, and they gave it to him.
+The corgi's person, I have to stop and say here, continues to feel a good deal of shame for his fall. Even now, after the pandemic has imploded so many other previously secure lives. For that reason, he continues to ask me to maintain his anonymity -- which I do, as I pray that he will stop beating himself up over time.
+When I wrote the first column about him, he was still searching for a job, still separated from his corgi. I asked if anyone could help him find a stable home or a job in data science, the field he was trying to enter. I also said I hoped that soon he and his corgi would be reunited and that Ted and Sandy would find a new dog to love.
+I put those wishes out to the universe, which instantly began delivering.
+Some people sent the corgi's person loving notes, telling him that what had happened to him could happen to any of us. Others donated to a GoFundMe campaign set up to make his life easier. And within hours of the column's appearance, multiple people had written with job leads and offers to help him with housing.
+One of the first came from Mike Kilroy, a real estate investor who offered the corgi and his person -- sight unseen, no strings attached -- a studio apartment in Palm Springs, rent-free for a year. Whenever Ted and Sandy wanted to visit, he said, he'd give them a free place to stay, too -- and the same for me if I wanted to come see how dog and man were doing.
+"It was something I could do, so why not?" Kilroy told me simply when I asked him about it this week. "It's all well and good to talk about solving your problems and moving ahead. But you can't do that without a stable base."
+The warmth of the offer proved irresistible, even if it meant relocation. On March 22, just a few days after California's stay-at-home order kicked in, the man went to get his corgi from Ted and Sandy and take him to their new Palm Springs home.
+Around the same time, he got a job offer in data science. And even though he was told that, because of closures, it would not start until May, he had more than $4,000 in GoFundMe donations to help tide him over until his first paycheck.
+Ted and Sandy, meanwhile, found themselves once again dogless and missing their foster corgi terribly.
+Then Sandy lost the job she'd had for 18 years, doing accounts payable for a suddenly shuttered office. (Any leads, anyone? You've come through before.)
+Their stint at fostering had readied them for a new dog -- and they wanted to rescue a corgi in need. But once the pandemic hit, people everywhere suddenly seemed to want a pet for companionship. When their corgi rescue searches came up empty, they started looking at other breeds and on the websites of corgi breeders.
+Many corgi enthusiasts reached out.
+Ted and Sandy felt like rock stars as their fame spread online through corgi groups. One owner who had read the column recognized Ted, Sandy and the foster corgi at Trader Joe's. Another who works in tech started trying simultaneously to find a job for their foster corgi's person and a corgi for Ted and Sandy.
+Julie, who for privacy reasons asked that I use her first name only, said she's active with a local corgi rescue group that, pre-pandemic, organized frequent social hikes. She'd also researched breeders when looking for her own corgi, Truffle (who has her own Instagram profile), and had learned of one in Wyoming who is the friend of a friend she'd met running overnight relay races.
+One Saturday in July, she saw a newly listed corgi puppy on that Wyoming breeder's site and immediately told Ted and Sandy. They put down a deposit that day.
+And because Ted and Sandy don't drive and feared public transportation because of the coronavirus, Julie and her running friend did a relay of sorts to bring the 3-month-old corgi to them.
+Julie's friend picked the puppy up in Wyoming and drove her to Utah. Julie rented a car and drove from L.A. to Utah to bring the dog to Ted and Sandy. Ted, Sandy and Julie met for the first time in person on delivery -- and realized they were neighbors. Now Ted and Sandy's puppy -- Tazzy, short for Tasmanian Devil -- sometimes meets Truffle for neighborhood play dates.
+I met Tazzy the other day. She smooched me, as she smooches everyone she meets, person and dog alike. She zooms around Ted and Sandy's apartment, causes havoc, destroys toys and delivers endless joy. Ted and Sandy are thoroughly smitten, even though she likes to pull Sandy's hair.
+As for dog and man in Palm Springs, the corgi's person sent me a selfie he took when they moved back in together that could serve as a visual definition of love. It hasn't all been easy. He initially felt lonely in a new city in a pandemic. His first job didn't last because he failed to get security clearance within six months -- likely due to the many moves in his recent history.
+But then a friend in his old field asked him for a job reference -- and he asked her if she'd return the favor for the job she was leaving. He got that job. He's now back to six figures. He credits his rent-free year with giving him the grounding to be capable of leaping at the chance when offered. He, Ted and Sandy text back and forth every day. He paid the expenses for Tazzy's travels from Wyoming to Hollywood. He credits Ted and Sandy with rescuing him just as much as they rescued his corgi.
+And he credits every single person who offered up words of encouragement, donations, positive thoughts, advice and assistance with playing a part in his comeback. He said he wished I could name every name.
+Alas, I can't -- I can't even name his -- but I offer my thanks to all who helped him in so many ways.
+
+Graphic
+
+ 
+PHOTO: TED AND SANDY ROGERS walk their new corgi, Tazzy, in Hollywood. The couple had previously lost their 13-year-old corgi and fostered one for a man who was jobless and homeless but has gotten back on his feet.  PHOTOGRAPHER:Wally Skalij Los Angeles Times 
+Classification
+
+
+Language: ENGLISH
+
+
+Document-Type: Column
+
+
+Publication-Type: Newspaper
+
+
+Subject: HOMELESSNESS (89%); DOGS (78%); NEW PRODUCTS (73%); COVID CORONAVIRUS (70%); EMERGENCY SHELTERS (69%); EMPLOYMENT OPENINGS (64%); ASSOCIATIONS & ORGANIZATIONS (61%); COVID-19 CORONAVIRUS (55%)
+
+
+Company:  CRAIGSLIST INC (50%)
+
+
+Industry: SIC7375 INFORMATION RETRIEVAL SERVICES (50%); ON DEMAND SERVICES (89%); NEW PRODUCTS (73%); HOTELS & MOTELS (60%)
+
+
+Geographic: LOS ANGELES, CA, USA (74%); CALIFORNIA, USA (74%)
+
+
+Load-Date: January 30, 2021
+
+
+End of Document 
+ 
+
+In the West, wildfire smoke accounts for more pollution; Air quality declines again after years of steady gains, study finds
+Los Angeles Times
+January 15, 2021 Friday
+Final Edition
+
+
+Copyright 2021 Los Angeles Times All Rights Reserved
+Section: CALIFORNIA; Metro Desk; Part B; Pg. 1
+Length: 1047 words
+Byline: Tony Barboza
+Body
+
+
+Wildfire smoke now accounts for up to half of all fine-particle pollution in the Western U.S., according to a new study that blames climate change for worsening air quality and health risks in both urban and rural communities in recent years.
+The study by researchers at Stanford University and UC San Diego found that the concentration of tiny, lung-damaging pollutants known as PM2.5 that are attributable to wildfire smoke roughly doubled between 2006 and 2018, while the share of pollution from other sources like car and truck exhaust declined.
+The trend is most pronounced in Western states and highlights the rapidly growing health threat of wildfire smoke. This became shockingly apparent to millions during last year's record-breaking firestorm, which enveloped much of the West Coast in an unhealthy pall for weeks.
+Levels of PM2.5 had been steadily improving over the last two decades in which they have been routinely monitored, as a result of regulations that have cut emissions from vehicles and power plants. But those gains started to slow, then reverse, over the last decade or so, according to the study.
+"The overall picture is of a stalled and reversed improvement, which is a result of other sources getting cleaner and wildfires getting a lot worse," said Marshall Burke, a professor of Earth system science at Stanford University and lead author of the study published in the Proceedings of the National Academy of Sciences.
+The two major factors driving the increase in wildfire smoke are the warming climate and decades of fire suppression that have allowed fuels to build up, according to researchers.
+They made their estimates by developing a statistical model using fire and smoke data from satellites and readings from ground-based air quality monitoring stations.
+Nationwide, wildfires are now responsible for up to 25% of fine-particle pollution, the study found.
+"We know wildfires generate smoke. We know smoke is bad for health. But we really didn't have a comprehensive national picture for how much wildfires are contributing to poor air quality," Burke said.
+Francesca Dominici, a professor of biostatistics at Harvard's T.H. Chan School of Public Health who was not involved in the research, called it "an excellent study that relies on sophisticated data science approaches" and "provides strong evidence that wildfires are an increasing threat to human health."
+Dominici said its findings are concerning, "especially at the time where the U.S. EPA has recommended to retain the current standards for PM2.5 pollution and as we are fighting COVID-19 that is attacking our lungs."
+"I hope that reducing the risk of climate change- related disasters, such as wildfires, will be a priority for the new administration," she added.
+For decades, motor vehicles and industrial emissions have been responsible for most of the West's PM2.5, though at least some of that type of pollution has always come from fires. Previous studies have predicted that greenhouse gas emissions will dramatically increase wildfire smoke in the in the Western U.S. in the coming years as temperatures rise and dry the landscape.
+In the latest study, Stanford and UC San Diego researchers predicted dramatic health impacts if nothing is done to slow climate change by slashing emissions and better managing forests. Within decades, they found, exposure to wildfire smoke alone could increase dramatically to the point of being one of the deadliest climate impacts.
+The study projects an additional nine to 20 smoke-related deaths per 100,000 people by midcentury if emissions continue at their current pace, which is close to the roughly 24 additional deaths per 100,0000 people predicted directly from rising heat -- the deadliest effect of climate change on people.
+"Wildfires are going to be the way that many of us experience climate change, as important as these direct heat impacts," Burke said. "These changes in wildfire risk are the combination of two main things we have done: a century of wildfire suppression and climate change. None of these future estimates are an inevitability. They are a choice."
+The analysis also found that while people of color continue to be exposed to higher levels of total PM2.5 -- as has long been the case -- higher-income counties with a higher proportion of white people are on average more exposed to higher levels of PM2.5 from wildfire smoke.
+Researchers acknowledge that measuring outdoor pollution does not necessarily correspond to people's actual exposure because it does not factor in how much time they spend outdoors or the age and quality of their home.
+Past research shows that more outdoor pollutants seep into "older, smaller homes and for lower-income households and these differences could lead to disparities in overall individual exposure even if ambient exposures are not different," according to the study.
+Scientists suspect the 2020 wildfires inflicted widespread health damage by fouling the air of nearly 96 percent of Californians with smoke levels exceeding federal standards, according to the state Air Resources Board. The weeks-long siege of smoky air generated both the highest readings and most widespread unhealthy levels of fine-particle pollution since continuous monitoring began in the late 1990s.
+Of greatest concern are the microscopic particles in smoke that can be inhaled deep into the lungs and enter the bloodstream. Not only do those pollutants irritate the eyes, nose and throat, tighten the chest and cause difficulty breathing, they can trigger asthma attacks, strokes and heart attacks. Wildfire smoke poses serious risks to young children and the elderly, and people with chronic health conditions such as asthma, lung disease and heart disease face increased risk of hospitalization and death.
+Scientists know from decades of research that breathing the fine-particle pollution in urban smog can lead to long-lasting health problems.
+Though less is known about the long-term damage from the fine-particle pollution in wildfire smoke, early research suggests it impairs people's lungs long after the smoke clears. An ongoing health study in Montana reported last year that people in a community that was blanketed with wildfire smoke for 49 days in 2017 still had decreased lung function two years later.
+
+Graphic
+
+ 
+PHOTO: A WATER TRUCK operator is overcome with smoke during the Silverado fire on Oct. 26 in Irvine. A new study blames climate change for worsening health risks.  PHOTOGRAPHER:Allen J. Schaben Los Angeles Times PHOTO: MILL VALLEY RESIDENTS Patrick Kenefick, left and Dana Williams record video of San Francisco's Golden Gate Bridge on Sept. 9. Last year's wildfires covered the West Coast in an unhealthy pall for weeks.  PHOTOGRAPHER:Eric Risberg Associated Press PHOTO: FIREFIGHTER Ricardo Gomez works on the Creek fire Sept. 6 along Highway 168 in Shaver Lake, Calif.,  PHOTOGRAPHER:Kent Nishimura Los Angeles Times 
+Classification
+
+
+Language: ENGLISH
+
+
+Publication-Type: Newspaper
+
+
+Subject: POLLUTION & ENVIRONMENTAL IMPACTS (94%); RESEARCH REPORTS (93%); FIRES (91%); PARTICULATE MATTER (91%); AIR POLLUTION (90%); AIR QUALITY (90%); AIR QUALITY REGULATION (90%); MEDICINE & HEALTH (90%); WILDFIRES (90%); CLIMATE CHANGE (89%); CLIMATOLOGY (89%); EMISSIONS (89%); VEHICLE EMISSIONS (89%); SEVERE WEATHER (79%); AIR QUALITY MONITORING (78%); EARTH & ATMOSPHERIC SCIENCE (78%); ENVIRONMENTAL DEPARTMENTS (78%); ENVIRONMENTAL LAW (78%); ENVIRONMENTAL TESTING (78%); GLOBAL WARMING (78%); POLLUTION MONITORING (78%); TRENDS (78%); COLLEGE & UNIVERSITY PROFESSORS (77%); COLLEGES & UNIVERSITIES (77%); AIR QUALITY INSTRUMENTS (73%); INDUSTRY & ENVIRONMENT (73%); INFECTIOUS DISEASE (73%); PUBLIC HEALTH (70%); WRITERS (65%); STATISTICAL METHOD (63%); RURAL COMMUNITIES (57%); COVID CORONAVIRUS (50%); COVID-19 CORONAVIRUS (50%); WESTERN UNITED STATES (%); BRUSH FIRES (%); SMOKE (%); AIR POLLUTION (%); HEALTH HAZARDS (%); RESEARCH (%)
+
+
+Organization: STANFORD UNIVERSITY (84%)
+
+
+Industry: EMISSIONS (89%); VEHICLE EMISSIONS (89%); ENERGY & UTILITIES (78%); GLOBAL WARMING (78%); COLLEGE & UNIVERSITY PROFESSORS (77%); COLLEGES & UNIVERSITIES (77%); AIR QUALITY INSTRUMENTS (73%); ELECTRIC POWER PLANTS (67%); WRITERS (65%)
+
+
+Geographic: SAN DIEGO, CA, USA (79%); CALIFORNIA, USA (79%); UNITED STATES (92%)
+
+
+Load-Date: January 15, 2021
+
+
+End of Document 
+ 
+
+Back to the drawing board, maps
+Los Angeles Times
+November 13, 2020 Friday
+Final Edition
+
+
+Copyright 2020 Los Angeles Times All Rights Reserved
+Section: CALENDAR; Entertainment Desk; Part E; Pg. 1
+Length: 831 words
+Byline: Carolina A. Miranda
+Body
+
+
+To survive a presidential election is to have the U.S. electoral map branded into our skulls. These cartographic depictions take our vast United States and reduce every nuance of politics down to a dichotomy of blue and red -- no texture permitted.
+President Trump may have won Texas with nearly 5.9 million votes (as of Thursday afternoon), but former Vice President Joe Biden still raked in more than 5.2 million votes in the state. This reality is not reflected in the electoral maps blanketing every news website -- leaving one to think that everybody in Texas is a Republican. (The vote tally indicates that more than 5 million people would beg to disagree.)
+And what about blue-blue California, where the map overlooks the nearly 5.5 million people who voted for Trump? Or Nebraska, which actually splits its electoral votes? Biden won one of the five electoral votes in that state, yet Nebraska is nonetheless shown on most electoral maps as a sea of red -- which is not just a distortion, it's patently incorrect. (Kudos to MSNBC's exuberant Steve Kornacki for showing Nebraska marked by blue and red stripes.)
+In addition, the electoral map as we know it distorts the size of the different voting populations. The state of my birth, Wyoming, is the 10th largest U.S. state by area, but with a population of only 579,000 people, it has only three electoral votes. Yet its broad swath of redness plays an outsize role in our electoral maps. New Jersey, by contrast, with 9 million people and 14 electoral votes, takes up far less room.
+Naturally, this design reflects the design of our electoral system, in which the votes for president are tabulated by state in a winner-takes-all fashion -- part of the electoral college system (which, frankly, has no place in a 21st century democracy). But as these maps continue to be widely employed by media across the political spectrum, they systematically reinforce the idea that the U.S. is either Red Territory or Blue Territory without overlap or exception. And that is wrong.
+In response, designers have been trying to find better, more nuanced ways to visualize election data -- such as the unusual honeycomb-patterned map, created by the politics site FiveThirtyEight, which shows electoral college votes from the 2016 election to scale. Likewise, Greg Albers, an L.A.-based digital publisher who writes about issues of digital literacy, created an experimental map that shows the U.S. in gradients of purple.
+During this election, France's Le Monde has experimented with more proportional graphics, showing the number of electoral votes for each state laid over a geographical map -- so Wyoming is marked by three red blocks, while New Jersey gets 14 blue ones. And the New York Times has also been experimenting with map design on its election site, including a Blokus-style electoral votes map, but the page opens with a traditional electoral map and you have to click through to find the alternates.
+Last week, a series of GIF maps created by Karim Douieb, co-founder of Jetpack.AI, a data science company based in Brussels, went viral for showing different ways in which election data might be displayed in map form. His designs, first released in 2019, visualize election returns in ways that give more texture to where and how Americans are voting.
+As he notes in an online presentation: "Acres don't vote, people do."
+Douieb says he was inspired to create his maps after seeing a tweet posted last year by Lara Trump (a former TV producer who is married to Eric Trump) that showed a traditional county-by-county map along with the inscription, "Try to impeach this."
+"I took that as a challenge," he tells me via email. "The picture she was showing was plain wrong given the context. By that I mean that it is an accurate map (displaying what party won each county) but used in a misleading way."
+While designing better maps won't fix the fractures in our electoral system, they can help tell a better story about who we are and the spaces that we share.
+"I believe traditional electoral maps are not bad as such," Douieb says, "but they are often used in a misleading way as they advantage geographical accuracy over electoral importance. ... [And] they don't represent how the people voted nor are they a good representation of how the electoral system works."
+Our country is more complicated than blue and red. To illustrate that, I'd like to go back to Wyoming -- specifically, Casper, the town where I was born. In 2017, Marcus Patrick Ellsworth reported this very wonderful story about the LGBTQ community in Casper for MTV News.
+"There is a tendency among certain swaths of liberals and leftists to disregard entire states like Wyoming," he wrote, "places where the populace tends to vote Republican and pass regressive laws."
+But look beyond the red, he adds, and you'll find that "places like Casper, homes of fearless resistance waged out of necessity, shine bright with hope when seen up close."
+We need maps that speak to that.
+
+Graphic
+
+ 
+PHOTO: AN ELECTORAL map by Karim Douieb shows voting by population, bottom, rather than by geography. Instead of vast swaths of red or blue, the map reveals the mixed nature of voting patterns  PHOTOGRAPHER:Jetpack.AI PHOTO: AN ELECTORAL map by Karim Douieb shows voting by population, bottom, rather than by geography. Instead of vast swaths of red or blue, the map reveals the mixed nature of voting patterns.  PHOTOGRAPHER:Jetpack.AI 
+Classification
+
+
+Language: ENGLISH
+
+
+Publication-Type: Newspaper
+
+
+Subject: CAMPAIGNS & ELECTIONS (90%); ELECTIONS (90%); ELECTORAL DISTRICTS (90%); HEADS OF GOVERNMENT ELECTIONS (90%); POLITICS (90%); US PRESIDENTIAL CANDIDATES 2008 (90%); US PRESIDENTIAL CANDIDATES 2012 (90%); US PRESIDENTIAL CANDIDATES 2020 (90%); US PRESIDENTIAL ELECTIONS (90%); VOTERS & VOTING (90%); GEOGRAPHY (89%); DEMOCRACIES (78%); TYPES OF GOVERNMENT (78%); US PRESIDENTIAL CANDIDATES 2016 (78%); US REPUBLICAN PARTY (73%); DEMOGRAPHIC GROUPS (65%); MAPS (%); VOTING (%); ELECTIONS (%); POLITICS (%)
+
+
+Industry: DATA VISUALIZATION (73%)
+
+
+Person: DONALD TRUMP (79%); JOE BIDEN (79%)
+
+
+Geographic: LOS ANGELES, CA, USA (79%); NEBRASKA, USA (93%); CALIFORNIA, USA (92%); UNITED STATES (94%); FRANCE (79%)
+
+
+Load-Date: November 13, 2020
+
+
+End of Document 
+ 
+
+Asian Americans split on affirmative action at UC; Proposition 16 divides university system's most overrepresented group of students.
+Los Angeles Times
+November 1, 2020 Sunday
+Final Edition
+
+
+Copyright 2020 Los Angeles Times All Rights Reserved
+Section: CALIFORNIA; Metro Desk; Part B; Pg. 1
+Length: 1641 words
+Byline: Teresa Watanabe, Jennifer Lu
+Body
+
+
+Angela Li and Vivrd Prasanna have achieved the pinnacle of a public university education -- she a senior at UCLA, he a freshman at UC Berkeley. Both are children of immigrants, with Li's parents from China and Prasanna's from India.
+They share values of hard work and high expectations. Li checked out school textbooks during the summer to get a head start on fall classes and in high school took test prep courses with money her working-class parents saved by giving up family vacations. Prasanna took college classes in data science as a high school student.
+But when it comes to Proposition 16, the Tuesday ballot measure that would once again allow affirmative action in public education, contracting and hiring, the two UC students and their families sharply diverge.
+Li supports the measure as a way to expand diversity in education -- but her parents oppose it, suspicious that it will limit the enrollment of Asian Americans. Prasanna opposes it as the wrong way to deal with root causes of educational inequity, while his parents are torn over their twin desires to stand for civil rights and to ensure equal opportunity for their community.
+Their diverse views reflect the complexity of the affirmative action issue among Asian Americans, who represent more than 50 ethnic subgroups with varying politics, histories in the United States and levels of income, education and English language ability. Those differences play out in their views of Proposition 16 and concerns about their place at the University of California.
+Asian Americans predominate at UC and are significantly overrepresented -- making up 40.3% of in-state freshmen last year compared with their 19.9% share among California high school graduates eligible for UC admission. By comparison, Latinos made up 31.5% of UC freshmen and 44.7% of that qualified pool; whites were 20.6% at UC and 27% of eligible students and Black freshmen were 4.5% at UC and 4.2% of those who met systemwide admission standards.
+As a result, some Asian Americans are nervous that they would be squeezed out to make room for others if Proposition 16 passes and allows preferential admissions on the basis of race, ethnicity and sex.
+Even back during the 1980s, when affirmative action was legal in California, Asian Americans were overrepresented at UCLA and UC Berkeley and fought admission policies they believed sought to limit their enrollment at those campuses.
+After Proposition 209 banned race-based preferential treatment, the gap between their high admission rates and those of other ethnic groups widened with their rigorous high school course loads, high GPAs and competitive test scores.
+It's not clear what would happen if affirmative action were restored. UC regents support restoring affirmative action, saying it's needed to fully diversify campuses but recently voted to ban quotas, which the U.S. Supreme Court already has nixed. Board Chairman John A. Perez has said that race would become one of more than a dozen factors currently evaluated in applications.
+At UC Berkeley, Chancellor Carol Christ has said she favors expanding capacity to make more room for everyone.
+UCLA Vice Provost for Enrollment Management Youlonda Copeland-Morgan told The Times last week that she didn't know if Asian American enrollment would decline at UCLA but that the campus would continue to focus on outreach to those from less represented communities, such as Hmong, Laotian, Vietnamese and Philippine students.
+Last year, UCLA offered freshman seats to eight California Hmong students compared with 1,241 Chinese Americans, who were the single largest racial or ethnic group admitted after Mexican Americans and whites, according to UC data.
+Some Asian Americans try to divine the future by looking to private California colleges, which were not bound by Proposition 209's ban on affirmative action at public campuses. They are not encouraged: the top privates enroll smaller proportions of Asian American undergraduates than the 33.5% at UC campuses, including 23% at Stanford University, 21% at USC and 16.3% at Pomona College.
+But experts say the impact of Proposition 16 will probably vary among Asian American subgroups.
+"You can't paint Asian Americans with a broad brush," said Karthick Ramakrishnan, a UC Riverside professor of public policy and political science who founded AAPIData.com, which publishes demographic data and policy research on Asian Americans and Pacific Islanders. "Some will benefit and others stand to lose."
+Overall, more Asian Americans support Proposition 16 than oppose it -- 35% vs. 21% with most of the rest undecided, according to a September survey of Asian American voters in California by AAPI Data and two other Asian American and Pacific Islander organizations.
+But intriguing differences emerged in the survey.
+Ethnic Chinese -- who make up a maximum of 38% of Asian American students admitted by UC, by far the largest subgroup -- opposed the measure, 37% to 30%. Among ethnic Philippine, Vietnamese, Japanese and Korean voters, support was greater than opposition but topped out at 38% with large numbers undecided at the time.
+Voters of Indian descent were by far the most supportive of the affirmative action ballot measure, 58% vs. 17%. The strong support among Indian Americans is all the more striking because their share among Asian American California freshmen has surged from 7.8% in 1996 to 17.4% in 2019.
+Indian Americans had one of the highest admission rates among their California ethnic Asian peers last fall, about 79%. And South Asians, who include those of Indian, Pakistani, Bangladeshi and Sri Lankan descent, made up the second-largest Asian American subgroup after ethnic Chinese.
+If any subgroup loses out under Proposition 16, Ramakrishnan said, it would probably be ethnic Chinese and Indian students because of their size. Nonetheless, many Indian Americans support Proposition 16 -- and other progressive political causes -- that reflect both homeland and domestic realities, he said. Their families have adapted to affirmative action in India, which is used to grant preferential access to many colleges in India based on caste, and are sensitive to race-based bias and discrimination as a darker-skinned minority in the United States, Ramakrishnan said.
+Aidan Arasasingham, a South Asian high achiever and the son of Sri Lankan immigrants, is a UCLA senior in global studies and president of the UC Student Assn. He supports Proposition 16, as do the UC Student Assn. and most of the UCLA Asian Pacific Coalition's 19 member groups. Arasasingham said all students, Asian Americans included, will be enriched by a more diverse campus -- a point affirmed by research.
+One synthesis of more than 500 studies found that greater cross-racial interaction is associated with lower levels of prejudice; other researchers have found that diversity spurs growth in cognitive skills, academic engagement and innovative problem solving, according to an October analysis by William C. Kidder for the Civil Rights Project at UCLA.
+"Students ... across campuses really strongly believe that diversity is an essential part of our experience," Arasasingham said. "When we graduate, we're going to be in a world where we're engaging and interacting with communities that don't look like our own and it's setting us up for failure if we don't have an understanding of them."
+Some Asian Americans, however, say their personal experiences have soured them on affirmative action.
+Ling Kong, a Silicon Valley design engineer and mother of two school-age children, said her ethnic Chinese family faced bias in their native Malaysia because preferential college access is given to Malays and Indians. Her failure to get into local colleges there led her to study electrical engineering at Iowa and Arizona state universities.
+"I don't want my kids to be treated differently on the basis of race," she said.
+Kong, who describes herself as a liberal Democrat supportive of diversity and inclusion, said she opposes Proposition 16 because she doesn't believe it will solve educational inequity. Her experience on the Milpitas Unified School District's community advisory board and her children's school site council has shown her that affordable preschools and quality K-12 schools with adequate funding in all neighborhoods are needed, she said.
+"Prop. 16 doesn't address any of this," she said. "It's just a quick fix and it won't really help close the achievement gap or solve systemic inequity."
+For state Assemblyman Al Muratsuchi (D-Rolling Hills Estates), the debate sparks a sense of deja vu. As a UC Berkeley student in the 1980s, he joined protests over changes in campus admission policies, such as increasing the weight of verbal over math skills, that were seen by many Asian Americans as efforts to limit their surging enrollment.
+Reviews of such allegations at Berkeley and UCLA by faculty, state and federal authorities generally found that some admission policies had hurt Asian Americans but were not intentionally discriminatory.
+Muratsuchi supports Proposition 16 but says he will watch to make sure that a de facto ceiling is not placed on Asian American enrollment if it passes.
+In what is supposed to be a race-blind environment today, he said, UC data suggest different standards are used for Asian Americans, who were admitted into the fall 2020 California freshman class with SAT scores up to 310 points higher than those for underrepresented minority students and up to 80 points higher than those for whites. UC, however, is eliminating the use of standardized test scores in admissions decisions.
+"While I support the concept of affirmative action, we need to make sure there is transparency and accountability in how it is implemented so this complicated racial balancing act doesn't result in discriminating against any racial groups," he said.
+
+Graphic
+
+ 
+PHOTO: AMY HO, a student at UCLA, supports Proposition 16. More Asian Americans support the measure than oppose it, but significant numbers are undecided.  PHOTOGRAPHER:Carolyn Cole Los Angeles Times PHOTO: ASIAN AMERICAN students rally last month on the UCLA campus in support of Proposition 16, which would repeal the statewide ban on affirmative action.  PHOTOGRAPHER:Carolyn Cole Los Angeles Times 
+Classification
+
+
+Language: ENGLISH
+
+
+Publication-Type: Newspaper
+
+
+Subject: ASIAN AMERICANS (91%); AFFIRMATIVE ACTION (90%); AFFIRMATIVE ACTION IN EDUCATION (90%); AFFIRMATIVE ACTION IN EMPLOYMENT (90%); CHILDREN (90%); HIGH SCHOOLS (90%); PUBLIC SCHOOLS (90%); STUDENTS & STUDENT LIFE (90%); ETHNIC GROUPS (89%); RACE & ETHNICITY (89%); ACADEMIC ADMISSIONS (78%); CIVIL RIGHTS (78%); COLLEGE & UNIVERSITY ADMISSIONS (78%); COLLEGES & UNIVERSITIES (78%); DEMOGRAPHIC GROUPS (78%); EDUCATION SYSTEMS & INSTITUTIONS (78%); ELECTIONS (78%); GRADES & GRADING (78%); REFERENDUMS (78%); FAMILY (77%); RACIAL DISCRIMINATION IN EMPLOYMENT (74%); BALLOTS (73%); TEXTBOOKS (73%); SECONDARY SCHOOLS (72%); SUPREME COURTS (50%); ASIAN AMERICANS (%); UNIVERSITY OF CALIFORNIA (%); PROPOSITION 16 (AFFIRMATIVE ACTION) (%); ELECTIONS (2020) (%)
+
+
+Organization: UNIVERSITY OF CALIFORNIA (LOS ANGELES) (93%); UNIVERSITY OF CALIFORNIA (82%)
+
+
+Industry: HIGH SCHOOLS (90%); PUBLIC SCHOOLS (90%); COLLEGE & UNIVERSITY ADMISSIONS (78%); COLLEGES & UNIVERSITIES (78%); EDUCATION SYSTEMS & INSTITUTIONS (78%); SECONDARY SCHOOLS (72%)
+
+
+Geographic: CALIFORNIA, USA (94%); UNITED STATES (95%); CHINA (79%); INDIA (79%)
+
+
+Load-Date: November 1, 2020
+
+
+End of Document
+
