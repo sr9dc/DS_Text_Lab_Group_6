@@ -97,3 +97,101 @@ View(st_louis_dispatch_sentiment_afinn)
 
 View(chicago_daily_herald_sentiment_nrc)
 ```
+
+
+
+```{r}
+#We can just do some tabling to see the differences in bing and nrc, seems like Kennedy's speech at least first glanced was much more balanced in terms of negative/positive sentiment
+table(chicago_daily_herald_sentiment_bing$sentiment)
+table(st_louis_dispatch_sentiment_bing$sentiment)
+
+table(chicago_daily_herald_sentiment_nrc$sentiment)
+table(st_louis_dispatch_sentiment_nrc$sentiment)
+
+
+ggplot(data = chicago_daily_herald_sentiment_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("Chicago Daily Herald Sentiment Range")+
+  theme_minimal()
+
+View(st_louis_dispatch_sentiment_affin)
+
+ggplot(data = st_louis_dispatch_sentiment_affin, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("St. Louis Post-Dispatch (Missouri) Sentiment Range")+
+  theme_minimal()
+
+#Again they look very different, which leads to all kinds of interesting questions around the current state of affairs at the time these speeches were given and enforces the idea that text needs to be analyzed in the context of when it was written.....Hermeneutics! I would reference this debate between Nixon and Kennedy to get a basic idea of the events being confronted at this time. 
+
+#https://www.jfklibrary.org/asset-viewer/archives/TNC/TNC-172/TNC-172
+
+#Could also do simple word clouds as we see, Trump is much more focused on the US whereas Kennedy references the "World" at a higher rate. 
+
+#below uses the ggwordcloud package
+
+set.seed(42)
+ggplot(chicago_daily_herald_data[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+
+ggplot(st_louis_dispatch_data[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+
+```
+
+
+
+term frequency - inverse document frequency tf-idf. Here we are going to treat
+each of our speeches as a document in a corpus and explore the relative 
+importance of words to these speeches as compared to the overall corpus. 
+```{r}
+#need to the raw data again
+
+
+chicago_daily_herald_data <- read_lines("Chicago_Daily_Herald_(100).txt")
+st_louis_dispatch_data <- read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt")
+
+chicago_daily_herald_data_raw <- as.tibble(read_lines("Chicago_Daily_Herald_(100).txt"))
+st_louis_dispatch_data_raw <- as.tibble(read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt"))
+
+data_prep <- function(x,y,z){
+  i <- as_tibble(t(x))
+  ii <- unite(i,"text",y:z,remove = TRUE,sep = "")
+}
+
+chicago_daily_herald_data_bag <- data_prep(chicago_daily_herald_data_raw,'V1','V425')
+st_louis_dispatch_data_bag <- data_prep(st_louis_dispatch_data_raw,'V1','V149')
+
+midwest_newspapers <- c("Chicago Daily Herald", "St. Louis Post-Dispatch (Missouri)")
+
+
+tf_idf_text <- tibble(midwest_newspapers,text=t(tibble(kennedy_inag_bag,chicago_daily_herald_data_bag,st_louis_dispatch_data_bag,.name_repair = "universal")))
+
+class(tf_idf_text)
+
+word_count <- tf_idf_text %>%
+  unnest_tokens(word, text) %>%
+  count(midwest_newspapers, word, sort = TRUE)
+
+
+total_words <- word_count %>% 
+  group_by(midwest_newspapers) %>% 
+  summarize(total = sum(n))
+
+inag_words <- left_join(word_count, total_words)
+
+View(inag_words)
+
+inag_words <- inag_words %>%
+  bind_tf_idf(word, midwest_newspapers, n)
+View(inag_words)
+
+```
+

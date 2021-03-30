@@ -323,7 +323,7 @@ View(inag_words)
 
 inag_words <- inag_words %>%
   bind_tf_idf(word, president, n)
-
+View(inag_words)
 
 ```
 
