@@ -1,0 +1,99 @@
+---
+title: "Text_Lab"
+author: "Sai Rajuladevi"
+date: "3/24/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Chose Midwest- Illinois or Indiana or Iowa or Kansas or Michigan or Minnesota or Missouri or Nebraska or North Dakota or Ohio or Wisconsin
+
+(1) Chicago Daily Herald
+(2) St. Louis Post-Dispatch (Missouri)
+
+
+```{r}
+library(tidyverse)
+#install.packages("tidytext")
+library(tidytext)
+#install.packages("ggwordcloud")
+library(ggwordcloud)
+#install.packages("gutenbergr") 
+library(gutenbergr)
+#install.packages('textdata')
+library(textdata)
+#setwd("/cloud/project/tidytext")
+save.image("tidytext.RData")
+```
+
+```{r}
+chicago_daily_herald_data <- read_lines("Chicago_Daily_Herald_(100).txt")
+st_louis_dispatch_data <- read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt")
+
+chicago_daily_herald_data <- tibble(chicago_daily_herald_data)
+st_louis_dispatch_data <- tibble(st_louis_dispatch_data)
+
+View(chicago_daily_herald_data)
+View(st_louis_dispatch_data)
+
+chicago_daily_herald_data$chicago_daily_herald_data <- as.character(chicago_daily_herald_data$chicago_daily_herald_data)
+
+st_louis_dispatch_data$st_louis_dispatch_data <- as.character(st_louis_dispatch_data$st_louis_dispatch_data)
+
+chicago_daily_herald_data <- chicago_daily_herald_data %>%
+  unnest_tokens(word, chicago_daily_herald_data)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+st_louis_dispatch_data <- st_louis_dispatch_data %>%
+  unnest_tokens(word, st_louis_dispatch_data)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+View(chicago_daily_herald_data)
+View(st_louis_dispatch_data)
+```
+
+
+Ok, now that we have our word frequencies let's do some analysis. We will compare the three speeches using sentiment analysis to see if the generally align or not. 
+
+```{r}
+#helps with the sentiment analysis, using package "textdata"
+
+get_sentiments('afinn')# we see a list of words and there classification, 2,467 - not really that many overall. 
+
+get_sentiments('nrc')# looks like a good amount more 13,891, but as we can see words are classified in several different categories. 
+
+get_sentiments('bing')# looks like a good amount more 6,776, but as we can see just negative and positive. 
+
+chicago_daily_herald_sentiment_afinn <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+
+chicago_daily_herald_sentiment_nrc <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("nrc"))
+
+chicago_daily_herald_sentiment_bing <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("bing"))
+
+View(chicago_daily_herald_sentiment_bing)
+
+#Walk through the same process for Trump 
+
+st_louis_dispatch_sentiment_afinn <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("afinn"))
+  
+st_louis_dispatch_sentiment_nrc <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("nrc"))
+
+st_louis_dispatch_sentiment_bing <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("bing"))
+
+View(st_louis_dispatch_sentiment_afinn)
+
+
+View(chicago_daily_herald_sentiment_nrc)
+```
