@@ -116,9 +116,9 @@ ggplot(data = chicago_daily_herald_sentiment_afinn,
   ggtitle("Chicago Daily Herald Sentiment Range")+
   theme_minimal()
 
-View(st_louis_dispatch_sentiment_affin)
+View(st_louis_dispatch_sentiment_afinn)
 
-ggplot(data = st_louis_dispatch_sentiment_affin, 
+ggplot(data = st_louis_dispatch_sentiment_afinn, 
        aes(x=value)
         )+
   geom_histogram()+
@@ -152,27 +152,26 @@ term frequency - inverse document frequency tf-idf. Here we are going to treat
 each of our speeches as a document in a corpus and explore the relative 
 importance of words to these speeches as compared to the overall corpus. 
 ```{r}
-#need to the raw data again
-
-
-chicago_daily_herald_data <- read_lines("Chicago_Daily_Herald_(100).txt")
-st_louis_dispatch_data <- read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt")
 
 chicago_daily_herald_data_raw <- as.tibble(read_lines("Chicago_Daily_Herald_(100).txt"))
 st_louis_dispatch_data_raw <- as.tibble(read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt"))
+midwest_data_raw <-rbind(chicago_daily_herald_data_raw, st_louis_dispatch_data_raw)
+
 
 data_prep <- function(x,y,z){
   i <- as_tibble(t(x))
   ii <- unite(i,"text",y:z,remove = TRUE,sep = "")
 }
+ 
 
-chicago_daily_herald_data_bag <- data_prep(chicago_daily_herald_data_raw,'V1','V425')
-st_louis_dispatch_data_bag <- data_prep(st_louis_dispatch_data_raw,'V1','V149')
+chicago_daily_herald_data_bag <- data_prep(chicago_daily_herald_data_raw,'V1','V4306')
+st_louis_dispatch_data_bag <- data_prep(st_louis_dispatch_data_raw,'V1','V6067')
+midwest_data_bag <- data_prep(midwest_data_raw,'V1','V10373')
 
-midwest_newspapers <- c("Chicago Daily Herald", "St. Louis Post-Dispatch (Missouri)")
+midwest_newspapers <- c("Chicago Daily Herald (CDH)", "St. Louis Post-Dispatch (SLP-D)", "CDH & SLP-D Combined")
 
 
-tf_idf_text <- tibble(midwest_newspapers,text=t(tibble(kennedy_inag_bag,chicago_daily_herald_data_bag,st_louis_dispatch_data_bag,.name_repair = "universal")))
+tf_idf_text <- tibble(midwest_newspapers,text=t(tibble(chicago_daily_herald_data_bag,st_louis_dispatch_data_bag, midwest_data_bag,.name_repair = "universal")))
 
 class(tf_idf_text)
 
