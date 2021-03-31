@@ -1,0 +1,233 @@
+---
+title: "Text_Lab"
+author: "Sai Rajuladevi, Andrew Porter, Izzy Shehan"
+date: "3/24/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+For our Lab we decided to do a sentiment analysis of newspapers chosen by the keyword "Data Science". We further filtered our data to be based on geographic regions of our choosing in the United States, and decided to include the top 100 results of all time, because in certain regions the history of the topic of data science was variable (West Coast vs. Midwest)
+
+The 3 Regions we chose on the LexisNexis site were:
+West Coast: Alaska or Arizona or California or Colorado or Hawaii or Idaho or Montana or Nevada or New Mexico or Oregon or Utah or Washington or Wyoming
+Midwest: Illinois or Indiana or Iowa or Kansas or Michigan or Minnesota or Missouri or Nebraska or North Dakota or Ohio or Wisconsin
+East Coast: Maine or New Hampshire or Massachusetts or Rhode Island or Connecticut or New York or New Jersey or Delaware or Maryland or Virginia or North Carolina or South Carolina or Georgia or Florida
+
+We then further chose Newspapers for each region, and then filtered by the top 100 results in the database:
+West Coast: Los Angeles Times, Eurasia, Spokesman
+Midwest: Chicago Daily Herald, St. Louis Post-Dispatch (Missouri)
+East Coast: 
+
+Install all recommended packages
+```{r}
+library(tidyverse)
+#install.packages("tidytext")
+library(tidytext)
+#install.packages("ggwordcloud")
+library(ggwordcloud)
+#install.packages("gutenbergr") 
+library(gutenbergr)
+#install.packages('textdata')
+library(textdata)
+#setwd("/cloud/project/tidytext")
+save.image("tidytext.RData")
+```
+
+```{r}
+# West Coast Code
+
+# Read the files into the code
+LA_Times<- readLines("LA_Times.txt")
+Eurasia<- readLines("Eurasia_Review.txt")
+Spokesman<- readLines("Spokesman_Review.txt")
+Combined<- readLines("West_Coast.txt")
+
+#Convert the RTF files into tibbles that can be analyzed
+LA_Times<- tibble(LA_Times)
+Eurasia<- tibble(Eurasia)
+Spokesman <- tibble(Spokesman)
+Combined <- tibble(Combined)
+
+#Coerce the arguments to character types that are stripped of attributes
+LA_Times$LA_Times <- as.character(LA_Times$LA_Times)
+Eurasia$Eurasia <- as.character(Eurasia$Eurasia)
+Spokesman$Spokesman <- as.character(Spokesman$Spokesman)
+Combined$Combined <- as.character(Combined$Combined)
+
+#View the tibbles to make sure they convert correctly
+View(LA_Times)
+View(Eurasia)
+View(Spokesman)
+View(Combined)
+
+#Split the columns into tokens
+LA_Times <- LA_Times %>%
+  unnest_tokens(word, LA_Times)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+Eurasia <- Eurasia %>%
+  unnest_tokens(word, Eurasia)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+Spokesman <- Spokesman %>%
+  unnest_tokens(word, Spokesman)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+Combined <- Combined %>%
+  unnest_tokens(word, Combined)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+#View the files
+View(LA_Times)
+View(Eurasia)
+View(Spokesman)
+View(Combined)
+```
+
+
+```{r}
+# Midwest Code
+
+# Get the data from text file
+chicago_daily_herald_data <- read_lines("Chicago_Daily_Herald_(100).txt")
+st_louis_dispatch_data <- read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt")
+midwest_data <-rbind(chicago_daily_herald_data, st_louis_dispatch_data) # This is the combined dataframe for the entire region
+
+
+# Convert into Tibble for easy reading
+chicago_daily_herald_data <- tibble(chicago_daily_herald_data)
+st_louis_dispatch_data <- tibble(st_louis_dispatch_data)
+midwest_data <- tibble(midwest_data)
+
+
+# Create table and convert the data to make sure everything is tokenized correctly 
+chicago_daily_herald_data$chicago_daily_herald_data <- as.character(chicago_daily_herald_data$chicago_daily_herald_data)
+st_louis_dispatch_data$st_louis_dispatch_data <- as.character(st_louis_dispatch_data$st_louis_dispatch_data)
+midwest_data$midwest_data <- as.character(midwest_data$midwest_data)
+
+# Start Tokenization process, and use anti-join to get rid of redundant phrasing in sentences
+chicago_daily_herald_data <- chicago_daily_herald_data %>%
+  unnest_tokens(word, chicago_daily_herald_data)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+st_louis_dispatch_data <- st_louis_dispatch_data %>%
+  unnest_tokens(word, st_louis_dispatch_data)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+midwest_data <- v %>%
+  unnest_tokens(word, midwest_data)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+# View converted frames
+View(chicago_daily_herald_data)
+View(st_louis_dispatch_data)
+View(midwest_data)
+
+```
+
+
+
+Ok, now that we have our word frequencies let's do some analysis. We will compare the using sentiment analysis to see if the generally align or not. 
+
+```{r}
+# Midwest Code
+# Helps with the sentiment analysis, using package "textdata"
+get_sentiments('afinn')# we see a list of words and there classification, 2,467 - not really that many overall. 
+get_sentiments('nrc')# looks like a good amount more 13,891, but as we can see words are classified in several different categories. 
+get_sentiments('bing')# looks like a good amount more 6,776, but as we can see just negative and positive. 
+
+# Start by getting sentiments for each newspaper
+chicago_daily_herald_sentiment_afinn <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+chicago_daily_herald_sentiment_nrc <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("nrc"))
+chicago_daily_herald_sentiment_bing <- chicago_daily_herald_data %>%
+  inner_join(get_sentiments("bing"))
+
+#Walk through the same process for second newspaper
+st_louis_dispatch_sentiment_afinn <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("afinn"))
+st_louis_dispatch_sentiment_nrc <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("nrc"))
+st_louis_dispatch_sentiment_bing <- st_louis_dispatch_data %>%
+  inner_join(get_sentiments("bing"))
+
+
+View(st_louis_dispatch_sentiment_afinn)
+View(chicago_daily_herald_sentiment_nrc)
+```
+
+
+
+```{r}
+#We can just do some tabling to see the differences in bing and nrc, seems like Kennedy's speech at least first glanced was much more balanced in terms of negative/positive sentiment
+table(chicago_daily_herald_sentiment_bing$sentiment)
+table(st_louis_dispatch_sentiment_bing$sentiment)
+table(chicago_daily_herald_sentiment_nrc$sentiment)
+table(st_louis_dispatch_sentiment_nrc$sentiment)
+ggplot(data = chicago_daily_herald_sentiment_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("Chicago Daily Herald Sentiment Range")+
+  theme_minimal()
+View(st_louis_dispatch_sentiment_afinn)
+ggplot(data = st_louis_dispatch_sentiment_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("St. Louis Post-Dispatch (Missouri) Sentiment Range")+
+  theme_minimal()
+#Again they look very different, which leads to all kinds of interesting questions around the current state of affairs at the time these speeches were given and enforces the idea that text needs to be analyzed in the context of when it was written.....Hermeneutics! I would reference this debate between Nixon and Kennedy to get a basic idea of the events being confronted at this time. 
+#https://www.jfklibrary.org/asset-viewer/archives/TNC/TNC-172/TNC-172
+#Could also do simple word clouds as we see, Trump is much more focused on the US whereas Kennedy references the "World" at a higher rate. 
+#below uses the ggwordcloud package
+set.seed(42)
+ggplot(chicago_daily_herald_data[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+ggplot(st_louis_dispatch_data[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+```
+
+
+
+term frequency - inverse document frequency tf-idf. Here we are going to treat
+each of our speeches as a document in a corpus and explore the relative 
+importance of words to these speeches as compared to the overall corpus. 
+```{r}
+chicago_daily_herald_data_raw <- as.tibble(read_lines("Chicago_Daily_Herald_(100).txt"))
+st_louis_dispatch_data_raw <- as.tibble(read_lines("St._Louis_Post-Dispatch_(Missouri)_(100).txt"))
+midwest_data_raw <-rbind(chicago_daily_herald_data_raw, st_louis_dispatch_data_raw)
+data_prep <- function(x,y,z){
+  i <- as_tibble(t(x))
+  ii <- unite(i,"text",y:z,remove = TRUE,sep = "")
+}
+ 
+chicago_daily_herald_data_bag <- data_prep(chicago_daily_herald_data_raw,'V1','V4306')
+st_louis_dispatch_data_bag <- data_prep(st_louis_dispatch_data_raw,'V1','V6067')
+midwest_data_bag <- data_prep(midwest_data_raw,'V1','V10373')
+midwest_newspapers <- c("Chicago Daily Herald (CDH)", "St. Louis Post-Dispatch (SLP-D)", "CDH & SLP-D Combined")
+tf_idf_text <- tibble(midwest_newspapers,text=t(tibble(chicago_daily_herald_data_bag,st_louis_dispatch_data_bag, midwest_data_bag,.name_repair = "universal")))
+class(tf_idf_text)
+word_count <- tf_idf_text %>%
+  unnest_tokens(word, text) %>%
+  count(midwest_newspapers, word, sort = TRUE)
+total_words <- word_count %>% 
+  group_by(midwest_newspapers) %>% 
+  summarize(total = sum(n))
+inag_words <- left_join(word_count, total_words)
+View(inag_words)
+inag_words <- inag_words %>%
+  bind_tf_idf(word, midwest_newspapers, n)
+View(inag_words)
+```
