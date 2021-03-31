@@ -25,10 +25,10 @@ library(dplyr)
 
 ```{r}
 # Read the files into the code
-LA_Times<- read_rtf("Los_Angeles_Times_Articles.RTF", skip = 0)
-Eurasia<- read_rtf("Eurasia_Review_articles.RTF", skip = 0)
-Spokesman<- read_rtf("Spokesman_Review_Articles.RTF", skip = 0)
-Combined<- read_rtf("Combined_West_Coast_Articles.RTF", skip = 0)
+LA_Times<- readLines("LA_Times.txt")
+Eurasia<- readLines("Eurasia_Review.txt")
+Spokesman<- readLines("Spokesman_Review.txt")
+Combined<- readLines("West_Coast.txt")
 
 
 #Convert the RTF files into tibbles that can be analyzed
@@ -75,6 +75,7 @@ Combined <- Combined %>%
   unnest_tokens(word, Combined)%>%
   anti_join(stop_words)%>% 
   count(word, sort=TRUE)
+
 
 #View the files
 View(LA_Times)
@@ -193,26 +194,36 @@ ggplot(Combined[1:50,], aes(label = word, size = n)
 ```
 
 ```{r}
-LA_Times_raw <- as_tibble(read_rtf("Los_Angeles_Times_Articles.RTF", skip = 0))
-Eurasia_raw <- as_tibble(read_rtf("Eurasia_Review_articles.RTF", skip = 0))
-Spokesman_raw <- as_tibble(read_rtf("Spokesman_Review_Articles.RTF", skip = 0))
-Combined_raw <- as_tibble(read_rtf("Combined_West_Coast_Articles.RTF", skip = 0))
+LA_Times_raw <- as_tibble(readLines("LA_Times.txt"))
+Eurasia_raw <- as_tibble(readLines("Eurasia_Review.txt"))
+Spokesman_raw <- as_tibble(readLines("Spokesman_Review.txt"))
+Combined_raw <- as_tibble(readLines("West_Coast.txt"))
+
+View(LA_Times_raw)
+View(Eurasia_raw)
+View(Spokesman_raw)
+View(Combined_raw)
+
 
 data_prep <- function(x,y,z){
   i <- as_tibble(t(x))
   ii <- unite(i,"text",y:z,remove = TRUE,sep = "")
 }
 
-LA_Times_bag <- data_prep(LA_Times_raw, 'V1','V131')
-Eurasia_bag <- data_prep(Eurasia_raw, 'V1','V131')
-Spokesman_bag <- data_prep(Spokesman_raw, 'V1','V131')
-Combined_bag <- data_prep(Combined_raw, 'V1','V131')
+LA_Times_bag <- data_prep(LA_Times_raw, 'V1','V451')
+Eurasia_bag <- data_prep(Eurasia_raw, 'V1','V3617')
+Spokesman_bag <- data_prep(Spokesman_raw, 'V1','V210')
+Combined_bag <- data_prep(Combined_raw, 'V1','V4278')
 
 Sources <- c("LA","Eurasia", "Spokesman", "Combined")
 
-tf_idf_text <- tibble(Sources,text=t(tibble(LA_Times_bag,Eurasia_bag,Spokesman_bag, Combined_bag,.name_repair = "universal")))
+tf_idf_text <- tibble(Sources,text=t(tibble(LA_Times_bag, Eurasia_bag, Spokesman_bag,Combined_bag, .name_repair = "universal")))
 
 class(tf_idf_text)
+
+word_count <- tf_idf_text %>%
+  unnest_tokens(word, text) %>%
+  count(Sources, word, sort = TRUE)
 
 total_words <- word_count %>% 
   group_by(Sources) %>% 
@@ -227,6 +238,3 @@ Article_words <- Article_words %>%
 
 View(Article_words)
 ```
-
-git config --global user.email "asp3ud@virginia.edu"
-git config --global user.name "andrewporter1212"
