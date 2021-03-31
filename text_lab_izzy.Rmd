@@ -26,12 +26,20 @@ ap<-read_lines("/Users/isabelleshehan/Desktop/stat/ap.txt")
 nyt<-tibble(nyt)
 ajc<-tibble(ajc)
 ap<-tibble(ap)
+
+c_nyt<-nyt%>%rename(value=nyt)
+c_ajc<-ajc%>%rename(value=ajc)
+c_ap<-ap%>%rename(value=ap)
+
+combined<-rbind((rbind(c_nyt["value"], c_ajc["value"])), c_ap["value"])
 ```
 
 ```{r}
 nyt$nyt<-as.character(nyt$nyt)
 ajc$ajc<-as.character(ajc$ajc)
 ap$ap<-as.character(ap$ap)
+combined$value<-as.character(combined$value)
+combined<-combined%>%rename(combined=value)
 ```
 
 ```{r}
@@ -47,6 +55,11 @@ ajc_tokens<-ajc%>%
 
 ap_tokens<-ap%>%
   unnest_tokens(word, ap)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+combined_tokens<-combined%>%
+  unnest_tokens(word, combined)%>%
   anti_join(stop_words)%>% 
   count(word, sort=TRUE)
 ```
@@ -72,12 +85,20 @@ ap_nrc<-ap_tokens%>%
   inner_join(get_sentiments("nrc"))
 ap_bing<-ap_tokens%>%
   inner_join(get_sentiments("bing"))
+
+combined_afinn<-combined_tokens%>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+combined_nrc<-combined_tokens%>%
+  inner_join(get_sentiments("nrc"))
+combined_bing<-combined_tokens%>%
+  inner_join(get_sentiments("bing"))
 ```
 
 ```{r}
 table(nyt_bing$sentiment)
 table(ajc_bing$sentiment)
 table(ap_bing$sentiment)
+table(combined_bing$sentiment)
 ```
 
 ```{r}
@@ -101,6 +122,13 @@ ggplot(data = ap_afinn,
   geom_histogram()+
   ggtitle("Spokesman Review Sentiment Range")+
   theme_minimal()
+
+ggplot(data = combined_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("Spokesman Review Sentiment Range")+
+  theme_minimal()
 ```
 
 ```{r}
@@ -118,12 +146,19 @@ ggplot(ap_tokens[1:50,], aes(label = word, size = n)
        ) +
   geom_text_wordcloud() +
   theme_minimal()
+
+ggplot(combined_tokens[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
 ```
 
 ```{r}
 nyt_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/nyt.txt"))
 ajc_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/ajc.txt"))
 ap_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/ap.txt"))
+
+combined_raw<-rbind((rbind(nyt_raw["value"], ajc_raw["value"])), ap_raw["value"])
 ```
 
 ```{r}
@@ -135,6 +170,7 @@ data_prep <- function(x,y,z){
 nyt_bag<-data_prep(nyt_raw, 'V1','V4956')
 ajc_bag<-data_prep(ajc_raw, 'V1','V1022')
 ap_bag<-data_prep(ap_raw, 'V1','V1593')
+combined_bag<-data_prep(combined_raw, 'V1','V7571')
 ```
 
 ```{r}
