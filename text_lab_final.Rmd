@@ -1,14 +1,22 @@
 ---
-title: "Text_Lab"
+title: "Sentiment Analysis on Data Science in Newspapers"
 author: "Sai Rajuladevi, Andrew Porter, Izzy Shehan"
 date: "3/24/2021"
-output: html_document
+output:
+  html_document:
+    theme: lumen
+editor_options: 
+  chunk_output_type: console
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#### For our Lab we decided to do a sentiment analysis of newspapers chosen by the keyword "Data Science". We further filtered our data to be based on geographic regions of our choosing in the United States, and decided to include the top 100 results of all time, because in certain regions the history of the topic of data science was variable (West Coast vs. Midwest)
+
+### For our Lab we decided to do a sentiment analysis of newspapers chosen by the keyword "Data Science". 
+
+### We further filtered our data to be based on geographic regions of our choosing in the United States, and decided to include the top 100 results of all time, because in certain regions the history of the topic of data science was variable (West Coast vs. Midwest)
 
 ```{r, include=FALSE}
 # Install all recommended packages
@@ -25,15 +33,17 @@ library(textdata)
 save.image("tidytext.RData")
 ```
 
-#### The 3 Regions we chose on the LexisNexis site were:
-###### West Coast: Alaska or Arizona or California or Colorado or Hawaii or Idaho or Montana or Nevada or New Mexico or Oregon or Utah or Washington or Wyoming
-###### Midwest: Illinois or Indiana or Iowa or Kansas or Michigan or Minnesota or Missouri or Nebraska or North Dakota or Ohio or Wisconsin
-###### East Coast: Maine or New Hampshire or Massachusetts or Rhode Island or Connecticut or New York or New Jersey or Delaware or Maryland or Virginia or North Carolina or South Carolina or Georgia or Florida
+### The 3 Regions we chose on the LexisNexis site were:
 
-#### We then further chose Newspapers for each region, and then filtered by the top 100 results in the database:
-###### West Coast: Los Angeles Times, Eurasia, Spokesman
-###### Midwest: Chicago Daily Herald, St. Louis Post-Dispatch (Missouri)
-###### East Coast: New York Times, Atlanta Journal-Constitution, Spokesman Review
+* West Coast: Alaska or Arizona or California or Colorado or Hawaii or Idaho or Montana or Nevada or New Mexico or Oregon or Utah or Washington or Wyoming
+* Midwest: Illinois or Indiana or Iowa or Kansas or Michigan or Minnesota or Missouri or Nebraska or North Dakota or Ohio or Wisconsin
+* East Coast: Maine or New Hampshire or Massachusetts or Rhode Island or Connecticut or New York or New Jersey or Delaware or Maryland or Virginia or North Carolina or South Carolina or Georgia or Florida
+
+### We then further chose Newspapers for each region, and then filtered by the top 100 results in the database:
+
+* West Coast: Los Angeles Times, Eurasia, Spokesman
+* Midwest: Chicago Daily Herald, St. Louis Post-Dispatch (Missouri)
+* East Coast: New York Times, Atlanta Journal-Constitution, Spokesman Review
 
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
 # Read the files into the code
@@ -172,7 +182,7 @@ east_coast_combined_tokens<-east_coast_combined%>%
 
 
 
-# Ok, now that we have our word frequencies let's do some analysis. We will compare the using sentiment analysis to see if the generally align or not. 
+### Ok, now that we have our word frequencies let's do some analysis. We will compare them using sentiment analysis to see if the generally align or not. 
 
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
 
@@ -289,34 +299,43 @@ east_coast_combined_bing<-east_coast_combined_tokens%>%
   inner_join(get_sentiments("bing"))
 ```
 
-# Let's take a look at some tables of the sentiments for each group:
+### Let's take a look at some tables of the sentiments for each group:
 
-```{r, echo=TRUE, warning=FALSE, message=FALSE}
+```{r, results=FALSE, warning=FALSE, message=FALSE}
 # For West Coast
 table(LA_sentiment_bing$sentiment)
 table(Spokesman_sentiment_bing$sentiment)
 table(Eurasia_sentiment_bing$sentiment)
+```
+```{r,echo=TRUE, warning=FALSE, message=FALSE}
 table(West_Coast_Combined_sentiment_bing$sentiment)
 ```
 
-```{r, echo=TRUE, warning=FALSE, message=FALSE}
+```{r, results=FALSE, warning=FALSE, message=FALSE}
 # For Midwest
 table(st_louis_dispatch_sentiment_bing$sentiment)
 table(chicago_daily_herald_sentiment_bing$sentiment)
-table(midwest_sentiment_bing$sentiment)
 ```
 
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
+table(midwest_sentiment_bing$sentiment)
+```
+
+```{r, results=FALSE, warning=FALSE, message=FALSE}
 # For East Coast
 table(nyt_bing$sentiment)
 table(ajc_bing$sentiment)
 table(ap_bing$sentiment)
+```
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
 table(east_coast_combined_bing$sentiment)
 
 ```
 
-# Shown below are the sentiment plots for each region we chose
-```{r, echo=TRUE, warning=FALSE, message=FALSE}
+### Shown below are the sentiment plots for each region we chose
+
+```{r, fig.show='hide', echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
 ## West Coast
 ggplot(data = LA_sentiment_affin, 
        aes(x=value)
@@ -338,7 +357,10 @@ ggplot(data = Spokesman_sentiment_affin,
   geom_histogram()+
   ggtitle("Spokesman Review Sentiment Range")+
   theme_minimal()
+```
+#### West Coast
 
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
 ggplot(data = West_Coast_Combined_sentiment_affin, 
        aes(x=value)
         )+
@@ -347,7 +369,7 @@ ggplot(data = West_Coast_Combined_sentiment_affin,
   theme_minimal()
 ```
 
-```{r, echo=TRUE, warning=FALSE, message=FALSE}
+```{r, fig.show='hide', echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
 ## Midwest
 ggplot(data = chicago_daily_herald_sentiment_afinn, 
        aes(x=value)
@@ -363,7 +385,10 @@ ggplot(data = st_louis_dispatch_sentiment_afinn,
   geom_histogram()+
   ggtitle("St. Louis Post-Dispatch (Missouri) Sentiment Range")+
   theme_minimal()
+```
+#### Midwest
 
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
 ggplot(data = midwest_sentiment_afinn, 
        aes(x=value)
         )+
@@ -373,7 +398,7 @@ ggplot(data = midwest_sentiment_afinn,
 ```
 
 
-```{r, echo=TRUE, warning=FALSE, message=FALSE}
+```{r, fig.show='hide', echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
 ## East Coast
 ggplot(data = nyt_afinn, 
        aes(x=value)
@@ -395,6 +420,10 @@ ggplot(data = ap_afinn,
   geom_histogram()+
   ggtitle("Spokesman Review Sentiment Range")+
   theme_minimal()
+```
+#### East Coast
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
 
 ggplot(data = east_coast_combined_afinn, 
        aes(x=value)
@@ -404,7 +433,7 @@ ggplot(data = east_coast_combined_afinn,
   theme_minimal()
 ```
 
-# Shown below are the word clouds for each region we chose
+### Shown below are the word clouds for each region we chose
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
 ## West Coast
 
@@ -474,12 +503,12 @@ ggplot(east_coast_combined_tokens[1:50,], aes(label = word, size = n)
   theme_minimal()
 ```
 
-# As you can see, our word cloud for each region has the keywords "Data" and "Science" in them, which shows that our combined analysis of the regions has some merit. 
+### As you can see, our word cloud for each region has the keywords "Data" and "Science" in them, which shows that our combined analysis of the regions has some merit. 
 
 
-# Finally, we ran a tf-idf for each newspaper in the region. We then ran the tf-idf between each overall region with the newspapers combined by region to get an better understanding of values. 
+### Finally, we ran a tf-idf for each newspaper in the region. We then ran the tf-idf between each overall region with the newspapers combined by region to get an better understanding of values. 
 
-## First, here are the tf-idfs for each newspaper in the region. 
+#### First, here are the tf-idfs for each newspaper in the region. 
 
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
 # Read the values in properly
@@ -604,7 +633,7 @@ news_words<-news_words %>%
 news_words
 ```
 
-## And now, let's compare the tf-idfs between regions
+#### And now, let's compare the tf-idfs between regions
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
 # For East Coast
 sources<-c("West Coast","Midwest", "East Coast")
@@ -626,3 +655,5 @@ news_words<-news_words %>%
 
 news_words
 ``` 
+
+#### This shows that our initial "Data Science" keyword search did have an impact in the results we got from our tf-idfs. Interestingly enough, the word "school" and "college" is mentioned, which could be referring to an increase in data science education offerings in the regions we selected. 
