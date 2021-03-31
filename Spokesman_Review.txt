@@ -1,0 +1,198 @@
+
+
+AUTHORS MAKE A CASE FOR THE 'ART OF SKEPTICISM' UW profs push for more critical thinking in our data-rich world
+Spokesman Review (Spokane, WA)
+August 20, 2020 Thursday
+Main Edition
+
+
+Copyright 2020 Spokane Spokesman-Review
+Section: C; Pg. 005
+Length: 710 words
+Byline: Stephanie Hammett The Spokesman-Review
+Body
+
+
+Carl Bergstrom and Jevin West, authors of "Calling Bullshit: The Art of Skepticism in a Data-Driven World," discussed their book with Shawn Vestal in a Northwest Passages Book Club livestream event Tuesday night. Bergstrom and West explained the origins of the project and gave advice on how to "call bullshit on lies, treachery, trickery, or injustice."
+ Opening the discussion, Bergstrom, a theoretical and evolutionary biologist and professor at the University of Washington, explained how he and West, a data scientist responsible for designing and implementing UW's data science curriculum, began their collaboration.
+ "A few years ago he (West) called me up and said, 'Hey, I'm going to be teaching a course on big data,' and I said 'I want to teach a course about calling bullshit on big data,'" Bergstrom said.
+ The college course resulting from that conversation would become, according to West, the most important course that they could teach their students.
+ "When I think about all the classes that I've taught and all the classes I took as a student, I think this is one of those things that probably should be the first thing a student takes when they get here but probably before they get to the university, and maybe the last thing," West said. He isn't concerned about students memorizing the Krebs cycle or specific dates or the ideal gas law, "but I do care about whether they (students) can look critically at any argument - arguments that come in terms of data or in any form."
+ They explained that different generations display different abilities when it comes to detecting "bullshit." For example, millennials and younger students can more easily identify clickbait websites than older generations, but they may struggle when it comes to identifying whether an article uses legitimate scientific sources.
+ "The source of BS that you need to be most concerned about is yourself," Bergstrom said, recalling a Neil Postman quote from the 1960s about confirmation bias.
+ "As we get a little older, and ... set in our ways ... we get a little bit better at defending our beliefs and arguments. We become more and more set because we can always find ways to convince ourselves that the thing we believe before we started looking into it is true."
+ For this reason, the book stresses the importance of avoiding confirmation bias by trying to be at least as critical, if not more critical of the stories and data that support one's preexisting beliefs, as one would be of stories that oppose.
+ The book was completed before the rise of COVID-19, but, "You could rewrite the book using only examples from the pandemic," Bergstrom said.
+ They discussed the influence of social media on confirmation bias at length.
+ "Social media has paved the way for bullshit," Bergstrom said. "Instead of having professional producers and editors determine what content I see, I've got my Uncle Rob and he's a conspiracy theorist. He doesn't really even care whether it's true or not - we all have these people in our lives. And so then because we are all taking on this editorial role, this kind of curation role fundamentally changes the quality of information that people are receiving."
+ Newsfeed algorithms on platforms like Facebook, they explained, are ordered towards making sure that eyes stay glued to screens so users look at ads; whatever information happens to be keeping users attention is immaterial.
+ "So you see things you want to hear and what your friends want you to hear, regardless of the truth. If it's a conspiracy theory that keeps you there longer, that's what you're going to see."
+ The phenomenon poses "a big problem for democracy," Bergstrom said. "People need to make informed decisions based on true information about the world. But that also requires us to be able to recognize true information."
+ Bergstrom and West offered several pieces of advice on beginning to approach information critically. First, Bergstrom said, "ask who's telling me this, how do they know it, and what are they trying to sell me?"
+ "If something sounds too good or too bad to be true, it's probably not true," West said. "Be very wary of emotion-evoking clickbait."
+ "Calling Bullshit: The Art of Skepticism in a Data-Driven World" is available at Auntie's Bookstore.
+
+Notes
+
+Stephanie Hammett can be reached at (509) 459-5013 or at stephanieh@spokesman.com
+
+
+Load-Date: February 3, 2021
+
+
+End of Document
+
+
+Amazon lists 37,000-plus jobs Company's global workforce grew by 150,500 people in 2019
+Spokesman Review (Spokane, WA)
+February 17, 2020 Monday
+Main Edition
+
+
+Copyright 2020 Spokane Spokesman-Review
+Section: C; Pg. 001
+Length: 1035 words
+Byline: Benjamin Romano Seattle Times
+Body
+
+
+At one point last week, Amazon had about 37,200 job listings around the world.
+ That's the most listings the Seattle company has posted on its Amazon.jobs career site in at least 15 months, a company spokesperson said - and may be the most ever, though a system update prevents easy comparisons to earlier periods.
+ Amazon is seeking everyone from hourly warehouse workers to top-paid machine-learning experts, underscoring the breadth and scope of the company's operations and ambition. The listings provide a rough map of Amazon's near-term growth priorities across businesses and geographies.
+ Amazon's ongoing hiring follows a year when its global workforce grew by 150,500 people, or more than 23%. It finished 2019 with 798,000 full- and part-time employees, not including contractors.
+ In the United States, where the company has more than 500,000 employees, continued hiring comes against a national backdrop of strong demand for labor. Nationwide, open positions outnumber job seekers, but openings fell to a still-strong 6.4 million at the end of 2019, down nearly 15% from a year earlier and the second consecutive month of declines, according to the U.S. Bureau of Labor Statistics.
+ Amazon's labor needs, particularly for in-demand technology professionals, can boggle the mind. The company had more than 10,600 jobs listings in software development, the largest single category, with an additional 7,400 listings in adjacent roles such as IT engineering and data science.
+ Amazon was seeking to fill more than 4,500 project- or program-management roles. It had nearly 2,050 openings in sales, advertising and account management. There were nearly 1,800 listings in fulfillment and operations management. More than 1,600 jobs were listed in human resources, including for recruiters whose job would be recruiting more recruiters.
+ "I don't think most people, even people who have worked at a large, behemoth corporation like I did at AT&T, can even fathom the idea of having that many open professional positions at one time," said Brent Heslop, who now heads the business-transformation practice in the Seattle office of consulting firm Mercer.
+ Amazon's main headquarters city, where it already has more than 50,000 employees, remains the location of the plurality of job listings, and by a large margin. There were nearly 11,500 openings listed in Seattle.
+ The No. 2 city was Bangalore, India, with 1,430 job listings at the time of the Tuesday snapshot. Vancouver, B.C., had 973 listings, followed by London (906). Arlington, Virginia, where Amazon is building its second headquarters, had 517 openings, while nearby Herndon had 898. New York City, the abandoned HQ2 locale, is still a growing Amazon hub. It had 864 job listings.
+ Bellevue, where Amazon intends to grow to 15,000 employees in the next few years, had more than 700 openings.
+ The unemployment rate in King County was 2.1% in December, not adjusting for seasonal trends. That's the lowest level measured going back to 1990, when the Washington Employment Security Department began tracking local area unemployment the way it does now, said Anneliese Vance-Sherman, regional labor economist with the state agency.
+ An unemployment rate that low can be challenging for many businesses, which may struggle to attract or retain as many workers as they need. "Workers have choices," she said. "There's a lot of demand from other businesses."
+ But it's a tale of two job markets in the Seattle area. For tech giants such as Amazon and Microsoft, and their Silicon Valley-based competitors with large and growing offices in the region, the low local unemployment rate is less of a concern.
+ "Scale matters," Vance-Sherman said. "They are able to draw from Boston, New York, San Francisco, Mumbai, Beijing. They aren't as constrained in a manner of speaking because they're not exclusively drawing from the local labor market."
+ Heslop said the brand cachet and competitive compensation offered by major tech employers help them find applicants, even in a tight labor market.
+ "My assumption is that Amazon doesn't have to work as hard to source or attract candidates as the rest of us do," he said.
+ Pay at Amazon starts at a minimum of $15 an hour, the wage floor it instituted for U.S. workers in 2018, and goes up to $160,000 a year for even very senior employees with only a few exceptions, though stock awards boost total compensation far higher. Median pay in the United States during 2018 was about $35,100, the company reported in its most recent proxy statement.
+ The wide range in compensation underscores the broad array of businesses and roles within Amazon.
+ Its lucrative and fast-growing cloud-computing business, Amazon Web Services, accounted for 13,000 openings, or more than a third of all the postings. The next closest category was Amazon's retail business, which had 2,790 openings for roles including a data scientist in Seattle to help automate research into the complexities of Amazon's economy and a financial analyst to support a team in Shenzhen, China, sourcing products for Amazon's growing private-brands business.
+ Along with nearly 2,000 listings in fulfillment and operations, Amazon's sprawling logistics business, the company had 1,740 listings in operations technology. Roles included a New York-based workers-compensation-claims analyst to support efforts to reduce accidents and injuries among Amazon's third-party delivery partners and an engineer in Bellevue to evaluate battery and electric vehicles technologies to be used in its delivery operations.
+ Amazon Alexa, the company's voice computing system, had 1,820 job listings. Amazon Devices, which makes Kindle readers, Echo Dot microphones and speakers, and Fire tablets and streaming media players, had 1,720 listings.
+ Analyzing the job listings doesn't reveal the whole story of the company's voracious appetite for new workers. Some job listings, particularly for hourly positions in warehousing and logistics, where the majority of Amazon's employees work, advertise multiple openings. Others tout upcoming hiring fairs, like the ones Amazon held in Seattle and five other U.S. cities last fall as part of a push to fill 30,000 positions nationwide.
+ Amazon
+
+Load-Date: February 17, 2020
+
+
+End of Document
+
+
+Eastern and Western are economic and social engines
+Spokesman Review (Spokane, WA)
+March 17, 2019 Sunday
+Main Edition
+
+
+Copyright 2019 Spokane Spokesman-Review
+Section: E; Pg. 003
+Length: 707 words
+Byline: Mary Cullinan and Sabah Randhawa
+Body
+
+
+Guest Opinion
+ Eastern Washington University and Western Washington University anchor both sides of our state. While each university is distinctive, our mission and values are similar. Founded as colleges for teachers in the 19th century, our universities have evolved into institutions that transform the lives of students and work with employers and other partners to serve our growing state economy.
+ Each year as we graduate thousands of students, most of them Washingtonians, our universities help to ensure that our state continues to thrive with a knowledgeable, professional workforce and an informed citizenry. Our universities are significant engines for the economy and the well-being of the state.
+ Sadly, many people continue to argue that "not everyone needs to go to college." However, the degrees our students achieve benefit not only the graduates themselves but also their families, employers, and entire communities that rely on a professional workforce in order to thrive and grow.
+ According to the state of Washington's Employment Security Department, 11 of the top 25 occupations in the state require a four-year degree. And all of those are by far the highest-paying jobs on the top 25 list, ranging from $72,000 to more than $126,000 a year: jobs such as software developers, computer science professionals, managers, medical and health professionals, engineers and research analysts.
+ Nationwide, university graduates earn nearly 68 percent more than people with only a high school degree, and 42 percent more than those with a two-year degree. Moreover, according to the U.S. Bureau of Labor Statistics, not only do earnings increase but unemployment numbers decrease significantly for individuals with baccalaureate degrees.
+ Our two universities work to ensure that our degree offerings align with student demand as well as state needs. Eastern, for instance, offers the Microsoft Professional Program in Data Science in conjunction with our baccalaureate degree in Data Analytics, to help meet a massive shortage of data managers and analysts. Western's Manufacturing and Supply Chain Management program ranks in the top 10 nationally - ahead of Stanford and MIT - and offers students hands-on learning partnerships with Boeing, Microsoft, Starbucks, PACCAR, REI, Amazon, Crane Aerospace and other leading companies.
+ Another argument we often hear is "the cost of college isn't worth it." At under $7,000 per year, tuition at our institutions is less than at most universities. Since costs are lower, our students tend to borrow less than do students at more expensive universities. Almost half our students graduate with no debt. Students who do take out loans incur an average debt of $23,000, compared  with a national average of $31,000. Both our institutions, also, offer a wide array of scholarships and financial aid options.
+ In a short time, a university degree from EWU or WWU more than pays for itself. But gaining a baccalaureate degree is not just about earnings. Our students gain critical thinking, teamwork and communication skills. They gain flexibility in their life choices. They are more easily able to change careers and change locations. They are often physically healthier and have longer life expectancies than people with only a high school diploma. They don't rely on the state's support services to the same extent as people without a college degree. And the children of college graduates are more apt to graduate from college and continue the family's success into the next generations.
+ Every spring, our two universities graduate more than 7,000 students who enter the state's professional workforce as engineers, health and business professionals, computer scientists, teachers and civic leaders. They pay taxes and contribute to the social and cultural life as well as the economic vitality of our communities.
+ Every year, several hundred thousand EWU and WWU alumni more than repay the state's investment in their success. Together, our universities are economic and social engines, crucial for the prosperity of our state and the vibrancy of our local communities.
+ Mary Cullinan is president of Eastern Washington University. Sabah Randhawa is president of Western Washington University.
+
+Load-Date: March 17, 2019
+
+
+End of Document
+
+
+Woman dies when car crashes into tree
+Spokesman Review (Spokane, WA)
+May 25, 2018 Friday
+Main Edition
+
+
+Copyright 2018 Spokane Spokesman-Review
+Section: C; Pg. 004
+Length: 431 words
+Body
+
+
+In brief
+ A woman died early Thursday in a one-car crash in Otis Orchards.
+ Emergency crews were called at about 5:30 a.m. to Wellesley Avenue and Ashton Road, said Spokane County Sheriff's Deputy Mark Gregory.
+ Deputies said the  woman, driving a 1999  Honda Accord, crossed the centerline and crashed into a tree near the westbound shoulder. The person who reported the crash noticed a vehicle  in the front yard of a house.
+ The woman was not wearing a seat belt. Investigators believe speed and impairment may have been factors.
+ Deputies said initial information indicates the woman left the area of Barker Road and Trent Avenue sometime between midnight and 3 a.m. and traveled east on Wellesley, where she crashed.
+ Anyone with information is asked to call Detective Jeff Welton at (509) 477-3237.
+EWU heralds partnerships with businesses
+  Eastern Washington University announced a series of initiatives and celebrated recent partnerships with businesses in the Spokane area at a ceremony Thursday.
+ The university's partnership with Microsoft, for instance, is part of the school's heavy focus on developing its STEM programs.
+ Through it, students at EWU can certify in Microsoft's data science program as part of a  bachelor's degree in data analytics. The Microsoft certification currently has a  10 percent completion rate.
+ The university also celebrated its partnership with Avista to build the zero net energy Catalyst Building in Spokane that will house computer science, electrical engineering and visual communication programs.
+ EWU President Mary Cullinan said  EWU especially wants to work with and accommodate  the needs of businesses in the region.
+ "If businesses have needs, we want to be able to fill those," she said.
+Nonprofit raises $317,000 for area programs
+ A local nonprofit raised over $317,000 in donations, and the grant money will go to 17 local programs, including child care nutrition programs, emergency foster care and women's educational assistance.
+ The nonprofit, Women Helping Women Fund, gathered 1,650 people at an event  Tuesday aimed at raising the funds, according to a news release. The guest speaker, Dr. Tererai Trent, a scholar and humanitarian, has been featured on "The Oprah Winfrey Show."
+ The programs will receive grants ranging from $10,000 to $29,500. Some of the recipients are The Salvation Army, Northeast Youth Center, Women & Children's Free Restaurant & Community Kitchen, and Young Life.
+ The Women Helping Women Fund started in 1992 to raise awareness about the plight of women and children living in poverty in Spokane.
+ From staff reports
+
+Load-Date: May 25, 2018
+
+
+End of Document
+
+
+AUTHORS MAKE A CASE FOR THE 'ART OF SKEPTICISM' UW profs push for more critical thinking in our data-rich world
+
+
+
+
+
+
+
+
+
+Amazon lists 37,000-plus jobs Company's global workforce grew by 150,500 people in 2019
+
+
+
+
+
+
+
+
+
+Eastern and Western are economic and social engines
+
+
+
+
+
+
+
+
+
+Woman dies when car crashes into tree
+
+
+
+
+
+
+

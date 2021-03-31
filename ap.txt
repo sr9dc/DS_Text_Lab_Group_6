@@ -1,0 +1,1593 @@
+
+
+
+Former Google CEO gives $150M for research in biology, AI
+The Associated Press
+March 25, 2021 Thursday 1:30 PM GMT
+
+ Copyright 2021 Associated Press All Rights Reserved
+Section: BUSINESS NEWS; DOMESTIC NEWS
+Length: 559 words
+Byline: HALELUYA HADERO, AP Business Writer
+Body
+
+
+
+
+Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish a “new era of biology” aimed at battling diseases with a mix of data and life science studies.
+The Massachusetts-based Broad Institute of MIT and Harvard will use the funds to build a new center that will bring together academia and industry to merge the two disciplines in an effort to make people healthier.
+“Until now, these fields have largely developed in parallel,” the Broad Institute said in a statement on Thursday. “Their convergence will create a new era of biology, one that is expected to yield a deep understanding of biological processes, with the ultimate aim of improving human health through more powerful disease prevention, diagnosis, and treatment.”
+Experts say the initiative sets a precedent for building more research centers that mix the two disciplines.
+“There is a huge need in the biology field to bring in computational and data science expertise,” said Peng Qiu, a professor at the Georgia Institute of Technology who studies the subject, adding, the need for integrating the two fields “has been well recognized in the research community.”
+The endowment gift is the largest donation the couple has given through Schmidt Futures, their latest philanthropic initiative focusing on science and technology. The Schmidts have other philanthropic arms, including their family foundation, and are ranked as one of the top donors in the United States.
+The institute said Thursday that it also received an additional $150 million contribution from the Broad Foundation, the charity founded by philanthropists Eli and Edythe L. Broad. The couple helped create the institute in 2003, and their foundation has pledged more than $1 billion to the research facility.
+“Much like Eli and Edye Broad saw the potential in creating the Broad Institute, Wendy and I believe this center has the promise to create a new field of science that could benefit human health in ways we can’t even begin to imagine,” Eric Schmidt, a member of the institute’s board, said in the announcement.
+“The pandemic has shown us that prioritizing science, innovation, and research is one of the greatest investments we can make in our future,” he added.
+The center, which will be named after the Schmidts, will collaborate with experts from numerous fields at companies ranging from Google, Microsoft and AstraZeneca, and learning institutions including Oxford University and the Mayo Clinic.
+“Philanthropic gifts of this magnitude have the potential to be transformative in scientific discovery," said R. Patrick Bixler, a professor at the University of Texas at Austin’s RGK Center for Philanthropy and Community Service. He notes doing this work "through a network of cross-sector partners will undoubtedly lead to breakthroughs in internal medicine and public health."
+Schmidt served as Google’s CEO from 2001 to 2011, a time of rapid growth for the California-based technology company. He later became executive chairman for Google, and in 2015, for its new parent company, Alphabet, before resigning as chairman in 2018.
+——
+The Associated Press receives support from the Lilly Endowment for coverage of philanthropy and nonprofits. The AP is solely responsible for all content. For all of AP’s philanthropy coverage, visit https://apnews.com/hub/philanthropy.
+ Load-Date: March 25, 2021
+
+ 
+
+End of Document
+
+
+AP names Justin Myers as data editor
+The Associated Press
+February 8, 2021 Monday 2:46 PM GMT
+
+ Copyright 2021 Associated Press All Rights Reserved
+Section: BUSINESS NEWS; DOMESTIC NEWS
+Length: 385 words
+Byline: The Associated Press
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK — Justin Myers, a veteran data journalist whose work has driven some of the top investigative stories done by The Associated Press in recent years and has helped spearhead automation initiatives across its global newsroom, has been promoted to the position of data editor for the news cooperative.
+In this role, he will manage the data analysts on the data team and oversee the team’s data-driven collaborations with reporters and editors across AP and its partner news organizations.
+“Justin’s proven ability to manage complex data-driven projects and turn editorial ambition into technical and journalistic achievement is what AP needs to push its data journalism forward,” said Troy Thibodeaux, the AP’s data science and news applications editor.
+Myers joined the data team five years ago as AP’s first automation editor. In that position, he worked with teams across AP to find ways to take repetitive work out of the way and help AP’s journalists focus on the journalism.
+Myers led the 2018 automation efforts around VoteCast, creating both text and graphics that could be produced at the push of a button. He has also provided data analysis and engineering on some of AP’s biggest investigative and technology projects, including the large-scale investigation into abusive priests from 2019 and Russian hacking from 2017.
+He also helped spearhead AP’s data team’s move to the cloud, creating a more robust infrastructure for news applications and a toolkit for big data analysis used in the 2020 election.
+Myers is currently part of a group of AP journalists across the world who act as “inclusion champions,” ensuring that the company’s journalism contains voices from all corners of society and serves a variety of audiences.
+Myers is a 2011 graduate of the University of Missouri with dual degrees in electrical engineering and journalism and a minor in math. Before joining AP, he was a news interactives producer at The Chronicle of Higher Education and The Chronicle of Philanthropy. Before that, he was a news developer with PBS NewsHour.
+He begins his new role immediately.
+“Justin has led by example since his first day at AP. His diligence, integrity, ingenuity and generosity to colleagues have made everyone around him better,” Thibodeaux said. “I can’t wait to see what he does in the new role.”
+ Load-Date: February 8, 2021
+
+ 
+
+End of Document
+
+
+NFL's 1st & Future to award $150,000 on television show
+The Associated Press
+January 26, 2021 Tuesday 10:01 PM GMT
+
+ Copyright 2021 Associated Press All Rights Reserved
+Section: SPORTS NEWS
+Length: 847 words
+Byline: BARRY WILNER, AP Pro Football Writer
+Body
+
+
+
+
+The NFL is bringing its awards for novel advancements in athletes’ safety and performance to television.
+Next Tuesday night during Super Bowl week, the league will air its sixth annual “1st & Future” competition. The show is set for 8 p.m. EST on NFL Network. NFL Commissioner Roger Goodell, Arizona Cardinals receiver Larry Fitzgerald and Andy Jassy, the CEO of Amazon Web Services, which is collaborating with the league, will be on hand as $150,000 in prize money is handed out on the telecast.
+Innovators and data scientists have been awarded a total of $750,000 for their winning pitches in past years.
+“The 1st & Future program has grown substantially over the last few years as a direct result of the fact that we have been able to attract innovative ideas and actual products that have translated to the NFL field relatively quickly,” said Jeff Miller, the league’s executive vice president of communications, public affairs and policy.
+Some real-world examples of 1st & Future winners’ impact:
+— Mobile Virtual Player (MVP) is a company started by Dartmouth football coach Buddy Teevens that invented a robotic tackling dummy which reduces tackling in practice. Teevens believed “there was a better way to replicate the needs of the game if we can get something that simulates movement on a field, be fast enough, thick enough, heavy enough to strike, but not jeopardize the person making the tackle or the person being tackled. That’s how it started.”
+MVP is used by more than half of the 32 NFL teams and hundreds of college, high school and youth football programs, according to its website.
+“Something that is relatively simple or translatable to a football field was able to come out of it because the platform existed for them to showcase it and get some funding to help them increase business,” Miller said.
+— Impressio, which is working to redesign how inter-liners of football helmets work. The company developed new, high-energy absorbing materials used in protective equipment to make customized helmets not only for the player but for his position, and to increase the performance of the helmet during a collision. The material has applications to other sports, to the military and beyond.
+“We were a startup company that had only been incorporated a few months (before 1st & Future), said Impressio President and CTO Chris Yakacki. “We were virtually unknown before the competition. And then the next thing you know, NASA is calling.”
+There are two categories in the 1st & Future competition. The “innovations” category features four start-ups pitching projects designed to improve player health and safety to a panel of judges made up of doctors, athletic trainers, engineering experts, venture capitalists and former players. Winners will be awarded $50,000 and $25,000 for the grand and runner-up prizes, respectively.
+The “computer vision” category, held via the data science platform Kaggle, has five winners to be unveiled during the TV show who will split $75,000. The NFL provided computer scientists actual game data and challenged them to create ways to detect on-field helmet impacts. Nearly 7,800 submissions from 55 countries were received.
+Successful computer vision models of helmet contacts will inform rules changes, teaching tools and even future helmet designs.
+“The program has grown in multiple different directions as a result of our ability to see the possibilities that exist,” Miller said. “Innovation from different sources is a fabulous way for us to be able to help solve problems that we have. This platform allows us to attract people who would not otherwise work to the benefit of football and to apply their ideas to exactly those set of issues that we want to help solve.
+“Take a computer scientist or materials scientist who is out there working on some new innovation or breakthrough and for them to be able to discover that the NFL as one possible source for application of what they are working on has substantial benefit to us.”
+This year’s finalists for innovations are Genesis Helmets, Inc. of Keystone Heights, Florida; Nix, Inc. of Boston; Organic Robotics Corporation (ORC) of Ithaca, New York; and PEEP Performance, LLC of Houston.
+Genesis Helmets is seeking to develop a better-performing football helmet focused on the brain rather than the skull. Nix generates real-time data on sweat rate and electrolyte losses to empower athletes to maintain proper hydration. ORC’s sensors use light to measure muscle fatigue and respiration. PEEP Performance’s GO  Device is a breathing device that increases the user’s blood oxygen levels while providing the protection of a traditional mouth guard.
+“It’s very much Day 1 in applying machine learning to uncover previously unknown insights in sports,” said Priya Ponnapalli, senior manager and principal scientist at the Amazon Machine Learning (ML) Solutions Lab at AWS. “I’m optimistic about the materially beneficial impact this sophisticated technology can provide to athletes, managers, sportscasters, fans and more.”
+___
+More AP NFL: https://apnews.com/NFL and https://twitter.com/AP_NFL
+ Load-Date: January 28, 2021
+
+ 
+
+End of Document
+
+
+Virus rages as new rules challenge California city's mettle
+The Associated Press
+December 12, 2020 Saturday 9:38 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS; DOMESTIC NEWS; STATE AND REGIONAL
+Length: 982 words
+Byline: ADAM BEAM, Associated Press
+Dateline: LODI, Calif. 
+Body
+
+
+
+
+LODI, Calif. — In San Joaquin County, part of California’s vast Central Valley that produces most of the country’s fruits and vegetables, the coronavirus is spreading like a weed and the hospitals are running out of beds for the sickest patients.
+San Joaquin is part of a 12-county region that on Saturday had 100% of its intensive care unit beds filled, the highest rate anywhere in California. And with cases continuing at an unprecedented rate, the death toll inevitably will grow, too.
+A new stay-at-home order was imposed this week but it’s anybody’s guess whether it will have the intended consequence of finally changing enough people’s behavior to slow infections as a vaccine is rolled out.
+“It’s been frustrating,” said Chuck Davis, CEO of data science company Bayesiant that tracks virus numbers for the county. “It’s like we see the train coming down the track and we’re telling people, and some people listen and get off the track and other people get on the track and start dancing.”
+The virus has found a foothold in Lodi, a city of 68,000 on the county's northern rim. The birthplace of A&W Root Beer, Lodi is surrounded by vineyards that rely on Latino farmworkers.
+On School Street, the city's picturesque retail and restaurant hub, sycamore leaves as big as your hand littered the sidewalk. In normal times, volunteers clear the leaves. But that stopped during the pandemic, and the leaves piled up, a subtle reminder of how things have changed.
+More stark reminders are at the local hospital, where a second intensive care unit was created to handle patients. A team of 17 nurses arrives Monday so the hospital can begin accepting patients from some of the county's six other hospitals, all of which are at 100% capacity or more in ICU units.
+Dr. Patricia Iris, medical officer for Adventist Health Lodi Memorial, said during the first surge of cases this year 75% of patients were Latino. The hospital interviewed 30 Latino families to find out why, discovering they didn't trust the hospital.
+Things improved after Adventist partnered with Spanish-language TV and radio stations to educate people about wearing masks and social distancing.
+But across the city, many residents still don't follow the rules, Iris said.
+“People can't help themselves. They want to be near family," she said. “We don't have the same culture and the rigidity around following the guidance here than, for example, San Francisco. We need to educate, educate, as much as we can so we can get some relief.”
+Last week, Gov. Gavin Newsom imposed a three-week stay-at-home order for the San Joaquin Valley. The order forced restaurants to only offer takeout and delivery, shuttered hair and nail salons, movie theaters and other businesses, and limited retailers to 20% capacity.
+Pat Patrick, president and CEO of the Lodi Chamber of Commerce, signed a letter to Newsom, urging him to let businesses stay open.
+“There’s just no rhyme or reason to some of these things and certainly no data,” he said.
+Lodi Junction, a sprawling thrift store, is following the rules, only allowing a maximum of 30 customers and requiring masks and distancing. More than a dozen people were sampling the wares on Wednesday — a box set of Anthony Robbins self-help books, a $150 flat screen TV with no remote — as Bruce Hornsby sang “that’s just the way it is” over the speakers.
+Roman Winter was browsing some shirts while wearing a mask. He’s a doctor of internal medicine at a Southern California hospital, but once worked in San Joaquin County and still has a house in Lodi. He was visiting for the first time in six months and thinks not much has changed.
+“It’s busier out there now than it was before the whole thing started,” he said. “It doesn’t seem that anybody cares.”
+But some things have changed on School Street, where most of the restaurants have closed their seating. Unable to eat inside, Ryan Breakfield and his girlfriend Erica Everett ate takeout in the bed of a pickup truck, calling it a “COVID date.”
+“It’s just really weird. That’s the best way to put it,” he said.
+Tucked between four restaurants is the Rocky Mountain Chocolate Factory, where owner Jeanne Bria’s business model relies on diners walking past her temptations. But people aren’t thinking about dessert now when they walk to their cars with Styrofoam takeout containers. Bria said her business is down 60%.
+She wears a mask and only allows one person or party in her store at a time. She said most people follow the rules, but added: “I would say 95% of the people that come in want to complain about it.”
+“My problem is I don’t know who to believe,” she said. “You hear from different sources different information. And I almost think that the mental health and the frustration damage that’s being done is almost worse.”
+Across town, Denis Xenos knows exactly who he believes — and it isn't Newsom. The owner of Denis' Country Kitchen has kept his restaurant open for dine-in customers despite the mandate, posting on Facebook that he has converted into a “private club." The membership fee is $1 per family.
+The stunt attracted the attention of the county public health department, which called Xenos and told him the district attorney has been notified. Xenos said nothing has happened yet, and he is “just trusting the Lord.”
+“I'm standing up for what our forefathers have died to give me," Xenos said, adding he is not requiring masks. “We’re open, letting everybody choose what they want."
+Others have accepted the rules as necessary. Tom Hoffman, owner of Heritage Oak Winery, canceled his wine tastings and other events for the next three weeks, even though the holiday season is when he makes the most money.
+Hoffman said he expects to survive the shutdown. But his business won't be the same.
+“I don’t really look forward to standing in the tasting room with 14 people in there all breathing the same air. That doesn’t appeal to me anymore,” he said.
+ Load-Date: December 13, 2020
+
+ 
+
+End of Document
+
+
+VIRUS TODAY: With vaccine coming, daily deaths set a record
+The Associated Press
+December 12, 2020 Saturday 10:46 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS; STATE AND REGIONAL
+Length: 349 words
+Byline: The Associated Press
+Body
+
+
+
+
+Here’s what’s happening Saturday with the coronavirus pandemic in the U.S.:
+THREE THINGS TO KNOW TODAY
+— The nation’s first COVID-19 vaccine will begin arriving in states Monday morning, U.S. officials said. The government on Friday gave the final go-ahead to the shots needed to end an outbreak that has killed nearly 300,000 Americans.
+— The U.S. hit another grim daily record Friday, recording 3,309 deaths related to COVID-19. That surpassed the previous one-day high of 3,124 deaths reported Wednesday, according to data compiled by Johns Hopkins University. Friday also saw a new high in daily confirmed infections, with more than 231,000. That’s nearly 4,000 above the previous record set on Dec. 4.
+— Officials in California hope that a three-week stay-at-home order imposed this week on the agricultural San Joaquin Valley will slow transmission in a 12-county area where 97% of intensive care hospital beds are occupied.
+THE NUMBERS: The seven-day rolling average of deaths per day in the U.S. rose to 2,360, up from 1,477 at the end of November, according to the COVID Tracking Project. The seven-day rolling average of new confirmed cases also has jumped, to 210,765 from 166,123 on Nov. 27.
+QUOTABLE: "We see the train coming down the track and we’re telling people, and some people listen and get off the track and other people get on the track and start dancing.” — Chuck Davis, CEO of data science company Bayesiant, on trying to get people in California to take precautions to avoid transmission.
+IN CASE YOU MISSED IT: Many snowbirds who typically live in warm U.S. climates part of the year to escape harsh winters in places as far away as Canada are staying put this year because of the pandemic, causing another hit to American tourism.
+ON THE HORIZON: Trucks are expected to roll out Sunday morning with shipments of Pfizer’s vaccine heading to nearly 150 distribution centers across the states. An additional 425 sites will get shipments Tuesday, and the remaining 66 on Wednesday.
+___
+Find AP’s full coverage of the coronavirus pandemic at https://apnews.com/hub/coronavirus-pandemic.
+ Load-Date: December 12, 2020
+
+ 
+
+End of Document
+
+
+Teladoc eyes several new phases of growth for telemedicine
+The Associated Press
+November 29, 2020 Sunday 4:00 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 467 words
+Byline: TOM MURPHY, AP Health Writer
+Body
+
+
+
+
+Fresh off a big acquisition and riding a wave of customer growth, Teladoc Health is ready to do more for patients.
+CEO Jason Gorevic said the telemedicine provider can play a big role in helping people manage high blood pressure, diabetes or other chronic conditions.
+Plus he wants customers to think well beyond primary care when they consider telemedicine, which involves care delivered remotely, often with a live video connection through smartphones or tablets.
+Last month, Teladoc finished a more than $18 billion deal to buy the technology company Livongo. Separately, the telemedicine provider said its total visits have more than doubled to 7.6 million so far this year, as COVID-19 has pushed more people to try remote care.
+The 49-year-old Gorevic spoke recently with The Associated Press. The conversation has been edited for clarity and length.
+Q: You’ve talked about using the Livongo deal to create whole person virtual care. What will that look like?
+A: You may be somebody with high blood pressure using a Livongo blood pressure cuff that’s uploading data. If you have one day of high blood pressure, we may send you a digital nudge that reminds you, ‘Hey, you should make sure that you’re watching yourself.’ If it’s high for a week, we may reach out with a coach. And if it’s high for a few weeks, now we have a doctor who’s available to connect and maybe change your medications and make sure you are taking (them) and that it’s the right dosage.
+Q: Would the doctor call the patient?
+A: No, we’re going to send you something that gives you the opportunity to request a visit. And if you’re not responding, we may reach out with a coach who offers to connect you.
+Q: Before the pandemic, one of telemedicine’s biggest challenges was making patients remember to use the service when they need it. What’s the next big challenge?
+A: Continuing to make them aware of the breadth of conditions that can be treated virtually. What they can get from virtual care is eye-opening to most people.
+Q: Outside primary care, name a specialty primed for telemedicine growth.
+A: We have a rapidly growing dermatology business. But it goes beyond that. We work with hospitals on a variety of cases ranging from oncology to cardiology to post-surgical follow up visits.
+Q: What place does artificial intelligence have in virtual care? Will patients have basic care needs handled by a computer algorithm that asks questions and gathers data?
+A: We think that AI can augment physicians to help them deliver better care. But we feel very strongly that data science can provide things like intelligent health nudges, looking at your blood sugar levels and reminding you based on whether you had breakfast, hey, maybe going out and taking the dog for a walk would be a good thing.
+___
+Follow Tom Murphy on Twitter: @thpmurphy
+ Load-Date: November 29, 2020
+
+ 
+
+End of Document
+
+
+Study: Health systems, govt responses linked to virus tolls
+The Associated Press
+October 14, 2020 Wednesday 6:52 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS
+Length: 545 words
+Byline: FRANK JORDANS, Associated Press
+Dateline: BERLIN 
+Body
+
+
+
+
+BERLIN — Scientists say a comparison of 21 developed countries during the start of the coronavirus pandemic shows that those with early lockdowns and well-prepared national health systems avoided large numbers of additional deaths due to the outbreak.
+In a study published Wednesday by the journal Nature Medicine, researchers used the number of weekly deaths in 19 European countries, New Zealand and Australia over the past decade to estimate how many people would have died from mid-February to May 2020 had the pandemic not happened.
+The authors, led by Majid Ezzati of Imperial College London, then compared the predicted number of deaths to the actual reported figure during that period to determine how many likely occurred due to the pandemic. Such models of 'excess mortality' are commonly used by public health officials to better understand disease outbreaks and the effectiveness of counter-measures.
+The study found there were about 206,000 excess deaths across the 21 countries during the period, a figure that conforms to independent estimates. In Spain, the number of deaths was 38% higher than would have been expected without the pandemic, while in England and Wales it was 37% higher.
+Italy, Scotland and Belgium also had significant excess deaths, while in some countries such as New Zealand there was no marked change or even — as in the case of Bulgaria — a decrease.
+While the authors note that there are differences in the compositions of populations, such as age and the prevalence of pre-existing conditions that contribute to mortality rates, government efforts to suppress transmission of the virus and the ability of national health systems to cope with the pandemic also played a role.
+Amitava Banerjee, a professor of clinical data science at University College London who wasn't involved in the study, said it was well designed and had used standardized methods.
+He noted that the comparison between death rates in the United Kingdom and New Zealand, where the age of the population and the rates of pre-existing conditions such as obesity are similar, supports the argument that other factors contributed to the differing mortality figures.
+“Even if vaccines and better treatments for severe (COVID-19) infection are developed, the way to minimise excess deaths is to reduce the infection rate through population level measures,” said Banerjee.
+These include lockdowns, protecting high risk groups,and establishing effective “test, trace and isolate” systems, he said.
+Germany, which like the United States was not among the 21 countries examined in the study, has seen fewer deaths so far in 2020 than in some recent years, according to the head of the country’s disease control agency.
+While the reasons for this are complex and may take time to fully understand, a decline in hospital infections and the absence of any reported measles cases in Germany since March indicate that social distancing, mask wearing and hand washing play a role.
+“The measures that were introduced because of COVID have further effects, and they're positive, that much is clear" Lothar Wieler, who heads the Robert Koch Institute, told reporters in Berlin.
+___
+Follow AP pandemic coverage at http://apnews.com/VirusOutbreak and https://apnews.com/UnderstandingtheOutbreak
+ Load-Date: October 14, 2020
+
+ 
+
+End of Document
+
+
+Used vehicle prices up as supply sinks, but relief is coming
+The Associated Press
+October 13, 2020 Tuesday 6:33 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 586 words
+Byline: TOM KRISHER, AP Auto Writer
+Dateline: DETROIT 
+Body
+
+
+
+
+DETROIT — It cost a whole lot more to buy a used SUV, car, truck or van last month than it did before the coronavirus hit, and that almost singlehandedly caused September's modest consumer price increase.
+Blame it on the pandemic, which knocked supply and demand way out of whack, causing prices to spike.
+The good news is that inventories are being replenished, and prices are beginning to drop.
+“The law of supply and demand worked,” said Earl Stewart, owner of a Toyota dealership in North Palm Beach, Florida. “I think things are coming back to normal.”
+When the novel coronavirus made its way to the industrial Midwest and the South in March and April, it forced automakers to shutter factories, and many dealers closed. Sales of new vehicles tanked. With few vehicles being traded in for new ones, and leases being extended, the supply of used vehicles dried up.
+At the same time, automakers weren't producing many lower-priced cars, forcing many buyers into the used-vehicle market. Plus, people who were wary of returning to public transit ended up buying vehicles. Many were armed with government stimulus checks as a down payment.
+Also, lenders had moratoriums on repossessions of vehicles, cutting off another source of used vehicles, said Alex Yurchenko, senior vice president of data science for Black Book, an automotive analytics firm that helps dealers determine vehicle prices.
+As a result, the average asking price of a used vehicle that was 10 years old or less rose more than 9% from $19,800 in May to $21,600 in September, Yurchenko said.
+“It looks like a perfect storm. Higher than usual demand and low supply. It just drove prices up,” Yurchenko said.
+It took longer than expected for auto companies to resume production after virus shutdowns in March, due in part to a lengthy restart for the parts supply chain, Yurchenko said.
+With few trade-ins, Stewart and other dealers were forced into the wholesale auction market to buy used cars, pushing prices up. Stewart said he wouldn’t pay the high prices for fear of losing money, so his dealership waited.
+Now, new-vehicle production is pretty much back to normal, but inventory hasn't been replenished because of growing demand, especially for pickup trucks, said Jeff Schuster, senior vice president at LMC Automotive, a consulting firm.
+“What they've built they've sold,” he said.
+That has pushed new-vehicle prices to record levels, pricing many lower-income people out of the market and sending them to used vehicles. J.D. Power reported the average new vehicle price hit an all-time high of $35,655 in September.
+But the market is starting to even out for used vehicles as trade-ins resume. New vehicle sales were down 9.7% in the third quarter, far better than the 31% free-fall from April through June.
+“Because we're selling so many new cars, we're getting trade-ins, so that's taking the pressure off of going to the auction and having to pay too much money," Stewart said.
+The average retail used-vehicle price has fallen by $100 so far in October when compared with September. Yurchenko predicts the downward trend will continue at least through the end of the year, barring any unforeseen developments with the virus.
+For the year, wholesale used vehicle sales are off 16% from the first nine months of 2019, Yurchenko said.
+Both he and Schuster said it's wise to hold off buying a used vehicle if you can, because prices should drop further by the year's end.
+“If you're just shopping, I'd wait,” Schuster said. “Let inventories rebuild a little bit.”
+ Load-Date: October 13, 2020
+
+ 
+
+End of Document
+
+
+Used vehicle prices up as supply sinks, but relief is coming
+The Associated Press
+October 14, 2020 Wednesday 12:02 AM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 586 words
+Byline: TOM KRISHER, AP Auto Writer
+Dateline: DETROIT 
+Body
+
+
+
+
+DETROIT — It cost a whole lot more to buy a used SUV, car, truck or van last month than it did before the coronavirus hit, and that almost singlehandedly caused September's modest consumer price increase.
+Blame it on the pandemic, which knocked supply and demand way out of whack, causing prices to spike.
+The good news is that inventories are being replenished, and prices are beginning to drop.
+“The law of supply and demand worked,” said Earl Stewart, owner of a Toyota dealership in North Palm Beach, Florida. “I think things are coming back to normal.”
+When the novel coronavirus made its way to the industrial Midwest and the South in March and April, it forced automakers to shutter factories, and many dealers closed. Sales of new vehicles tanked. With few vehicles being traded in for new ones, and leases being extended, the supply of used vehicles dried up.
+At the same time, automakers weren't producing many lower-priced cars, forcing many buyers into the used-vehicle market. Plus, people who were wary of returning to public transit ended up buying vehicles. Many were armed with government stimulus checks as a down payment.
+Also, lenders had moratoriums on repossessions of vehicles, cutting off another source of used vehicles, said Alex Yurchenko, senior vice president of data science for Black Book, an automotive analytics firm that helps dealers determine vehicle prices.
+As a result, the average asking price of a used vehicle that was 10 years old or less rose more than 9% from $19,800 in May to $21,600 in September, Yurchenko said.
+“It looks like a perfect storm. Higher than usual demand and low supply. It just drove prices up,” Yurchenko said.
+It took longer than expected for auto companies to resume production after virus shutdowns in March, due in part to a lengthy restart for the parts supply chain, Yurchenko said.
+With few trade-ins, Stewart and other dealers were forced into the wholesale auction market to buy used cars, pushing prices up. Stewart said he wouldn’t pay the high prices for fear of losing money, so his dealership waited.
+Now, new-vehicle production is pretty much back to normal, but inventory hasn't been replenished because of growing demand, especially for pickup trucks, said Jeff Schuster, senior vice president at LMC Automotive, a consulting firm.
+“What they've built they've sold,” he said.
+That has pushed new-vehicle prices to record levels, pricing many lower-income people out of the market and sending them to used vehicles. J.D. Power reported the average new vehicle price hit an all-time high of $35,655 in September.
+But the market is starting to even out for used vehicles as trade-ins resume. New vehicle sales were down 9.7% in the third quarter, far better than the 31% free-fall from April through June.
+“Because we're selling so many new cars, we're getting trade-ins, so that's taking the pressure off of going to the auction and having to pay too much money," Stewart said.
+The average retail used-vehicle price has fallen by $100 so far in October when compared with September. Yurchenko predicts the downward trend will continue at least through the end of the year, barring any unforeseen developments with the virus.
+For the year, wholesale used vehicle sales are off 16% from the first nine months of 2019, Yurchenko said.
+Both he and Schuster said it's wise to hold off buying a used vehicle if you can, because prices should drop further by the year's end.
+“If you're just shopping, I'd wait,” Schuster said. “Let inventories rebuild a little bit.”
+ Load-Date: October 13, 2020
+
+ 
+
+End of Document
+
+
+Dutch double play: Soccer club, Billy Beane team up
+The Associated Press
+October 9, 2020 Friday 10:59 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: SPORTS NEWS
+Length: 969 words
+Byline: KEN MAGUIRE, AP Sports Writer
+Dateline: ALKMAAR, Netherlands 
+Body
+
+
+
+
+ALKMAAR, Netherlands — Like Billy Beane, Robert Eenhoorn knows all about baseball expectations. The Dutchman was a high draft pick who never made it big on the field — losing his job, in fact, to none other than Derek Jeter.
+And like Beane did with the Oakland Athletics, Eenhoorn oversees a team that does more with less. Despite a small budget, Dutch soccer club AZ Alkmaar has a knack for identifying and developing young talent and then selling them for big profits, all while competing with top teams like Ajax.
+The plucky club north of Amsterdam relies on data analytics to outperform its competitors. They must be doing something right because Beane — portrayed by actor Brad Pitt in the 2011 film “Moneyball” — recently purchased a nearly 5% ownership stake.
+“You have to be willing to think differently," the 52-year-old Eenhoorn said in an interview with The Associated Press. "We give our people at least room to be innovative.”
+AZ — or “Ah-Zed” to English-speaking Europeans — has been punching above its weight. They had beaten Dutch powerhouse Ajax twice last season but were in second place on goal differential when the season was declared over because of the coronavirus pandemic.
+Most clubs use data science these days but rarely do they enlist Beane himself. The A's executive vice president of baseball operations began advising AZ in 2015, shortly after Eenhoorn took over as CEO.
+Beane and Eenhoorn spoke Friday, a day after Oakland's season ended in the AL Division Series to Houston.
+“It's been a blast,” Beane said Friday during a Zoom call. “It's been a lot of fun. It's flattering. It's really neat. Usually in normal times it gives me a nice trip to Amsterdam once a year. And I do enjoy the sport. But it's also fun again to see a club like that have success with similar type of a business plan that all of us have carried out here with the A's. They're a great group of guys and I'm tickled that they've had the success and I can be a part of it.”
+The partnership took root over breakfast in Arizona the prior year. Eenhoorn, in his role leading the Dutch baseball association, would customarily visit spring training camps. AZ, wanting a successful sports executive from outside soccer, had offered Eenhoorn the job. Beane encouraged him to take it.
+“At that time I didn't know that he was so into football,” Eenhoorn said.
+Eenhoorn took the job, took Beane up on his offer to consult, and began relying more on analytics.
+AZ has a stellar youth academy that values cognitive abilities and personality traits in addition to soccer skills. And the philosophy is the kids get first-team minutes. Guus Til, a young midfielder, was sold before last season to Spartak Moscow for a reported 16 million euros ($18.8 million).
+Current youngsters like striker Myron Boadu, forward Calvin Stengs and midfielder Teun Koopmeiners have drawn interest from around Europe. Boadu scored on his debut for the Dutch national team.
+They've also done well recruiting. AZ paid about 500,000 euros ($588,000) for Vincent Janssen in 2015. The striker then had a career-year, scoring 31 goals in all competitions. After the season, AZ sold him to Tottenham for a reported 22 million euros ($25.9 million).
+It's allowed them to be competitive with the Dutch big three of Ajax, PSV Eindhoven and Feyenoord.
+“AZ is working in the most data-driven way of all the four clubs,” said Jesper Gudde, who manages data scouting at SciSports, whose clients include clubs around the world. “It’s on a very high level on performance, definitely. They keep it quite to themselves. It’s their intelligence and their property.”
+AZ last won the Dutch title in 2009 under coach Louis van Gaal, but the squad was older and had less market value.
+The challenge now, Eenhoorn said, is going deeper into European competitions. There are also new expectations in the Dutch league.
+“Everybody starts at zero and you have to prove it again," he said.
+AZ started this season with three consecutive draws. The club announced the news about Beane in September.
+Beane already had a minority stake in English second-division club Barnsley. He's also listed as a co-chairman of RedBall Acquisition Corp., which raised $575 million in its initial public offering. RedBall's SEC filing lists acquisition examples as sports franchises “including European football clubs.”
+Soccer analytics are complicated, but Eenhoorn studied economics and “was used to looking at numbers" from his baseball career.
+Eenhoorn as a kid played “honkbal,” as it's called in the Netherlands, and then at Davidson College in North Carolina. The New York Yankees selected him in the second round of the 1990 MLB draft — picking Andy Pettitte and Jorge Posada in later rounds.
+A shortstop, Eenhoorn was light-hitting but superb defensively. At Triple-A Columbus, rising star Jeter took over and Eenhoorn moved to second base, although the Dutchman saw time at both positions in the majors.
+The night before Jeter's major league debut in May 1995, Eenhoorn played shortstop against — who else — the Oakland A's.
+“I've learned so much also from being in the Yankees organization from ’90 to ’96 that I probably use unconsciously every single day,” he said.
+With Eenhoorn as technical director, the Netherlands twice beat the Dominican Republic in the 2009 World Baseball Classic and won the Baseball World Cup two years later.
+Beane and Eenhoorn communicate frequently.
+“Even when I played, I was always very interested in, OK, why do people make certain decisions?" Eenhoorn said. "So, I think we have the same interests and of course I can't compare my career as an executive with Billy's career, but I'm a couple of years younger.”
+___
+AP Baseball Writer Janie McCauley in Oakland, California, contributed to this report.
+___
+More AP soccer: https://apnews.com/Soccer and https://twitter.com/AP_Sports
+ Load-Date: October 9, 2020
+
+ 
+
+End of Document
+
+
+Facebook's limits on using data brokers won't stop tracking
+The Associated Press
+March 29, 2018 Thursday 9:56 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 778 words
+Byline: By ANICK JESDANUN, AP Technology Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Facebook's decision to stop working with third-party data collectors might earn it public-relations points, but it does little to protect your privacy. The social network still has more than enough data on your interests and hobbies to target ads with precision.
+The company will still tap browser and device IDs to track visits to third-party sites and apps. And it will have lots more information from your use of its service - everything from the businesses and hobbies you "like" to the types of news articles you read and share. The data helps Facebook create profile targets - such as college-educated mothers in Detroit who like ice cream and the band Coldplay - for advertisers to reach.
+Limiting its partnership with data brokers also doesn't touch on the difficulty Facebook has had keeping your data out of the hands of other companies. The social network is in the spotlight following accusations that a data-mining firm used ill-gotten data from tens of millions of Facebook users to try to influence elections.
+Facebook may try to defuse that criticism by saying it's backing off on some data use, said Jon Reily, vice president of commerce strategy at the digital consulting company SapientRazorfish. But, he noted, "they didn't need that sixth wheel on a car anyway."
+In a clear sign of who needs whom more, shares of Acxiom, a leading data collector that Facebook had contracted with, tumbled 19 percent Thursday. Facebook's stock saw a 4 percent gain, reversing some of the big losses it's suffered since the scandal involving Cambridge Analytica, a Trump-affiliated consulting firm, broke almost two weeks ago.
+Late Wednesday, Facebook said it was shutting down a type of advertising product that allowed marketers to use data from people's offline lives to target them on Facebook. The information includes categories like home ownership and purchase history and comes from some of the world's largest data brokers, including Acxiom, Epsilon and Experian. The decision came on the same day Facebook said it would make it easier to use its privacy controls and to see the data the company collects on its users.
+These data brokers have troves of data on credit scores, family status, pet ownership and hobbies, which they glean from surveys, warrantee cards, retail loyalty programs and other sources. Brokers typically don't have a direct relationship with consumers, and how they get the data is often questionable, said Peter Reinhardt, CEO of Segment, a consumer data firm.
+"Removing these brokers is a no-brainer, as they add very little incremental value to advertisers and a lot of rightful scrutiny to Facebook," Reinhardt said.
+Facebook said shutting down the advertising feature over the next six months "will help improve people's privacy on Facebook." But it wouldn't have stopped Cambridge Analytica from grabbing data inappropriately through an app that purported to be a research tool. Though Facebook has clamped down on apps' ability to get data on your friends, it still lets apps collect plenty of data on you. That isn't changing with Wednesday's moves.
+And even without direct access to the brokers' data, Facebook was already able to build prediction models based on it, said Kenneth Sanford, lead analytics architect at the data science company Dataiku. So Facebook could use that model to ascertain other characteristics of people who buy Purina cat food, even if Facebook no longer gets data on which users indeed bought Purina.
+"In the beginning, Facebook had a tremendous value in knowing those things they didn't otherwise know," Sanford said. "Over time, they've been able to accumulate that information."
+Besides data brokers, which will lose a source of revenue, advertisers who don't already have a lot of insights on their own customers might suffer in the short term. Debra Aho Williamson, principal analyst at the research firm eMarketer, said those advertisers might cut their spending on Facebook temporarily, but Facebook will try to shift them to its many other methods of ad targeting.
+Losing access to purchase history could hurt some advertisers. If Purina wants to target cat lovers on Facebook, it might not know that your spouse does the actual buying - and that any advertising targeted at you might be wasted. But experts think such advertisers will just find other sources for that data to restore such insights.
+David Ciancio, senior customer strategist at the data science specialist Dunnhumby, said the change means little more than "an extra step for advertisers." The effects on Facebook, he said, will be "relatively marginal."
+___
+AP Technology Writer Barbara Ortutay contributed to this report.
+ Load-Date: March 30, 2018
+
+ 
+
+End of Document
+
+
+UK unveils new technology to fight extremist content online
+The Associated Press
+February 13, 2018 Tuesday 4:06 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS
+Length: 738 words
+Byline: By DANICA KIRKA, Associated Press
+Dateline: LONDON 
+Body
+
+
+
+
+LONDON (AP) - The British government is unveiling new technology designed to remove extremist material from social media, amid mounting pressure on companies like Facebook and Twitter to do more to remove such content from their platforms.
+The software, developed by ASI Data Science with funding from the government, was announced Tuesday by Home Secretary Amber Rudd ahead of meetings with technology executives and U.S. Secretary of Homeland Security Kirstjen Nielsen this week in Silicon Valley. The program will be shared with smaller companies that don't have the resources to develop such technology, the agency said.
+"I hope this new technology the Home Office has helped develop can support others to go further and faster," Rudd said before the meetings. "The purpose of these videos is to incite violence in our communities, recruit people to their cause, and attempt to spread fear in our society."
+Governments and law enforcement agencies have been pressing social media companies to do more to prevent extremists from using their sites to promote violence and hatred. British Prime Minister Theresa May has called on internet companies to remove extremist propaganda from their sites in less than two hours.
+But extremist content is only one type of objectionable content on the internet, with governments struggling to stem the flow of everything from child pornography to so-called fake news. The importance of the battle was underscored during the 2016 U.S. presidential election, during which Russian entities sought to influence to outcome by placing thousands of ads on social media that reached some 10 million people on Facebook alone.
+Social media companies have struggled to respond. Because the companies see themselves not as publishers but as platforms for other people to share information, they have traditionally been cautious about taking down material.
+Amid growing pressure, Facebook, Twitter, Google and its unit YouTube last year created the Global Internet Forum to Combat Terrorism, which says it is committed to developing new content-detection technology, helping smaller companies combat extremism and promoting "counter-speech," content meant to blunt the impact of extremist material.
+Unilever, a global consumer products company and one of the world's largest advertisers, on Monday demanded results, saying it wouldn't advertise on platforms that do not make a positive contribution to society. Its chief marketing officer, Keith Weed, said he's told Facebook, Google, Twitter, Snap, and Amazon that Unilever wants to change the conversation.
+"Consumers ... care about fraudulent practice, fake news, and Russians influencing the U.S. election," he said at a digital advertising conference, according to excerpts of a speech provided by Unilever. "They don't care about good value for advertisers. But they do care when they see their brands being placed next to ads funding terror, or exploiting children."
+So far, though, the technology needed to detect and remove dangerous posts hasn't kept up with the threat, experts say. Removing such material still requires judgment, and artificial intelligence has not proved good enough to determine the difference, for example, between an article about the so-called Islamic State and posts from the group itself.
+The software being unveiled Tuesday is aimed at stopping the vast bulk of material before it goes online.
+Marc Warner, CEO ASI Data Science, which helped developed the technology, said the social media giants can't solve this problem alone.
+"The way to fight that is to cut the propaganda off at the source," he said. "We need to prevent all of these horrible videos ever getting to the sort of people that can be influenced by them."
+Tests of the program show it can identify 94 percent of IS propaganda videos, according to the Home Office, which provided some 600,000 pounds ($833,000) to fund the software's development.
+But experts on extremist material say even if the software works perfectly it will not even come close to removing all Islamic State material on line.
+Charlie Winter, Senior Research Fellow at the International Center for the Study of Radicalization at King's College London, said the program only focuses on video and video is only a small portion of "the Islamic state corpus."
+"I think it's a positive step but it shouldn't be considered a solution the problem," he said. "There's so much more that needs to be done."
+ Load-Date: February 14, 2018
+
+ 
+
+End of Document
+
+
+UK report: Racism means minorities harder hit by virus
+The Associated Press
+June 16, 2020 Tuesday 4:18 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS; POLITICAL NEWS
+Length: 525 words
+Byline: SYLVIA HUI, Associated Press
+Dateline: LONDON 
+Body
+
+
+
+
+LONDON — A new study by Public Health England has confirmed that historic racism and social inequalities are contributing factors that increase the risk of black, Asian and minority communities contracting and dying from the coronavirus in the U.K.
+Britain’s government has been under heavy pressure to do more to directly address the issue after data consistently showed that coronavirus death rates were significantly higher for blacks and ethnic minorities compared to white people.
+The report, published Tuesday, didn't look at genetic factors, but said it was clear that the pandemic “exposed and exacerbated longstanding inequalities” in the country. Relevant factors included "racism, discrimination and stigma, occupational risk, inequalities in the prevalence of conditions that increase the severity of disease including obesity, diabetes, cardiovascular disease and asthma.’’
+Citing a strong association between economic disadvantage and COVID-19 diagnoses, it said black people and minority groups are more at risk because they are more likely to live in cramped housing, use public transportation and work in jobs with a higher risk of virus exposure.
+It added that historic racism and poorer experiences of health care or at work meant that minority groups are less likely to seek care, or demand better protective equipment at work.
+“Lack of trust of NHS (National Health Service) and healthcare treatment resulted in their reluctance to seek care on a timely basis, and late presentation with disease,” the paper said.
+The report said officials should start more comprehensive collection of ethnicity health data and ensure ethnicity is recorded in death certificates. It also recommended targeted messaging on smoking, obesity and improving management of common health conditions like diabetes.
+The report's release has been controversial. Prime Minister Boris Johnson’s government has been accused of holding back the material when it published an earlier report on the issue.
+The first report looked at why black people and ethnic communities may be at higher risk from COVID-19, but made no recommendations and made no reference to the 17 sessions in which around 4,000 people offered insight on the issue.
+Tuesday's report said that those consulted “expressed deep dismay, anger, loss and fear in their communities about the emerging data and realities of black, Asian and minority ethnic groups being harder hit by the COVID-19 pandemic than others."
+Amitava Banerjee, associate professor in clinical data science at University College London, said that overall the disproportionate impact on minorities is “due not only to racism, but much more to do with ethnic inequalities in the social and economic determinants of health, which require urgent action."
+On Monday, Johnson announced a commission to look at what more can be done to fight racial inequality in the U.K. Thousands protested across the country for two weekends in demonstrations spurred by the May 25 death of George Floyd by police in Minneapolis.
+___
+Follow AP pandemic coverage at https://apnews.com/VirusOutbreak and            https://apnews.com/UnderstandingtheOutbreak
+ Load-Date: June 16, 2020
+
+ 
+
+End of Document
+
+
+No spike, but no certainty on fallout of Wisconsin election
+The Associated Press
+May 6, 2020 Wednesday 10:41 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 886 words
+Byline: By SCOTT BAUER and TODD RICHMOND, Associated Press
+Dateline: MADISON, Wis. 
+Body
+
+
+
+
+MADISON, Wis. (AP) - Wisconsin's presidential primary election held last month in the face of the coronavirus pandemic drew concern from doctors, voters, poll workers and politicians who warned that having thousands of people leave their homes to cast ballots would further spread the highly contagious virus.
+Now well beyond the 14-day incubation period for COVID-19, and with a Tuesday special congressional election in northern Wisconsin looming, it remains largely unknown just how many people contracted the virus at the polls on April 7.
+"We lack the scientific tools and infrastructure to really measure the impact reliably," said Kristen Malecki, an epidemiologist at the University of Wisconsin School of Medicine and Public Health. "If we were able to test everybody, then we would absolutely be able to say whether (there was a surge) or not."
+A team of epidemiologists and public health experts who examined the potential impact of the election on the spread of COVID-19 in Milwaukee released a study Wednesday that drew no conclusions, in large part because of the lack of widespread testing and contact tracing.
+Nearly 411,000 people showed up statewide to vote, some waiting in lines for hours in Milwaukee, many of them wearing masks and voicing anger at Republicans in the Legislature who refused to delay the election. Assembly Speaker Robin Vos, who worked the polls in a mask, gloves and protective gown, was widely derided for reassuring voters that it was "incredibly safe to go out."
+It will likely never be known just how safe, or not, it was to vote, public health leaders said.
+Malecki and other health experts said it's nearly impossible to quantify the impact COVID-19 had on those who showed up at the polls because of a lack of testing and contact tracing, the work of determining who an infected person has been around. In addition, some people are infected but have no symptoms and therefore don't get tested at all.
+Sixty-seven people who tested positive for COVID-19 since April 7 reported that they had been at the polls, but state health officials have warned against assuming that's how they became infected since many of them had also been other places where they could have been exposed.
+The state intends to stop asking people who tested positive after Thursday whether they were at the polls because the 14-day incubation period of the virus has long since passed. They are also not counting anyone who was at the polls but who didn't show symptoms until after April 21.
+"It's safe to say (the election) didn't help," said Dr. Nasia Safdar, medical director of infection control and prevention at UW Health, the University of Wisconsin-Madison's medical arm. "But whether it actively hurt people, it's very likely but not possible to really prove it."
+For example, a voter or poll worker may have contracted the virus on the bus or while grocery shopping before the election, she said.
+Five National Guard members who worked the polls reported having symptoms consistent with COVID-19, but only one was tested. That test came back negative. Doctors would not give the other four tests.
+The number of infections linked to the election pales in comparison to the outbreaks seen at meatpacking plants in Wisconsin. More than 500 cases have been tied to plants in and around Green Bay.
+University of Wisconsin researchers who are using cellphone data to track the mobility of Americans in the middle of the pandemic said the data show people moved around more on the April 7 election day than they did in the days leading up to the vote. That bolsters concerns raised before the election that holding the vote would lead more people to be out than otherwise would have been. As it was on April 7, Wisconsin remains under a stay-at-home order designed to limit movement and the chances of the virus spreading.
+While more than 1.1 million people voted absentee, nearly 411,000 voters cast ballots in person. Many complained that they were forced to do so after their requests for absentee ballots went unfulfilled.
+Wisconsin stood alone last month in carrying out its election as the coronavirus was spreading. While Alaska, Wyoming, Hawaii and Louisiana were all pushing back their elections or shifting to mail-only, Wisconsin's Republican-controlled Legislature - with the help of the conservative-controlled state Supreme Court - resisted Democratic Gov. Tony Evers' request to do the same.
+Only five polling places out of nearly 200 opened in Milwaukee due to a shortage of people willing to work at the polls. Evers called out the National Guard to help.
+Wisconsin is about to hold more in-person voting next week, to fill a vacant congressional seat in the northern part of the state. Evers has made no attempt to stop it, in part because of the more rural population and lower infection rates. Nebraska is also holding a statewide election Tuesday with in-person voting.
+Evers has also been working to increase testing and contact tracing as part of his plan to reopen the state.
+Ramping up contact tracing will help in identifying future cases but not tell the story of what happened during the election, said Brian Yandell, interim director of the American Family Insurance Data Science Institute.
+In the absence of greater testing and tracking now, Yandell said, "we largely are flying blind."
+ Load-Date: May 7, 2020
+
+ 
+
+End of Document
+
+
+Best Buy cruises into the holidays
+The Associated Press
+November 26, 2019 Tuesday 4:11 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 417 words
+Byline: By ANNE D'INNOCENZIO, AP Retail Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Best Buy is entering the critical holiday season with good cheer, raising  its profit expectations for the current quarter. 
+The nation's largest consumer electronics retailer on Tuesday joined a handful of other big box stores like Target and Walmart which are putting up strong sales numbers from the third quarter. 
+Best Buy, once under severe threat from Amazon.com, is holding its own after aggressively expanding its online operations, speeding up deliveries and making visits to its stores for customers a better experience. That effort was led by Hubert Joly until he stepped down in 2019 after seven years as CEO. Corie Barry took over the job in June.
+The Richfield, Minnesota, company has also recognized the value of technology that will help an aging nation. In May, Best Buy acquired Critical Signal Technologies, a provider of personal emergency response systems and telehealth monitoring services for at-home seniors. In August, it bought the predictive health care technology business of BioSensics and hired its data science and engineering team. Last year, it purchased Great Call, which provides emergency response devices for the aging.
+This holiday season the company began offering next day shipping for any sized order on thousands of items following similar maneuvers by Walmart and Amazon.
+The company posted third-quarter profits of $293 million, or $1.10 per share. Earnings, adjusted for one-time gains and costs, were $1.13 per share, easily topping Wall Street's per-share projections of $1.04, according to a survey by Zacks Investment Research.
+Revenue was $9.76 billion, also exceeding expectations. 
+Same store sales rose 1.7%, marking 11 consecutive quarters of gains.
+For the current quarter ending in January, Best Buy expects its per-share earnings to range from $2.65 to $2.75. Analysts surveyed by Zacks had forecast adjusted earnings per share of $2.64.
+The company said it expects revenue in the range of $14.75 billion to $15.15 billion. Analysts surveyed by Zacks had expected revenue of $15.06 billion.
+Best Buy expects full-year earnings in the range of $5.81 to $5.91 per share, with revenue ranging from $43.2 billion to $43.6 billion.
+Shares of Best Buy, up 40% this year,  jumped 8% in early trading to a new high for the year. 
+_____
+Elements of this story were generated by Automated Insights (http://automatedinsights.com/ap) using data from Zacks Investment Research. Access a Zacks stock report on BBY at            https://www.zacks.com/ap/BBY
+ Load-Date: November 27, 2019
+
+ 
+
+End of Document
+
+
+Best Buy sees growth in health care technology for elderly
+The Associated Press
+September 25, 2019 Wednesday 8:13 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 466 words
+Byline: By ANNE D'INNOCENZIO, AP Retail Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - The nation's largest consumer electronics chain, known for selling TV sets, cellphones and laptops, is looking to health care as a big source of its future growth.
+Best Buy Co. said Wednesday that in five years it hopes to provide 5 million seniors with health monitoring services, which can range from sensors placed throughout a home to a pendant worn around the neck. It currently provides the service to 1 million.
+It's part of the chain's deeper push into the $3.5 trillion U.S. health care market and essential to its goal of reaching $50 billion in annual revenue by 2025.
+The Minneapolis-based chain is tapping into an aging U.S. population, noting that two out of three seniors live with two or more chronic conditions and many want to stay at home.
+Best Buy is also looking to dig deeper into health care at a time when it, like other retailers, face uncertainty regarding an escalating trade war with China. Some of its core businesses, like TVs and phones sales, have been sluggish, although it says the consumer electronics business is stable.
+The strategy comes as Best Buy has succeeded in holding off increasing competition from Amazon and other players by speeding up deliveries and adding more services to deepen its relationship with customers.
+"This is an environment driven by constant innovation and people who need help with technology," CEO Corie Barry said at an investor conference Wednesday where executives unveiled a five-year growth plan.
+Best Buy has been on buying spree of its own to boost the health care business.
+In May, it acquired Critical Signal Technologies, a provider of personal emergency response systems and telehealth monitoring services for at-home seniors. In August, it acquired the predictive health care technology business of BioSensics, including the hiring of the company's data science and engineering team. Last year, it bought GreatCall, which provides emergency response devices for the aging.
+It also hired its own chief medical officer to push those efforts: Daniel Grossman, a physician, will report to Asheesh Saksena, head of Best Buy Health.
+Insurers have been paying more for remote monitoring technology to help track issues like chronic conditions and keep patients healthy and out of hospitals. That technology can include special wireless scales to monitor patients with congestive heart failure.
+Saksena told investors that pendants using certain algorithms can track how a senior is walking and predict the risk of falling. He also noted that sensors on refrigerators detect how often it's being used. That can trigger a call by GreatCall agent to see whether that person has been eating.
+___
+AP Health Writer Tom Murphy in Indianapolis contributed to this report.
+___
+Follow Anne D'Innocenzio: http://twitter.com/ADInnocenzio
+ Load-Date: September 26, 2019
+
+ 
+
+End of Document
+
+
+British prime minister's aide divides, but will he conquer?
+The Associated Press
+September 15, 2019 Sunday 9:30 AM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS
+Length: 943 words
+Byline: By JILL LAWLESS, Associated Press
+Dateline: LONDON 
+Body
+
+
+
+
+LONDON (AP) - To some, he's a strategic genius. Others call him a mayhem-loving anarchist.
+Everyone seems to have an opinion about Dominic Cummings. British Prime Minister Boris Johnson's most powerful aide - dubbed "Boris' brain" by some - is an enigmatic backstage operator who shuns media attention, yet has been played onscreen by "Sherlock" star Benedict Cumberbatch.
+Since taking office two months ago, Johnson has made a series of bold moves: Promising Brexit "do or die," dealing ruthlessly with party rebels and controversially suspending Parliament. Many see Cummings' hand at work in the strategy, which has left Westminster shaken and the governing Conservatives divided.
+Former Conservative Prime Minister John Major - not a fan - called Cummings a "political anarchist . who cares not a fig for the future of the party I have served."
+"We have seen over-mighty advisers before. It is a familiar script. It always ends badly," Major told a business dinner Sept. 5. "I offer the prime minister some friendly advice: get rid of these advisers before they poison the political atmosphere beyond repair. And do it quickly."
+Cummings, 47, is used to being a divisive figure.
+He grew up in the northern England city of Durham, where - unfashionably for a northern kid in the 1980s - he was a fan of right-wing Prime Minister Margaret Thatcher.
+He studied history at Oxford University, where classmate Lebby Eyres remembered him in the Daily Telegraph as "a loner" with "a love of argumentative conversation," keen on chess and the geopolitics board game Risk.
+After university he spent three years in Russia, where he was involved in a failed attempt to set up an airline, before getting involved in British politics. He worked for Business for Sterling, a group that opposed Britain joining the euro single currency, advised then-Conservative Party leader Iain Duncan Smith and worked for the Department for Education amid a contentious attempt to radically reshape the school curriculum.
+Cummings likes big ideas, and for years has explored them in a series of long blogposts discussing everything from game theory to the ancient Chinese general Sun Tzu. He is a particular fan of the military strategy known as the "OODA loop"- "Observe-orient-decide-act" - as a way of deceiving and defeating opposition.
+In late 2015, Cummings was hired to help run the "leave" campaign in the following year's European Union membership referendum. He later said that at the beginning, the Vote Leave campaign amounted to "me and a bike and an iPhone."
+He is credited with coming up with the campaign's highly effective slogan "Take back control," but has been accused of crafting misleading messages such as the inaccurate claim - emblazoned on a big red bus - that the U.K. sends the EU 350 million pounds a week that could be used instead to buttress the National Health Service after Brexit.
+Crucially, he hired Canadian data-science firm AggregateIQ - which had links to Cambridge Analytica - to find and connect with voters the other side was overlooking during the pitched referendum campaign.
+Debate has raged ever since about the role of targeted ads and social media data-harvesting in the referendum's outcome. Vote Leave has been investigated by Britain's election watchdog, and fined for overspending, and Cummings was found to be in contempt of Parliament earlier this year for refusing to give evidence to a committee of lawmakers investigating "fake news."
+The saga was dramatized in the TV movie "Brexit: The Uncivil War," with Cumberbatch playing Cummings.
+Cummings' appointment as a top Downing Street adviser after Johnson became prime minister in July took many people by surprise. He has long been scathing about civil service bureaucracy, and according to former Foreign Office Minister Alistair Burt, "he despises politicians."
+Some argue that Cummings is a guerrilla-style campaigner, unsuited to the day-to-day operations of government. But Johnson has structured his premiership as an insurgency with one overriding goal: take Britain out of the EU on Oct. 31, deal or no deal.
+He has met stiff resistance. Parliament tied the prime minister's hands with a law designed to block a no-deal Brexit on Oct. 31, prevented Johnson from calling a snap election and ordered him to release the government's stark forecast of the impact of a no-deal exit.
+In turn, the prime minister expelled 21 Conservative lawmakers who voted with the opposition from the party parliamentary group, then suspended Parliament until Oct. 14, little more than two weeks before Britain is due to leave the EU.
+Opponents have challenged Parliament's suspension, with the Supreme Court on Tuesday due to consider whether it should be reversed. Meanwhile, Brexit day is less than seven weeks away, and the new divorce deal Johnson says he aims to seal with the EU has proved elusive.
+Critics say Cummings has overreached himself. Others suspect he probably has new tricks up his sleeve.
+Sam Freedman, who worked with Cummings at the Department for Education, tweeted recently that "Cummings isn't the omniscient ubermensch that some of the Tory spin is making him out to be. He does however have an intuitive understanding of true populism which is very rare in Westminster. I fear some of his opponents are underestimating him again."
+Cummings says little, at least in public. On Sept. 10, he told reporters who staked out his home that "you guys should get out of London, go and talk to people who are not rich remainers."
+One reporter shouted: Will Britain leave the EU on time?
+"Sure," he said.
+___
+Follow AP's full coverage of Brexit and British politics at: https://www.apnews.com/Brexit
+ Load-Date: September 16, 2019
+
+ 
+
+End of Document
+
+
+New independent watchdog to keep extremists off internet
+The Associated Press
+September 24, 2019 Tuesday 4:58 AM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 556 words
+Byline: By EDITH M. LEDERER, Associated Press
+Dateline: UNITED NATIONS 
+Body
+
+
+
+
+UNITED NATIONS (AP) - The leaders of New Zealand and France are backing a watchdog organization aimed at keeping internet platforms from being used by extremists - and preparing speedy responses to future attacks.
+New Zealand Prime Minister Jacinda Ardern said Monday the Global Forum to Counter Terrorism, which was established in 2017 by Facebook, Microsoft, Twitter and YouTube after terrorist attacks with internet links, is being turned into an independent organization.
+The new organization is limited to companies operating internet platforms and services and will be led by an executive director selected by its governing industry-linked Operating Board, Ardern said. An Independent Advisory Committee with a majority of members from civil society and a minority from government and inter-governmental organizations will guide the Operating Board.
+Ardern said establishing an independent organization marked "a real sea change to respond to the serious and difficult issue" of extremists who have recruited supporters and streamed attacks online.
+The killings of 51 people at two mosques in Christchurch, New Zealand, on March 15 were broadcast live on Facebook, drawing outrage and fueling debate on how to better regulate social media.
+Facebook Chief Operating Officer Sheryl Sandberg, the forum's current chair who joined Ardern at Monday's news conference, said "we've shared more than 200,000 digital fingerprints with our partners, because when terrorists try to use one platform, they try to use all platforms.
+"And when one of us find them, we can take them down off multiple platforms," she said.
+At a gathering in Paris in May, Ardern, French President Emmanuel Macron and others signed the "Christchurch Call," committing to act against terrorist and extremist content online.
+British Prime Minister Boris Johnson, whose country is among almost 20 nations backing the "Christchurch Call," said at a U.N. meeting before the news conference that the internet must not become "a place to watch mass murder unfold."
+He said scientists are working on technology to stop violent attacks from being broadcast live on the internet. The British government says it'll fund data-science experts to work on an algorithm to improve the detection of violent and harmful videos.
+Ardern said more countries, organizations and online companies have signed on since May, including Google and Amazon.
+The U.S. hasn't joined, citing privacy concerns, and tech firms are struggling with the sheer volume of content.
+Ardern said the independent forum's goals include improving the capacity of technology companies to prevent and respond to abuse of their platforms by terrorists and violent extremists, and to fund research on their online operations.
+"We're trying to create a civil defense-style mechanism," Ardern said. "The same way we respond to natural emergencies like fires and floods, we need to be prepared and ready to respond to a crisis like the one we experienced."
+Sandberg said the fastest-growing internet message platforms are encrypted but people using them often use other platforms that are not, allowing them to be removed from both.
+"We can't stop because we're going to have to stay one step ahead, learn from our mistakes, and continue to do all we can over the long-term," Sandberg said.
+___
+Corrects spelling of Ardern's first name.
+ Load-Date: September 25, 2019
+
+ 
+
+End of Document
+
+
+UK working on technology to tackle violent online videos
+The Associated Press
+September 23, 2019 Monday 7:26 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 134 words
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - British Prime Minister Boris Johnson says scientists are working on technology to stop violent attacks from being broadcast live on the internet as part of an international call to curb online extremism.
+The United Kingdom is among almost 20 countries backing the "Christchurch call," an appeal to world leaders and tech companies launched after 51 people died in a far-right attack on mosques in the New Zealand city in March.
+The U.S. hasn't joined, citing privacy concerns, and tech firms are struggling with the sheer volume of content.
+The British government says it'll fund data-science experts to work on an algorithm to improve the detection of violent and harmful videos.
+Johnson said Monday at the United Nations that the internet must not become "a place to watch mass murder unfold."
+ Load-Date: September 24, 2019
+
+ 
+
+End of Document
+
+
+Best Buy posts strong quarterly sales during holiday season
+The Associated Press
+February 27, 2020 Thursday 4:45 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 603 words
+Byline: By ANNE D'INNOCENZIO, AP Retail Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Best Buy Co. reported strong fourth-quarter results as shoppers bought appliances, mobile phones and tablets during the holiday season.
+The robust results, announced Thursday, beat Wall Street expectations, and came as many of its big box peers like Target and Walmart had wrestled with sales shortfalls.
+Best Buy, which is facing increasing competition from Amazon, is holding its own after aggressively expanding its online operations, speeding up deliveries and making visits to its stores for customers a better experience. That effort was led by Hubert Joly until he stepped down in 2019 after seven years as CEO. Corie Barry took over the job in June.
+The Richfield, Minnesota, company is also expanding into technology aimed at older customers. Last May, Best Buy acquired Critical Signal Technologies, a provider of personal emergency response systems and telehealth monitoring services for at-home seniors. In August, it bought the predictive health care technology business of BioSensics and hired its data science and engineering team. In 2018, it purchased Great Call, which provides emergency response devices for the aging.
+The company introduced curbside pickup service that allows shoppers to pick up items without getting out of their car at 100 stores. It said it already accounts for 15% of store pickup units at those locations. It plans to expand that service to the majority of stores this fiscal year.
+Like many retailers, Best Buy has been whipsawed by the U.S. trade wars with China and now, a new virus in China is also throwing a wrench in supply chains. Best Buy offered a profit outlook that factored in the impact of the virus but said the situation was too fluid to determine exact financial impacts from the disruption of its supply network. It said it's analyzing the situation vendor by vendor and weighing which factories are back up and running.
+"We view this as a relatively short-term disruption that does not impact our long-term strategy and initiatives," said Best Buy Chief Financial Officer Matt Bilunas in a statement.
+But Best Buy is entering the year with some strength.
+In the quarter ended Feb. 1, it earned net income of $745 million, or $2.84 per share. Earnings, adjusted for amortization costs, were $2.90 per share. The results topped Wall Street expectations of $2.76 per share, based on a survey by Zacks Investment Research.
+The consumer electronics retailer said revenue rose to $15.2 billion in the period, also surpassing Street forecasts. Eight analysts surveyed by Zacks expected $15.09 billion.
+Sales at stores opened at least a year rose 3.2% for the fourth quarter, marking the 12th straight quarter of comparable sales growth.
+For the fiscal year, the company reported profit of $1.54 billion, or $5.75 per share. Revenue was reported as $43.64 billion.
+For the current quarter ending in May, Best Buy expects its per-share earnings to range from $1 to $1.05. Analysts expect $1.08 per share, according to FactSet.
+The company said it expects revenue in the range of $9.1 billion to $9.2 billion for the fiscal first quarter. Analysts surveyed by Zacks had expected revenue of $9.26 billion.
+Best Buy expects full-year earnings per share in the range of $6.10 to $6.30, with revenue ranging from $43.3 billion to $44.3 billion.
+Shares were down nearly 3%, or $2.38, to $79.81 in late-morning trading amid a broader stock market sell-off.
+_____
+Elements of this story were generated by Automated Insights (http://automatedinsights.com/ap) using data from Zacks Investment Research. Access a Zacks stock report on BBY at            https://www.zacks.com/ap/BBY
+ Load-Date: February 28, 2020
+
+ 
+
+End of Document
+
+
+Cyborgs, trolls and bots: A guide to online misinformation
+The Associated Press
+February 7, 2020 Friday 3:59 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 1268 words
+Byline: By DAVID KLEPPER, Associated Press
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Cyborgs, trolls and bots can fill the internet with lies and half-truths. Understanding them is key to learning how misinformation spreads online.
+As the 2016 election showed, social media is increasingly used to amplify false claims and divide Americans over hot-button issues including race and immigration. Researchers who study misinformation predict it will get worse leading up to this year's presidential vote. Here's a guide to understanding the problem:
+MISINFORMATION VS. DISINFORMATION
+Political misinformation has been around since before the printing press, but the internet has allowed falsehoods, conspiracy theories and exaggerations to spread faster and farther than ever.
+Misinformation is defined as any false information, regardless of intent, including honest mistakes or misunderstandings of the facts. Disinformation, on the other hand, typically refers to misinformation created and spread intentionally as a way to confuse or mislead.
+Misinformation and disinformation can appear in political ads or social media posts. They can include fake news stories or doctored videos. One egregious example of disinformation from last year was a video of House Speaker Nancy Pelosi that was slowed down to make her sound as if she were slurring her words.
+Research indicates that false claims spread more easily than accurate ones, possibly because they are crafted to grab attention.
+Scientists at the Massachusetts Institute of Technology analyzed more than 126,000 stories, some true and some false, that were tweeted millions of times from 2006 through the end of 2016. They found that misleading or incorrect stories traveled six times faster - and reached more people.
+Online misinformation has been blamed for deepening America's political polarization and contributing to distrust in government. The risks were highlighted in 2016 when Russian trolls created fake accounts to spread and amplify social media posts about controversial issues.
+WAR OF THE BOTS AND CYBORGS
+The disposable foot soldiers in this digital conflict are bots. In the social media context, these autonomous programs can run accounts to spread content without human involvement.
+Many are harmless, tweeting out random poems or pet photos. But others are up to no good and designed to resemble actual users.
+One study by researchers at the University of Southern California analyzed election-related tweets sent in September and October 2016 and found that 1 in 5 were sent by a bot. The Pew Research Center concluded in a 2018 study that accounts suspected of being bots are responsible for as many as two-thirds of all tweets that link to popular websites.
+While flesh-and-blood Twitter users will often post a few times a day, about a variety of subjects, the most obvious bots will tweet hundreds of times a day, day and night, and often only on a specific topic. They are more likely to repost content rather than create something original.
+And then there's the cyborg, a kind of hybrid account that combines a bot's tirelessness with human subtlety. Cyborg accounts are those in which a human periodically takes over a bot account to respond to other users and to post original content. They are more expensive and time consuming to operate, but they don't give themselves away as robots.
+"You can get a lot from a bot, but maybe it's not the best quality," said Emilio Ferrara, a data science researcher at the University of Southern California who co-wrote the study on Twitter bots. "The problem with cyborgs is they are much harder to catch and detect."
+SPOT THE BOTS
+Bots can be hard to spot, even for the best researchers.
+"We have 12 ways that we spot a bot, and if we hit seven or eight of them we have pretty high confidence," said Graham Brookie, director of the Atlantic Council's Digital Forensic Research Lab, a Washington, D.C.-based organization that studies connections between social media, cybersecurity and government.
+Nonetheless, Brookie recalled the case of a Twitter account from Brazil that was posting almost constantly - sometimes once per minute - and displayed other bot-like characteristics. And yet, "It was a little grandma, who said, 'This is me!'"
+Their prevalence and the difficulty of identifying them has made bots into a kind of digital bogeyman and transformed the term into an insult, used to dismiss other social media users with different opinions.
+Michael Watsey, a 43-year-old New Jersey man who often tweets his support for President Donald Trump, said he has been repeatedly called a Russian bot by people he argues with online. The accusations prompted Twitter to temporarily suspend his account more than once, forcing him to verify he is a human.
+"All I'm trying to do is uses my First Amendment right to free speech," he said. "It's crazy that it's come to this."
+TROLLS AND SOCK PUPPETS
+The word troll once referred to beasts of Scandinavian mythology who hid under bridges and attacked travelers. Now it also refers to people who post online to provoke others, sometimes for their own amusement and sometimes as part of a coordinated campaign.
+Sock puppets are another oddly named denizen of social media, in this case a type of imposter account. While some users may use anonymous accounts simply to avoid identifying themselves, sock-puppet accounts are used by the owner to attack their critics or praise themselves. In October, Utah Sen. Mitt Romney acknowledged operating a secret Twitter account under the name "Pierre Delecto," which he used to defend himself against criticism.
+FAKED VIDEOS: DEEP, CHEAP AND SHALLOW
+Deepfakes are videos that have been digitally created with artificial intelligence or machine learning to make it appear something happened that did not. They are seen as an emerging threat, as improvements in video editing software make it possible for tricksters to create increasingly realistic footage of, say, former President Barack Obama delivering a speech he never made, in a setting he never visited. They are expensive and difficult to create - especially in a convincing way.
+Facebook announced last month that it would ban deepfake videos - with exceptions for satire. Beginning in March, Twitter will prohibit doctored videos, photography and audio recordings "likely to cause harm." Material that is manipulated but isn't necessarily harmful may get a warning label. And YouTube bans "deceptive uses of manipulated media" that could pose serious risk of harm.
+By contrast, shallowfakes, cheapfakes or dumbfakes are videos that have been doctored using more basic techniques, such as slowing down or speeding up footage or cutting it.
+Examples include a doctored video posted by Britain's Conservative Party before December's U.K. election that made it seem like a Labour Party official was struggling to respond to a question about Brexit.
+Because they're easy and inexpensive to make, cheapfakes can be every bit as dangerous as their fancier cousin, the deepfake.
+"Deepfakes are getting more realistic and easier to do," said John Pavlik, a journalism professor at Rutgers University who studies how technology and the internet are changing communication habits. "But you don't have to have special software to make these simpler ones."
+Researchers who study Americans' changing media habits recommend that people turn to a variety of sources and perspectives for their news, use critical thinking when evaluating information on social media, and think twice about reposting viral claims. Otherwise, they say, misinformation will continue to flow, and users will continue to spread it.
+"The only solution," Ferrara said, "is education."
+ Load-Date: February 8, 2020
+
+ 
+
+End of Document
+
+
+Best Buy 2Q profit beats estimates, but revenue misses
+The Associated Press
+August 29, 2019 Thursday 6:44 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 818 words
+Byline: By ANNE D'INNOCENZIO, AP Retail Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Best Buy Co. reported a sales shortfall for the fiscal second quarter and trimmed its annual sales forecast, blaming uncertainty surrounding an escalating trade war with China heading into the holiday shopping season.
+Shares of the retailer fell 8% in afternoon trading Thursday.
+"It is difficult to factor in the uncertainty related to overall customer buying behavior," said Best Buy's newly appointed CEO Corie Barry during a call with analysts on Thursday. "It is hard to predict how at the macro level consumers will react to higher prices resulting from tariffs."
+Best Buy has succeeded in holding off increasing competition from Amazon and other players by expanding its online business, speeding up deliveries and adding more services to enhance its relationship with its customers. That reinvention was spearheaded by Hubert Joly, who was named CEO in 2012 but stepped down this year. Under Barry, who took over the job in June, Best Buy is continuing to focus and expand on those initiatives.
+The company is also pushing more into the health field. In May, Best Buy acquired Critical Signal Technologies, a provider of personal emergency response systems and telehealth monitoring services for at-home seniors. Earlier this month, it acquired the predictive health care technology business of BioSensics, including the hiring of the company's data science and engineering team based in Watertown, Massachusetts. Last year, it purchased Great Call, which provides emergency response devices for the aging.
+Still, Best Buy, like many retailers, is facing a lot of challenges related to the China trade war. The Trump Administration announced Aug. 23 that it would delay some tariffs originally scheduled for Sept. 1 to Dec. 15 to avoid hurting American consumers over the holidays. But industry experts say that a large portion of holiday merchandise will still be hit by September and October tariff increases at even higher rates than they had anticipated.
+Trump said this month that he would raise planned tariffs on $300 billion of Chinese goods from 10% to 15%. The Office of the U.S. Trade Representative also said existing tariffs on another $250 billion in Chinese imports would increase from 25% to 30% on Oct. 1 after receiving feedback from the public.
+Barry said TVs, smart watches and headphones would be slapped with higher tariffs implemented Sept. 1. Computing, mobile phones and game consoles will be hit by higher tariffs starting Dec. 15, she said. She noted that over the past 18 months as the trade war has intensified, many of its suppliers have moved their manufacturing out of China into other areas like Vietnam and Mexico. Barry estimated that the tariffs, both implemented and proposed, affect 60% of Best Buy's cost of goods sold, but she said that figure should go down to 40% next year as Best Buy's sourcing increases away from China.
+Best Buy is looking at promotions and trying to figure out if and how to raise prices this holiday season. What is uncertain is how the tariffs will flow to consumers during the holiday season and consumers' willingness to pay more for items, especially when they're buying gifts for others, Barry said.
+"There is no precedent for this," Barry said during a call with reporters.
+The Richfield, Minnesota-based company said it earned net income of $238 million, or 89 cents per share, in the second quarter. Earnings, adjusted for restructuring costs and amortization costs, were $1.08 per share.
+The results topped Wall Street expectations. The average estimate of 10 analysts surveyed by Zacks Investment Research was for earnings of 99 cents per share.
+Best Buy said profit was driven by cost reductions and efficiencies.
+The consumer electronics retailer posted revenue of $9.54 billion in the period, falling short of the average Street forecast of $9.57 billion.
+Same-store sales - or sales in stores open at least a year, a key metric of a retailer's health - rose 1.6% for the quarter.
+For the current quarter ending in November, Best Buy expects its per-share earnings to range from $1 to $1.05. The company said it expects revenue in the range of $9.65 billion to $9.75 billion for the fiscal third quarter. Analysts surveyed by Zacks had expected revenue of $9.82 billion.
+Best Buy raised its full-year profit outlook and now expects fiscal 2020 earnings in the range of $5.60 to $5.75 per share. However it trimmed the high end of its revenue guidance and now sees it in a range of $43.1 billion to $43.6 billion.
+Best Buy's shares fell $5.88 to $63.12.
+_____
+Elements of this story were generated by Automated Insights (http://automatedinsights.com/ap) using data from Zacks Investment Research. Access a Zacks stock report on BBY at            https://www.zacks.com/ap/BBY
+_____
+AP Business Writer Dorothea Degen in New York contributed to this report.
+___________________
+Follow Anne D'Innocenzio: http://twitter.com/ADInnocenzio
+ Load-Date: August 30, 2019
+
+ 
+
+End of Document
+
+
+MIT scandal highlights thorny ethics of university donations
+The Associated Press
+September 9, 2019 Monday 9:57 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 1119 words
+Byline: By COLLIN BINKLEY, AP Education Writer
+Dateline: BOSTON 
+Body
+
+
+
+
+BOSTON (AP) - While MIT grapples with new allegations about its financial ties to Jeffrey Epstein, other universities that accepted donations from the disgraced financier say they have no plans to return the money.
+The turmoil at MIT has sent shockwaves through the world of education and highlights the challenges universities face as they screen potential donors and decide whether to keep money that's tainted by its benefactor's misdeeds.
+Epstein was arrested in July on federal sex-trafficking charges, drawing new attention to old allegations that he had sexually abused women and girls. He killed himself in jail in August while awaiting trial.
+Harvard University says it already spent $6.5 million that Epstein donated in 2003. The University of Arizona says it isn't returning $50,000 it received in 2017. The University of British Columbia is not giving back $25,000 it got from an Epstein charity in 2011.
+Ohio State University has not said what will come of its funding from Epstein, including $2.5 million donated in 2007. The school announced a review of the gifts in July but declined to provide an update Monday.
+Epstein's ties to academia are coming under renewed scrutiny amid allegations that a prestigious research lab at the Massachusetts Institute of Technology had a more extensive fundraising relationship with Epstein than it previously acknowledged and tried to conceal the extent of the relationship.
+The allegations, first reported Friday by The New Yorker, spurred MIT's president to bring in an outside law firm to investigate. In a letter to campus Saturday, President Rafael Reif called the accusations "deeply disturbing" and "extremely serious."
+Reif previously announced that MIT had received about $800,000 from Epstein over two decades and would donate the same amount to a charity that benefits victims of sexual abuse.
+Other schools have said they didn't even know donations they received came from Epstein. His $50,000 to the University of Arizona to pay for a science conference came through a charity he operated, Gratitude America, Ltd. School officials said they were unaware of his ties to the charity at the time.
+Epstein's $25,000 to the University of British Columbia came through another of his foundations, Enhanced Education. The school says none of the gift's documentation, "nor the university's due diligence," indicated a link to Epstein, who pleaded guilty in 2008 to soliciting a minor for prostitution in Florida under a deal that required him to serve 13 months in jail and register as a sex offender.
+"The crimes Mr. Epstein was convicted of, and the later accusations, are abhorrent and the university would not have accepted the donation in 2011 if it had been aware of a link between him and Enhanced Education," Kurt Heinrich, a university spokesman, said in a statement.
+Harvard has refused to disclose exactly how much it received from Epstein but says the largest gift was $6.5 million, given to the school's Program for Evolutionary Dynamics in 2003. A Harvard spokesman said the school did not receive any gifts from Epstein after 2007.
+Disputes over tainted money are common at universities and other nonprofits that rely on philanthropy, experts say. Many schools appoint ethics boards to screen donors, but there are no hard rules when it comes to deciding whether to accept a gift.
+"Universities have to determine for themselves what is or is not acceptable," said Leslie Lenkowsky, a professor emeritus at Indiana University who specializes in philanthropy. "There are no clear standards."
+Some nonprofit leaders err on the side of caution, Lenkowsky said, while some believe that even "tainted" figures deserve a chance at redemption.
+More universities have been crafting policies to guide them when concerns about donors arise, said Henry Stoever, president and CEO of the Association of Governing Boards of Universities and Colleges. Different colleges have different appetites for risk, he said, but ultimately the top priority is the school's reputation.
+"You don't just say yes to everybody who comes in the door with a big check," Stoever said.
+At MIT, it appears there was a breakdown in the system for evaluating donors. According to The New Yorker, the Media Lab continued to accept money from Epstein even after the university labeled him as a "disqualified" donor. MIT says Media Lab director Joi Ito resigned Saturday. Ito, who was also a visiting professor at Harvard Law School, also resigned from that position.
+Reif's message on Saturday said the acceptance of Epstein's gifts "involved a mistake of judgment." He added that the school is assessing how to improve policies and prevent similar mistakes in the future.
+Among other allegations, The New Yorker reported that Epstein arranged at least $7.5 million from other wealthy donors to the MIT Media Lab, including $2 million that he claimed to solicit from Bill Gates. A Gates representative on Monday said the money given directly to the university in 2014 wasn't dedicated to the program that Epstein was fundraising for, and Gates' office wasn't aware of any discussions between the lab and Epstein about the tech billionaire's grant.
+At Brown University, a fundraising director was placed on administrative leave following a report that accused him of helping cover up Epstein's connections to the MIT Media Lab. Brown spokesman Brian Clark told The Providence Journal Sunday that Peter Cohen, director of development for computer and data science, is on leave pending a review. Clark said Brown hasn't received donations from Epstein. Cohen did not respond to a phone call seeking comment Monday.
+The fallout over Epstein's funding is only the latest in a long list of similar disputes. In 2017, the University of Southern California rejected a $5 million donation from Harvey Weinstein after he was accused of sexual misconduct. Weinstein has denied all accusations of non-consensual sex.
+Purdue University returned an $8 million donation from the founder of the Papa John's pizza chain last year after he allegedly used a racial slur. In 2016, Ohio University returned $500,000 from former Fox News CEO Roger Ailes after he was accused of sexual harassment, allegations that Ailes denied.
+Students and faculty at Harvard, Yale and other universities have been pressing leaders to reject funding from the Sackler family, which owns Purdue Pharma, maker of Oxycontin, and has been blamed for contributing to the opioid crisis. The Sacklers have called some of the accusations against the company misleading and said that the family has been wrongly vilified, while trying to distance themselves from the workings of the company.
+___
+Associated Press writer Sally Ho contributed from Seattle.
+ Load-Date: September 10, 2019
+
+ 
+
+End of Document
+
+
+The Latest: Gates' office denies gift's link to Epstein
+The Associated Press
+September 9, 2019 Monday 9:14 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 303 words
+Dateline: PROVIDENCE, R.I. 
+Body
+
+
+
+
+PROVIDENCE, R.I. (AP) - The Latest on how universities are dealing with past donations from Jeffrey Epstein (all times local):
+4:55 p.m.
+Bill Gates' private office is denying any association with Jeffrey Epstein following a report last week that ties the disgraced financier to a donation made by the Microsoft co-founder.
+The New Yorker reports Epstein arranged at least $7.5 million in donations to the Massachusetts Institute of Technology Media Lab, including $2 million that he claimed to solicit from Gates.
+A Gates representative on Monday said the money given directly to the university in 2014 wasn't dedicated to the program that Epstein was fundraising for, and Gates' office wasn't aware of any discussions between the lab and Epstein about the tech billionaire's grant.
+Emails published by The New Yorker claimed the Gates money was directed by Epstein, who asked for a write-up about the One Science program so that Gates could help fund it.
+___
+1:15 p.m.
+Brown University has placed a fundraising director on administrative leave following a report that accused him of helping cover up disgraced financier Jeffrey Epstein's connections to the Massachusetts Institute of Technology Media Lab.
+Brown spokesman Brian Clark told The Providence Journal Sunday that Peter Cohen, director of development for computer and data science, is on leave pending a review. Clark says Brown hasn't received donations from Epstein.
+A phone call seeking comment from Cohen was made Monday.
+MIT says Media Lab director Joi Ito resigned Saturday. The New Yorker reported Friday the lab had a more extensive fundraising relationship with Epstein than previously acknowledged and tried to conceal its extent.
+The story included emails from Cohen about Epstein.
+Harvard Law School has also accepted Ito's resignation as a visiting professor.
+ Load-Date: September 10, 2019
+
+ 
+
+End of Document
+
+
+Brown University fundraiser with ties to Epstein resigns
+The Associated Press
+January 22, 2020 Wednesday 4:34 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 203 words
+Dateline: PROVIDENCE, R.I. 
+Body
+
+
+
+
+PROVIDENCE, R.I. (AP) - A Brown University fundraising director has resigned, months after being placed on leave by the Ivy League school for his involvement in accepting donations from disgraced financier Jeffrey Epstein while at the Massachusetts Institute of Technology Media Lab, a Brown spokesman said.
+Peter Cohen resigned Tuesday. University spokesman Brian Clark confirmed the resignation to The Associated Press.
+The student newspaper, The Brown Daily Herald, first reported the resignation. Cohen declined to comment on his resignation when reached by the newspaper.
+Cohen, director of development for computer and data science at Brown, was placed on leave in September.
+"While at Brown, Mr. Cohen's performance was deemed effective, and he was a valued member of the team," Clark said in an emailed statement. "The university wishes Mr. Cohen the best in his future endeavors."
+Clark previously said that Brown hasn't received donations from Epstein.
+Cohen worked at the MIT Media Lab as an administrator from 2014 to 2018, where he held the position of Director of Development and Strategy.
+Epstein was arrested in July on federal sex trafficking charges. He killed himself in jail in August while awaiting trial.
+ Load-Date: January 23, 2020
+
+ 
+
+End of Document
+
+
+Johnson & Johnson posts higher sales, big 4Q profit jump
+The Associated Press
+January 22, 2020 Wednesday 3:45 PM GMT
+
+ Copyright 2020 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 528 words
+Byline: By LINDA A. JOHNSON, AP Medical Writer
+Body
+
+
+
+
+Higher prescription drug sales and lower legal costs drove Johnson & Johnson's fourth-quarter profit 32% higher.
+The world's biggest maker of health care products on Wednesday reported net income of $4.01 billion, or $1.50 per share. That's up from $3.04 billion, or $1.12, a year earlier.
+Adjusted earnings came to $1.88 per share, matching the expectations of industry analysts, according to a survey by FactSet.
+Total revenue edged up 1.7% to $20.75 billion. J&J also benefited from a low tax rate, just 4.9% in the quarter.
+The New Brunswick, New Jersey, based maker of baby shampoo and biologic drugs forecast 2020 revenue of $85.4 billion to $86.2 billion, and adjusted earnings per share of $8.95 to $9.10.
+Shares of J&J dropped $2.37, or 1.6%, to $146.90 per share.
+"The company is treading water, with revenue and earnings about as expected, and its stock price up just a bit this year, but not up as much as the S&P 500. Its drug business is doing well, led by four big products whose sales are increasing," Erik Gordon, a professor and pharmaceuticals analyst at University of Michigan's Ross School of Business, commented in an email. "A big question hanging over the company is how many billions of dollars it may have to pay as a result of the wave of products liability lawsuits it faces."
+J&J is dealing with thousands of lawsuits over drug side effects, its role in the U.S. opioid epidemic and allegations its baby powder caused cancer in some users and its surgical mesh for sagging pelvic organs injured patients.
+Sales at J&J's prescription drug division jumped 3.5% to $10.55 billion, driving the strong results for the company as it has in recent years. Sales were led by immune disorder drug Stelara, cancer drugs Darzalex and Imbruvica, and schizophrenia drug Invega Sustenna, four of the eight J&J drugs that produce annual sales topping $2 billion each.
+"Our robust growth can be attributed to volume, not price," CEO Alex Gorsky told analysts on a conference call to discuss the results.
+J&J and other drugmakers have been under intense scrutiny for several years for repeated drug price hikes and ever-higher launch prices for new drugs.
+At J&J's medical devices and diagnostics business, which the company has been restructuring, sales declined 0.5% to $6.63 billion. Sales at its consumer health division, which sells baby products and over-the-counter medicines, rose 0.9% to $3.57 billion.
+During the fourth quarter, the European Commission approved Spravato, a nasal spray for treating depression, and cancer blockbuster Darzalex, for treating the bone cancer multiple myeloma in combination with other medicines.
+J&J acquired rights to bermekimab during the quarter, an experimental drug for treating eczema and other skin disorders, and completed its acquisition of Taris Biomedical, which is developing treatments for bladder disorders, including cancer. J&J also agreed to buy the remaining stake in Verb Surgical, a move to boost its strength in robotics and data science.
+For all of 2019, J&J reported sales of$82.06 billion and net income of $15.12 billion, or $5.63 per share.
+___
+Follow Linda A. Johnson at https://twitter.com/LindaJ_onPharma
+ Load-Date: January 23, 2020
+
+ 
+
+End of Document
+
+
+Amazon, seeking more skilled workers, will do the training
+The Associated Press
+July 11, 2019 Thursday 6:26 PM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 517 words
+Byline: By JOSEPH PISANI, AP Retail Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Amazon, needing a more tech-savvy workforce, is offering to pay to retrain its employees and help them switch to more technical jobs at Amazon or elsewhere.
+The online shopping giant said Thursday that it plans to spend $700 million by 2025 to retrain 100,000 workers, or a third of its U.S. workforce. The initiative could help Amazon find and keep more workers With a strong economy and unemployment near a 50-year low, workers have more options, giving employers a tougher time finding help.
+"The harder it is to hire workers from the outside, the more sense it makes to invest in training the workers you already have," said Jed Kolko, chief economist at job site Indeed.
+The training could also help Amazon.com Inc. tame criticism from labor groups and some politicians, including presidential candidates, who say Amazon's order-packing warehouses have poor working conditions. Workers at a Minnesota facility plan to strike next week during the company's busy "Prime Day" shopping holiday, saying that they are not paid enough for the speed at which they're expected to pack boxes. Late last year, Amazon raised the minimum wage for all its U.S. workers to at least $15 an hour.
+Most of the in-house training will be free for Amazon employees, the company said. It will offer several programs, depending on skill and job level. A warehouse worker with no college degree, for example, could be trained to become an IT technician who keeps the computers and scanners in a warehouse running smoothly. More high-skilled workers, like those at its Seattle headquarters, could take software engineering classes to switch careers at Amazon or another company.
+"While many of our employees want to build their careers here, for others it might be a stepping stone to different aspirations," said Beth Galetti, a senior vice president of human resources at Amazon. "We think it's important to invest in our employees, and to help them gain new skills and create more professional options for themselves."
+Major retailers like Walmart and Target have been raising pay and boosting training to lure and retain employees and give shoppers a better in-store experience. While customers are less likely to come face to face with an Amazon worker, the company said having better skilled talent can help it invent more products and make shopping more convenient for customers. Its Alexa voice assistant, for example, has been a hit for the company, allowing customers to reorder paper towels or play a song by talking to a voice-activated speaker.
+Amazon said Thursday that it expects its total U.S. workforce to hit 300,000 this year. Worldwide, it has more than 630,000 employees, making it the second-biggest U.S.-based private employer after Walmart.
+Amazon, using its own employment data, said its fastest growing skilled job positions over the last five years include data mapping, data science, security engineering and business analysis. There is also strong demand for workers skilled in logistics and transportation.
+_____
+AP Business Writer Michelle Chapman in Newark also contributed to this story.
+ Load-Date: July 12, 2019
+
+ 
+
+End of Document
+
+
+German far-right rules digital campaign for Europe election
+The Associated Press
+May 18, 2019 Saturday 6:44 AM GMT
+
+ Copyright 2019 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1035 words
+Byline: By KIRSTEN GRIESHABER, Associated Press
+Dateline: BERLIN 
+Body
+
+
+
+
+BERLIN (AP) - The best polls put the far-right Alternative for Germany at less than 15 percent of the vote one week before European elections . But with their relentless Facebook messages, tweets and other social media posts, they're dominating the other parties online.
+Like other right-wing parties in Europe, the party known as AfD is taking a page out of U.S. President Donald Trump's playbook, skirting a traditional media campaign to focus on a provocative social media effort that has prompted more shares and chatter than anyone else. The key question, though, is whether it can turn the internet buzz into actual votes.
+"As the first Facebook party of Germany, the AfD knew from the very beginning how to activate and mobilize their fans," digital expert Martin Fuchs told The Associated Press. "Thousands of fans make sure the party's content is spread widely and creates a buzz and attention - at least within the AfD bubble."
+Trump's nontraditional strategy has proven a model for many populist parties in Europe. Italy's Matteo Salvini streams videos of his appearances on Facebook and debates issues on Twitter; Marine Le Pen in France has 2.2 million Twitter followers and her party created a unit devoted to social media campaigning for France's 2017 presidential election, in which she made it to the runoff.
+The AfD wouldn't discuss its strategy in detail, but the most successful posts seem to take a kernel of real news and then exaggerate it to raise online indignance and promote the conservative nationalist platform.
+On Twitter, its members are lashing out against the traditional mainstream parties by falsely claiming Chancellor Angela Merkel's Christian Democrats want to ban YouTube. On Facebook, they warn - also inaccurately - that Merkel's government coalition partner, the Social Democrats, will expropriate private homes.
+And on all social media platforms, they stoke fears of migrants and Islam.
+Earlier this month they capitalized on a report in the conservative tabloid press that Mohammed had become the most popular baby name in Berlin - true if you count middle names, but otherwise not.
+With a photo of a toddler sporting a crudely photoshopped thick black beard, the Berlin AfD tweeted "Mohammed is now the most popular name," and asked, "Berlin: Islamization is not happening?" That post was eventually taken down but not before it sparked wide-ranging uproar and discussion.
+And after a report that an asylum-seeker threw a dog out a window, the AfD posted on Facebook a picture of a Golden Retriever puppy captioned: "Mutilated, burned, raped: Dogs perish for radical Islam." The post was shared 7,000 times and received 2,800 comments.
+Currently, the AfD is polling at around 10-13% for the upcoming election, up from 7.1% in the 2014 European election. But 47% of the most frequently used terms in online political discussions were linked to the AfD in a study by Alto Data Analysis.
+In an interview with the AP earlier this month, AfD co-leader Alice Weidel downplayed the poll figures, noting that mainstream pundits had underestimated Trump's chances of winning right up to election day.
+But the other parties are not rolling over and playing dead in the face of the AfD's social media dominance.
+The Greens, for example, had one person who took care of two social media accounts during the last European elections. This time, it's four staffers overseeing 14 accounts, double the budget for the media campaign, and all their party members, candidates and elected politicians are encouraged to be digitally active.
+They've also got a so-called "rapid response team" of around 4,000 online-savvy supporters who can be activated to "jump into the debates and discredit false statements" when the party is attacked by others on social media, the press office of the Green Party told the AP.
+Christian Lindner, the leader of the pro-business Free Democrats, is a prolific tweeter and was one of the first major German politicians to embrace the platform. For this election, the party has ramped up its online operation with a budget of 300,000 euros ($337,000 dollars) compared with 47,300 euros in 2014. Likewise, Merkel's junior coalition partner Social Democrats say they have increased their budget 80-fold over the previous European election, where they spent only 20,000 euros.
+Merkel herself does not tweet, and made a splash earlier this year by saying she was giving up her Facebook page as well, despite 2.5 million likes. Her spokesman, Steffen Seibert, does tweet regularly, as does the party and many of its other leaders. The CDU did not respond to several requests for comment on their social media efforts for the European elections.
+The AfD's national press office said that "social media are important for us, however, their influence on the elections is not measurable." The party did not want to share further details on its election strategy, but a spokesman for the AfD's Berlin branch, Ronald Glaeser, said using social media was the best way for the party to bypass traditional media.
+Fuchs, the digital expert, who teaches at several German universities and founded the social media analysis platform pluragraf.de, said his research suggests the AfD's skillful digital campaigning will not translate into too much of a gain at the polls. He noted that in Germany, studies show entire election campaigns usually only impact about 2-3% of the vote's result.
+The AfD has seen little or no growth in its Facebook fans in recent months, he said.
+"My impression is that the AfD's potential to mobilize via digital communication is immensely overrated," Fuchs said. "They're mobilizing inside their bubble - but only there."
+Simon Hegelich, a professor for political data science at Munich's Technical University, tends to agree.
+"It's not easy - often even impossible - to influence voters via social media," Hegelich told the AP. "All studies so far imply that nobody changes their political opinion radically just because he reads something on the internet."
+___
+Elaine Ganley in Paris and Colleen Barry in Milan, Italy, contributed reporting.
+___
+For more news from The Associated Press on the European Parliament elections go to https://www.apnews.com/EuropeanParliament
+ Load-Date: May 19, 2019
+
+ 
+
+End of Document
+
+
+AP FACT CHECK: Fabrications of Trump and his critics
+The Associated Press
+June 2, 2018 Saturday 12:27 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: WASHINGTON DATELINE; AP Fact Check
+Length: 1924 words
+Byline: By HOPE YEN and CALVIN WOODWARD, Associated Press
+Dateline: WASHINGTON 
+Body
+
+
+
+
+WASHINGTON (AP) - President Donald Trump fabricated history when it came to assessing the 2016 election, his achievements on the opioid epidemic and a congressman's voting record on taxes. Critics of his immigration policy got it wrong when they accused the Trump administration of taking 1,500 immigrant children from their parents and losing them.
+The week in review:
+TRUMP: "African-Americans vote for Democrats for the most part. You know, vast majority. They've been doing it for over 100 years." - Nashville rally Tuesday.
+THE FACTS: Not 100 years or anything close. Most African-Americans for much of U.S. history were disenfranchised, then prevented from voting until the 1965 Voting Rights Act, which outlawed racial discrimination in voting. Before then, those who could vote mostly backed Republicans until the 1932 election of President Franklin D. Roosevelt, whose New Deal programs of economic relief helped spur a longer-term shift of black support from Republican to Democrat.
+___
+TRUMP: "Some of these states, I won by 44 points." - Nashville rally.
+THE FACTS: Not some. One. He won Wyoming with 70 percent of the vote in 2016, exceeding Hillary Clinton's 22 percent by nearly 48 points, according to Associated Press election data. His next biggest win came in West Virginia, where he won by 42 points.
+Nationwide, Trump lost the popular vote. He garnered 46 percent to Clinton's 48 percent, but ultimately won the election based on an Electoral College system in which the votes of smaller rural states that generally backed Trump are weighted more heavily than big, Democratic-leaning states such as New York and California.
+Under the U.S. system of electing presidents, Electoral College votes are set equal to the number of U.S. representatives in each state plus its two senators.
+___
+TRUMP: "A.P. has just reported that the Russian Hoax Investigation has now cost our government over $17 million, and going up fast. No Collusion, except by the Democrats!" - tweet Friday.
+THE FACTS: The AP did not report the cost is going up fast. It cited a Justice Department finding that the investigation over 10 months has cost $16.7 million, which Trump rounded up to $17 million. Of the costs assigned to the investigation, $9 million would have been spent even absent the investigation, the department said.
+___
+TRUMP: "Not that it matters but I never fired James Comey because of Russia! The Corrupt Mainstream Media loves to keep pushing that narrative, but they know it is not true!" - tweet Thursday.
+THE FACTS: Trump himself fed that "narrative." The president has said at least twice that Comey's firing in May 2017 was related to the FBI's investigation into whether Trump's campaign associates coordinated with Russia in an effort to sway the 2016 election. And his lawyer, Rudy Giuliani, told Fox News in May that Trump fired Comey because the FBI director wouldn't publicly state that Trump "wasn't a target" of the Russia investigation. Trump's public rationale for firing Comey has shifted on multiple occasions.
+___
+TRUMP, referring to Robert Iger, CEO of ABC's parent Walt Disney Co.: "Iger, where is my call of apology? You and ABC have offended millions of people, and they demand a response. How is Brian Ross doing? He tanked the market with an ABC lie, yet no apology. Double Standard!" - tweet Thursday.
+THE FACTS: "No apology" is wrong. Trump should know that because he expressed satisfaction in December with ABC's statement that said, "We deeply regret and apologize for the serious error" by Ross, an investigative reporter.
+Ross had reported that Trump, as a candidate, directed aide Michael Flynn to make contact with Russian officials during the campaign, a potentially explosive development. Ross changed his report hours later, saying his source stated that Trump's outreach actually came after Trump won the election, when presidents-elect might be expected to get to know foreign officials. ABC issued the apology, suspended Ross for four weeks without pay and said he would no longer report on Trump.
+At the time, that pleased Trump, who tweeted: "Congratulations to @ABC News for suspending Brian Ross for his horrendously inaccurate and dishonest report on the Russia, Russia, Russia Witch Hunt. More Networks and 'papers' should do the same with their Fake News!"
+Trump's revived wrath at ABC and Iger comes after the network canceled Roseanne Barr's show because of her racist tweet about Valerie Jarrett, who was an aide to President Barack Obama. Iger tweeted that the cancellation was "the right thing" to do.
+___
+TRUMP: "There is no one better to represent the people of N.Y. and Staten Island (a place I know very well) than @RepDanDonovan, who is strong on Borders & Crime, loves our Military & our Vets, voted for Tax Cuts and is helping me to Make America Great Again. Dan has my full endorsement!" - tweet Wednesday.
+HE FACTS: He's incorrect about the tax cuts he signed into law in December. Donovan voted against them, one of the few Republicans to do so. He told AP on Thursday that Trump knew that. "The president was well aware," he said. "We've had discussions about my tax vote, the president and I." Donovan opposed the tax bill because he said it would mean a tax increase for his constituents. "With the state and local tax deduction nearly eliminated, this tax bill doesn't equal relief for far too many New Yorkers," he said at the time.
+___
+TRUMP, sharing this tweet from broadcaster Rush Limbaugh: "If the FBI was so concerned, and if they weren't targeting Trump, they should have told Trump. If they were really concerned about the Russians infiltrating a campaign (hoax), then why not try to stop it? Why not tell Trump? Because they were pushing this scam." - Thursday.
+THE FACTS: The FBI did tell the Trump campaign about threats posed by foreign intelligence services. What level of detail it disclosed has not been established. It is now well known that Trump aides had multiple contacts with Russian interests during the campaign and the FBI was investigating those contacts for any evidence of collusion between the campaign and Russia. It is therefore unlikely that the FBI would share specifics that might compromise its criminal investigation.
+In August 2016, an FBI counterintelligence agent gave candidate Trump what is known within the bureau as a defensive briefing about the threats from foreign intelligence services. Such briefings are fairly standard and are intended to help campaigns guard against infiltration or hacking by foreign governments, such as Russia and China. Similar briefings were given to Clinton and the two vice presidential picks prior to the election, according to an October 2017 letter from Greg Brower, then the FBI's head of congressional affairs.
+___
+TRUMP: "We got $6 billion for opioid and getting rid of that scourge that's taking over our country. And the numbers are way down. We're getting the word out - bad. Bad stuff. You go to the hospital, you have a broken arm, you come out, you're a drug addict with this crap. It's way down. We're doing a good job with it. But we got $6 billion to help us with opioid." - Nashville rally.
+THE FACTS: That's misleading. One leading indicator of the opioid epidemic is down - painkiller prescriptions. Other indicators are up, such as the number of overdoses and deaths. And none of that has to do with the $6 billion enacted by Congress. The numbers are from 2017; the money is for this year and next.
+Prescriptions for opioid painkillers filled in the U.S. fell almost 9 percent last year, the largest drop in 25 years. The total dosage of opioid prescriptions filled in 2017 declined by 12 percent because more prescriptions were for a shorter duration, fewer new patients started on them and high-dose prescriptions dropped. The numbers are from health data firm IQVIA's Institute for Human Data Science.
+But overdose deaths involving opioids rose to about 46,000 for the 12-month period ended October 2017, up about 15 percent from October 2016, according to the Centers for Disease Control and Prevention. The numbers are preliminary because of continuing cause-of-death investigations later in the reporting period. They could go higher.
+As well, the CDC says emergency department visits for overdoses of opioids rose 30 percent in the U.S. from July 2016 to September 2017. Overdoses shot up 70 percent in the Midwest in that time while increasing by 54 percent in large cities in 16 states.
+___
+TRUMP: "Democrats mistakenly tweet 2014 pictures from Obama's term showing children from the Border in steel cages. They thought it was recent pictures in order to make us look bad, but backfires." - tweet Tuesday.
+THE FACTS: He is correct about widespread misrepresentation of the photos on Twitter.
+The photos, taken by AP, were from 2014, during the Obama administration, but were presented by liberal activists as if they showed the effects of Trump's immigration policy now. The photos were taken at a center run by the Customs and Border Protection Agency in Nogales, Arizona. One photo shows two unidentified female detainees sleeping in a holding cell. It's not clear that many prominent Democrats spread the photos, from a 2016 Arizona Republic story, though some did.
+Democrat Antonio Villaraigosa, former Los Angeles mayor now running for governor, tweeted that he was: "Speechless. This is not who we are as a nation." Jon Favreau, ex-speechwriter for Obama, tweeted: "This is happening right now." They and others deleted their tweets when they realized the mistake.
+___
+JIM CARREY, actor: "1500 innocent children ripped from their mothers' arms at our border. Lost in Trump's 'system'. - tweet May 27.
+THE FACTS: This didn't happen. Many Trump critics, Carrey among them, misrepresented the fate of nearly 1,500 minors who came to the border - without their parents - and were transferred by U.S. authorities to sponsors in the country.
+The Health and Human Services Department followed up with such children by calling their households to check on them late last year, getting information on the whereabouts of most, officials said. But they could not account for 1,475 of them, in part because many sponsors didn't respond to the calls.
+On that basis, Trump critics are calling the children "lost." But in that round of calls, the Trump administration actually had a slightly better rate of confirming such children's circumstances than the Obama administration did in 2016, according to an inspector general's report - 86 percent versus 85 percent.
+The episode with the unaccompanied children and the 2014 photos distracted from what is actually happening. Under a Trump policy to enforce criminal charges against people crossing the border illegally with few or no previous offenses, separation of parents from children is bound to become more common, and that trend may have started.
+A Customs and Border Protection official told lawmakers that 658 children had been separated from their parents at the border from May 6 to May 19, after border agents began referring every illegal entry to criminal prosecutors. This is in addition to hundreds more who were estimated to have been removed from their parents at the border since October.
+___
+Associated Press writers Anne Flaherty and Chad Day in Washington, Mike Stobbe in New York, Carla K. Johnson in Seattle and Elliot Spagat in San Diego contributed to this report.
+___
+Find AP Fact Checks at http://apne.ws/2kbx8bd
+Follow @APFactCheck on Twitter: https://twitter.com/APFactCheck
+EDITOR'S NOTE _ A look at the veracity of claims by political figures
+ Load-Date: June 3, 2018
+
+ 
+
+End of Document
+
+
+AP FACT CHECK: Trump on opioids; his critics on immigrants
+The Associated Press
+June 4, 2018 Monday 4:29 AM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: WASHINGTON DATELINE; AP Fact Check
+Length: 1937 words
+Byline: By HOPE YEN and CALVIN WOODWARD, Associated Press
+Dateline: WASHINGTON 
+Body
+
+
+
+
+WASHINGTON (AP) - Boasting in vague terms about the numbers being "way down," President Donald Trump may have offered false hope that the opioid epidemic is subsiding. His critics on immigration policy spread a false alarm that the government took 1,500 immigrant children from their parents and lost them.
+Here's a look at a sampling of rhetoric from the president and his detractors over the past week, and the reality behind the statements:
+___
+TRUMP: "African-Americans vote for Democrats for the most part. You know, vast majority. They've been doing it for over 100 years." - Nashville rally Tuesday.
+THE FACTS: Not 100 years or anything close. Most African-Americans for much of U.S. history were disenfranchised, then prevented from voting until the 1965 Voting Rights Act, which outlawed racial discrimination in voting. Before then, those who could vote mostly backed Republicans until the 1932 election of President Franklin D. Roosevelt, whose New Deal programs of economic relief helped spur a longer-term shift of black support from Republican to Democrat.
+___
+TRUMP: "Some of these states, I won by 44 points." - Nashville rally.
+THE FACTS: Not some. One. He won Wyoming with 70 percent of the vote in 2016, exceeding Hillary Clinton's 22 percent by nearly 48 points, according to Associated Press election data. His next biggest win came in West Virginia, where he won by 42 points.
+Nationwide, Trump lost the popular vote. He garnered 46 percent to Clinton's 48 percent, but ultimately won the election based on an Electoral College system in which the votes of smaller rural states that generally backed Trump are weighted more heavily than big, Democratic-leaning states such as New York and California.
+Under the U.S. system of electing presidents, Electoral College votes are set equal to the number of U.S. representatives in each state plus its two senators.
+___
+TRUMP: "We got $6 billion for opioid and getting rid of that scourge that's taking over our country. And the numbers are way down. We're getting the word out - bad. Bad stuff. You go to the hospital, you have a broken arm, you come out, you're a drug addict with this crap. It's way down. We're doing a good job with it. But we got $6 billion to help us with opioid." - Nashville rally.
+THE FACTS: That's misleading. One leading indicator of the opioid epidemic is down - painkiller prescriptions. Other indicators are up, such as the number of overdoses and deaths. And none of that has to do with the $6 billion enacted by Congress. The numbers are from 2017; the money is for this year and next.
+Prescriptions for opioid painkillers filled in the U.S. fell almost 9 percent last year, the largest drop in 25 years. The total dosage of opioid prescriptions filled in 2017 declined by 12 percent because more prescriptions were for a shorter duration, fewer new patients started on them and high-dose prescriptions dropped. The numbers are from health data firm IQVIA's Institute for Human Data Science.
+But overdose deaths involving opioids rose to about 46,000 for the 12-month period ended October 2017, up about 15 percent from October 2016, according to the Centers for Disease Control and Prevention. The numbers are preliminary because of continuing cause-of-death investigations later in the reporting period. They could go higher.
+As well, the CDC says emergency department visits for overdoses of opioids rose 30 percent in the U.S. from July 2016 to September 2017. Overdoses shot up 70 percent in the Midwest in that time while increasing by 54 percent in large cities in 16 states.
+___
+TRUMP: "Democrats mistakenly tweet 2014 pictures from Obama's term showing children from the Border in steel cages. They thought it was recent pictures in order to make us look bad, but backfires." - tweet Tuesday.
+THE FACTS: He is correct about widespread misrepresentation of the photos on Twitter.
+The photos, taken by AP, were from 2014, during the Obama administration, but were presented by liberal activists as if they showed the effects of Trump's immigration policy now. The photos were taken at a center run by the Customs and Border Protection Agency in Nogales, Arizona. One photo shows two unidentified female detainees sleeping in a holding cell. It's not clear that many prominent Democrats spread an Arizona Republic story that used the photos, though some did.
+Democrat Antonio Villaraigosa, former Los Angeles mayor now running for governor, tweeted that he was: "Speechless. This is not who we are as a nation." Jon Favreau, ex-speechwriter for Obama, tweeted: "This is happening right now." They and others deleted their tweets when they realized the mistake.
+___
+TRUMP: "A.P. has just reported that the Russian Hoax Investigation has now cost our government over $17 million, and going up fast. No Collusion, except by the Democrats!" - tweet Friday.
+THE FACTS: The AP did not report the cost is going up fast. It cited a Justice Department finding that the investigation over 10 months has cost $16.7 million, which Trump rounded up to $17 million. Of the costs assigned to the investigation, $9 million would have been spent even absent the investigation, the department said.
+___
+TRUMP: "Not that it matters but I never fired James Comey because of Russia! The Corrupt Mainstream Media loves to keep pushing that narrative, but they know it is not true!" - tweet Thursday.
+THE FACTS: Trump himself fed that "narrative." The president has said at least twice that Comey's firing in May 2017 was related to the FBI's investigation into whether Trump's campaign associates coordinated with Russia in an effort to sway the 2016 election. And his lawyer, Rudy Giuliani, told Fox News in May that Trump fired Comey because the FBI director wouldn't publicly state that Trump "wasn't a target" of the Russia investigation. Trump's public rationale for firing Comey has shifted on multiple occasions.
+___
+TRUMP, referring to Robert Iger, CEO of ABC's parent Walt Disney Co.: "Iger, where is my call of apology? You and ABC have offended millions of people, and they demand a response. How is Brian Ross doing? He tanked the market with an ABC lie, yet no apology. Double Standard!" - tweet Thursday.
+THE FACTS: "No apology" is wrong. Trump should know that because he expressed satisfaction in December with ABC's statement that said, "We deeply regret and apologize for the serious error" by Ross, an investigative reporter.
+Ross had reported that Trump, as a candidate, directed aide Michael Flynn to make contact with Russian officials during the campaign, a potentially explosive development. Ross changed his report hours later, saying his source stated that Trump's outreach actually came after Trump won the election, when presidents-elect might be expected to get to know foreign officials. ABC issued the apology, suspended Ross for four weeks without pay and said he would no longer report on Trump.
+At the time, that pleased Trump, who tweeted: "Congratulations to @ABC News for suspending Brian Ross for his horrendously inaccurate and dishonest report on the Russia, Russia, Russia Witch Hunt. More Networks and 'papers' should do the same with their Fake News!"
+Trump's revived wrath at ABC and Iger comes after the network canceled Roseanne Barr's show because of her racist tweet about Valerie Jarrett, who was an aide to President Barack Obama. Iger tweeted that the cancellation was "the right thing" to do.
+___
+TRUMP: "There is no one better to represent the people of N.Y. and Staten Island (a place I know very well) than @RepDanDonovan, who is strong on Borders & Crime, loves our Military & our Vets, voted for Tax Cuts and is helping me to Make America Great Again. Dan has my full endorsement!" - tweet Wednesday.
+THE FACTS: He's incorrect about the tax cuts he signed into law in December. Donovan voted against them, one of the few Republicans to do so. He told AP on Thursday that Trump knew that. "The president was well aware," he said. "We've had discussions about my tax vote, the president and I." Donovan opposed the tax bill because he said it would mean a tax increase for his constituents. "With the state and local tax deduction nearly eliminated, this tax bill doesn't equal relief for far too many New Yorkers," he said at the time.
+___
+TRUMP, sharing this tweet from broadcaster Rush Limbaugh: "If the FBI was so concerned, and if they weren't targeting Trump, they should have told Trump. If they were really concerned about the Russians infiltrating a campaign (hoax), then why not try to stop it? Why not tell Trump? Because they were pushing this scam." - Thursday.
+THE FACTS: The FBI did tell the Trump campaign about threats posed by foreign intelligence services. What level of detail it disclosed has not been established. It is now well known that Trump aides had multiple contacts with Russian interests during the campaign and the FBI was investigating those contacts for any evidence of collusion between the campaign and Russia. It is therefore unlikely that the FBI would share specifics that might compromise its criminal investigation.
+In August 2016, an FBI counterintelligence agent gave candidate Trump what is known within the bureau as a defensive briefing about the threats from foreign intelligence services. Such briefings are fairly standard and are intended to help campaigns guard against infiltration or hacking by foreign governments, such as Russia and China. Similar briefings were given to Clinton and the two vice presidential picks prior to the election, according to an October 2017 letter from Greg Brower, then the FBI's head of congressional affairs.
+___
+JIM CARREY, actor: "1500 innocent children ripped from their mothers' arms at our border. Lost in Trump's 'system'. - tweet May 27.
+THE FACTS: This didn't happen. Many Trump critics, Carrey among them, misrepresented the fate of nearly 1,500 minors who came to the border - without their parents - and were transferred by U.S. authorities to sponsors in the country.
+The Health and Human Services Department followed up with such children by calling their households to check on them late last year, getting information on the whereabouts of most, officials said. But they could not account for 1,475 of them, in part because many sponsors didn't respond to the calls.
+On that basis, Trump critics are calling the children "lost." But in that round of calls, the Trump administration actually had a slightly better rate of confirming such children's circumstances than the Obama administration did in 2016, according to an inspector general's report - 86 percent versus 85 percent.
+The episode with the unaccompanied children and the 2014 photos distracted from what is actually happening. Under a Trump policy to enforce criminal charges against people crossing the border illegally with few or no previous offenses, separation of parents from children is bound to become more common, and that trend may have started.
+A Customs and Border Protection official told lawmakers that 658 children had been separated from their parents at the border from May 6 to May 19, after border agents began referring every illegal entry to criminal prosecutors. This is in addition to hundreds more who were estimated to have been removed from their parents at the border since October.
+___
+Associated Press writers Anne Flaherty and Chad Day in Washington, Mike Stobbe in New York, Carla K. Johnson in Seattle and Elliot Spagat in San Diego contributed to this report.
+___
+Find AP Fact Checks at http://apne.ws/2kbx8bd
+Follow @APFactCheck on Twitter: https://twitter.com/APFactCheck
+EDITOR'S NOTE _ A look at the veracity of claims by political figures
+ Load-Date: June 5, 2018
+
+ 
+
+End of Document
+
+
+AP FACT CHECK: Trump overstates progress on opioids
+The Associated Press
+May 31, 2018 Thursday 12:53 AM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: WASHINGTON DATELINE; AP Fact Check
+Length: 453 words
+Byline: By CALVIN WOODWARD, Associated Press
+Dateline: WASHINGTON 
+Body
+
+
+
+
+WASHINGTON (AP) - President Donald Trump is overstating progress against the opioid epidemic, claiming "the numbers are way down" despite an increase of opioid-related deaths and overdoses in his first year in office.
+A look at his comments during a political rally in Nashville on Tuesday night:
+TRUMP: "We got $6 billion for opioid and getting rid of that scourge that's taking over our country. And the numbers are way down. We're getting the word out - bad. Bad stuff. You go to the hospital, you have a broken arm, you come out, you're a drug addict with this crap. It's way down. We're doing a good job with it. But we got $6 billion to help us with opioid."
+THE FACTS: Opioid prescriptions are down; deaths and other indicators of the epidemic are up, according to the latest statistics, from 2017. And those developments have nothing to do with the $6 billion approved by Congress because that money is for this year and next.
+Trump didn't specify what numbers he was talking about. But according to data released in April, prescriptions for opioid painkillers filled in the U.S. fell almost 9 percent last year, the largest drop in 25 years. The total dosage of opioid prescriptions filled in 2017 declined by 12 percent because more prescriptions were for a shorter duration, fewer new patients started on them and high-dose prescriptions dropped. The numbers are from health data firm IQVIA's Institute for Human Data Science.
+But legal prescriptions are only one front of the epidemic.
+Drug overdose deaths involving opioids rose to about 46,000 for the 12-month period ended October 2017, up about 15 percent from October 2016, according to the Centers for Disease Control and Prevention. The numbers are preliminary because of continuing cause-of-death investigations later in the reporting period. They could go higher.
+Other measures from the CDC also point to increasing severity of the problem last year.
+For example, emergency department visits for overdoses of opioids - prescription pain medications, heroin and illicitly manufactured fentanyl - rose 30 percent in the U.S. from July 2016 to September 2017. Overdoses shot up 70 percent in the Midwest in that time while increasing by 54 percent in large cities in 16 states.
+"Getting rid of that scourge" is the intent but the numbers don't show it fading.
+___
+Associated Press writers Mike Stobbe in New York and Carla K. Johnson in Seattle contributed to this report.
+___
+https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+https://www.cdc.gov/vitalsigns/opioid-overdoses/
+___
+Find AP Fact Checks at http://apne.ws/2kbx8bd
+Follow @APFactCheck on Twitter: https://twitter.com/APFactCheck
+EDITOR'S NOTE _ A look at the veracity of claims by political figures
+ Load-Date: May 31, 2018
+
+ 
+
+End of Document
+
+
+AP FACT CHECK: Trump's message on opioids is too optimistic
+The Associated Press
+May 31, 2018 Thursday 4:26 AM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: WASHINGTON DATELINE; AP Fact Check
+Length: 455 words
+Byline: By CALVIN WOODWARD, Associated Press
+Dateline: WASHINGTON 
+Body
+
+
+
+
+WASHINGTON (AP) - President Donald Trump is overstating progress against the opioid epidemic, claiming "the numbers are way down" despite an increase of opioid-related deaths and overdoses in his first year in office.
+A look at his comments during a political rally in Nashville, Tennessee, on Tuesday night:
+TRUMP: "We got $6 billion for opioid and getting rid of that scourge that's taking over our country. And the numbers are way down. We're getting the word out - bad. Bad stuff. You go to the hospital, you have a broken arm, you come out, you're a drug addict with this crap. It's way down. We're doing a good job with it. But we got $6 billion to help us with opioid."
+THE FACTS: Opioid prescriptions are down; deaths and other indicators of the epidemic are up, according to the latest statistics, from 2017. And those developments have nothing to do with the $6 billion approved by Congress because that money is for this year and next.
+Trump didn't specify what numbers he was talking about. But according to data released in April, prescriptions for opioid painkillers filled in the U.S. fell almost 9 percent last year, the largest drop in 25 years. The total dosage of opioid prescriptions filled in 2017 declined by 12 percent because more prescriptions were for a shorter duration, fewer new patients started on them and high-dose prescriptions dropped. The numbers are from health data firm IQVIA's Institute for Human Data Science.
+But legal prescriptions are only one front of the epidemic.
+Drug overdose deaths involving opioids rose to about 46,000 for the 12-month period ended October 2017, up about 15 percent from October 2016, according to the Centers for Disease Control and Prevention. The numbers are preliminary because of continuing cause-of-death investigations later in the reporting period. They could go higher.
+Other measures from the CDC also point to increasing severity of the problem last year.
+For example, emergency department visits for overdoses of opioids - prescription pain medications, heroin and illicitly manufactured fentanyl - rose 30 percent in the U.S. from July 2016 to September 2017. Overdoses shot up 70 percent in the Midwest in that time while increasing by 54 percent in large cities in 16 states.
+"Getting rid of that scourge" is the intent but the numbers don't show it fading.
+___
+Associated Press writers Mike Stobbe in New York and Carla K. Johnson in Seattle contributed to this report.
+___
+https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+https://www.cdc.gov/vitalsigns/opioid-overdoses/
+___
+Find AP Fact Checks at http://apne.ws/2kbx8bd
+Follow @APFactCheck on Twitter: https://twitter.com/APFactCheck
+EDITOR'S NOTE _ A look at the veracity of claims by political figures
+ Load-Date: June 1, 2018
+
+ 
+
+End of Document
+
+
+Cambridge Analytica ex-CEO refuses to testify in UK
+The Associated Press
+April 17, 2018 Tuesday 8:31 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS
+Length: 791 words
+Byline: By DANICA KIRKA, Associated Press
+Dateline: LONDON 
+Body
+
+
+
+
+LONDON (AP) - Cambridge Analytica's ex-CEO, Alexander Nix, has refused to testify before the U.K. Parliament's media committee, citing British authorities' investigation into his former company's alleged misuse of data from millions of Facebook accounts in political campaigns.
+Committee Chairman Damian Collins announced Nix's decision a day before his scheduled appearance but flatly rejected the notion that he should be let off the hook, saying Nix hasn't been charged with a crime and there are no active legal proceedings against him.
+"There is therefore no legal reason why Mr. Nix cannot appear," Collins said in a statement. "The committee is minded to issue a formal summons for him to appear on a named day in the very near future."
+Nix gave evidence to the committee in February, but was recalled after former Cambridge Analytica staffer Christopher Wylie sparked a global debate over electronic privacy when he alleged the company used data from millions of Facebook accounts to help U.S. President Donald Trump's 2016 election campaign. Wylie worked on Cambridge Analytica's "information operations" in 2014 and 2015.
+Wylie has also said the official campaign backing Britain's exit from the European Union had access to the Facebook data.
+Cambridge Analytica has previously said that none of the Facebook data it acquired from an academic researcher was used in the Trump campaign. The company also says it did no paid or unpaid work on the Brexit campaign. The company did not respond to requests for comment from The Associated Press on Tuesday.
+The Information Commissioner's Office said Tuesday that it had written to Nix to "invite him" to be interviewed by investigators. The office is investigating Facebook and 30 other organizations over their use of data and analytics.
+"Our investigation is looking at whether criminal and civil offences have been committed under the Data Protection Act," the office said in a statement.
+Nix's refusal to appear comes as the seriousness of the British inquiry becomes more evident.
+Facebook has said it directed Cambridge Analytica to delete all of the data harvested from user accounts as soon as it learned of the problem.
+But former Cambridge Analytica business development director Brittany Kaiser testified Tuesday that the U.S. tech giant didn't really try to verify Cambridge Analytica's assurances that it had done so.
+"I find it incredibly irresponsible that a company with as much money as Facebook ... had no due diligence mechanisms in place for protecting the data of U.K. citizens, U.S. citizens or their users in general," she said.
+Kaiser suggested that the number of individuals whose Facebook data was misused could be far higher than the 87 million acknowledged by the Silicon Valley giant.
+She told lawmakers that in an atmosphere where data abuse was rife, she believed the leadership of the Leave.EU campaign combined data from members of the U.K. Independence Party and from the customers of two insurance companies, Eldon Insurance and GoSkippy Insurance.
+The two executives were then able to create their own "their own Cambridge Analytica" using her proposals, Kaiser testified.
+"Arron Banks and Andy Wigmore have told multiple individuals that they took my proposal and copied it and they created their own Cambridge Analytica, which they called Big Data Dolphins in partnership with the data science department at the University of Mississippi," Kaiser said.
+The university rejected Kaiser's allegation.
+"The assertion that the University of Mississippi has received or analyzed any data from these companies is not true," Alice Clark, vice chancellor for university relations, said in a statement emailed Tuesday to The Associated Press.
+Leave.EU's communications director, Andy Wigmore, also called Kaiser's statements a "litany of lies."
+It is how the data was used that alarms some members of the committee and has captured the attention of the public.
+An expert on propaganda told the committee Monday that Cambridge Analytica used techniques developed by the Nazis to help Trump's presidential campaign, turning Muslims and immigrants into an "artificial enemy" to win support from fearful voters.
+University of Essex lecturer Emma Briant, who has for a decade studied the SCL Group - a conglomerate of companies, including Cambridge Analytica - interviewed company founder Nigel Oakes when she was doing research for a book. Oakes compared Trump's tactics to those of Nazi leader Adolf Hitler in singling out Jews for reprisals.
+"Hitler attacked the Jews, because ... the people didn't like the Jews," he said on tapes of the interview conducted with Briant. "He could just use them to . leverage an artificial enemy. Well that's exactly what Trump did. He leveraged a Muslim."
+ Load-Date: April 18, 2018
+
+ 
+
+End of Document
+
+
+Cambridge Analytica fights back on data scandal
+The Associated Press
+April 24, 2018 Tuesday 5:04 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: INTERNATIONAL NEWS
+Length: 623 words
+Byline: By DANICA KIRKA, Associated Press
+Dateline: LONDON 
+Body
+
+
+
+
+LONDON (AP) - Cambridge Analytica unleashed its counterattack against claims that it misused data from millions of Facebook accounts, saying Tuesday it is the victim of misunderstandings and inaccurate reporting that portrays the company as the evil villain in a James Bond movie.
+Clarence Mitchell, a high-profile publicist recently hired to represent the company, held Cambridge Analytica's first news conference since allegations surfaced that the Facebook data helped Donald Trump win the 2016 presidential election. Christopher Wylie, a former employee of Cambridge Analytica's parent, also claims that the company has links to the successful campaign to take Britain out of the European Union.
+"The company has been portrayed in some quarters as almost some Bond villain," Mitchell said. "Cambridge Analytica is no Bond villain."
+Cambridge Analytica didn't use any of the Facebook data in the work it did for Trump's campaign and it never did any work on the Brexit campaign, Mitchell said. Furthermore, he said, the data was collected by another company that was contractually obligated to follow data protection rules and the information was deleted as soon as Facebook raised concerns. 
+Mitchell insists the company has not broken any laws, but acknowledged it had commissioned an independent investigation is being conducted. He insisted that the company had been victimized by "wild speculation based on misinformation, misunderstanding, or in some cases, frankly, an overtly political position."
+The comments come weeks after the scandal engulfed both the consultancy and Facebook, which has been embroiled in scandal since revelations that Cambridge Analytica misused personal information from as many as 87 million Facebook accounts. Facebook's CEO Mark Zuckerberg testified before the U.S. congressional committees and at one point the company lost some $50 billion in value for its shareholders.
+Details on the scandal continued to trickle out. On Tuesday, a Cambridge University academic said the suspended CEO of Cambridge Analytica lied to British lawmakers investigating fake news.
+Academic Aleksandr Kogan's company, Global Science Research, developed a Facebook app that vacuumed up data from people who signed up to use the app as well as information from their Facebook friends, even if those friends hadn't agreed to share their data.
+Cambridge Analytica allegedly used the data to profile U.S. voters and target them with ads during the 2016 election to help elect Donald Trump. It denies the charge.
+Kogan appeared before the House of Commons' media committee Tuesday and was asked whether Cambridge Analytica's suspended CEO, Alexander Nix, told the truth when he testified that none of the company's data came from Global Science Research.
+"That's a fabrication," Kogan told committee Chairman Damian Collins. Nix could not immediately be reached for comment.
+Kogan also cast doubt on many of Wylie's allegations, which have triggered a global debate about internet privacy protections. Wylie repeated his claims in a series of media interviews as well as an appearance before the committee.
+Wylie worked for SCL Group Ltd. in 2013 and 2014.
+"Mr. Wylie has invented many things," Kogan said, calling him "duplicitous."
+No matter what, though, Kogan insisted in his testimony that the data would not be that useful to election consultants. The idea was seized upon by Mitchell, who also denied that the company had worked on the effort to have Britain leave the EU.
+Mitchell said that the idea that political consultancies can use data alone to sway votes is "frankly insulting to the electorates. Data science in modern campaigning helps those campaigns, but it is still and always will be the candidates who win the races."
+ Load-Date: April 25, 2018
+
+ 
+
+End of Document
+
+
+How Facebook likes could profile voters for manipulation
+The Associated Press
+March 20, 2018 Tuesday 1:36 AM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1146 words
+Byline: By BARBARA ORTUTAY and ANICK JESDANUN, AP Technology Writers
+Dateline: NEW YORK 
+Body
+
+
+
+
+NEW YORK (AP) - Facebook "likes" can tell a lot about a person. Maybe even enough to fuel a voter-manipulation effort like the one a Trump-affiliated data-mining firm stands accused of - and which Facebook may have enabled.
+The social network is under fire after The New York Times and The Guardian newspaper reported that former Trump campaign consultant Cambridge Analytica used data, including user likes, inappropriately obtained from roughly 50 million Facebook users to try to influence elections.
+Monday was a wild roller coaster ride for Facebook, whose shares plunged 7 percent in its worst one-day decline since 2014. Officials in the EU and the U.S. sought answers, while Britain's information commissioner said she will seek a warrant to access Cambridge Analytica's servers because the British firm had been "uncooperative" in her investigation. The first casualty of that investigation was an audit of Cambridge that Facebook had announced earlier in the day; the company said it "stood down" that effort at the request of British officials.
+Adding to the turmoil, the New York Times reported that Facebook security chief Alex Stamos will step down by August following clashes over how aggressively Facebook should address its role in spreading disinformation. In a tweet , Stamos said he's still fully engaged at Facebook but that his role has changed.
+It would have been quieter had Facebook likes not turned out to be so revealing. Researchers in a 2013 study found that likes on hobbies, interests and other attributes can predict personal attributes such as sexual orientation and political affiliation. Computers analyze such data to look for patterns that might not be obvious, such as a link between a preference for curly fries and higher intelligence.
+Chris Wylie, a Cambridge co-founder who left in 2014, said the firm used such techniques to learn about individuals and create an information cocoon to change their perceptions. In doing so, he said, the firm "took fake news to the next level."
+"This is based on an idea called 'informational dominance,' which is the idea that if you can capture every channel of information around a person and then inject content around them, you can change their perception of what's actually happening," Wylie said Monday on NBC's "Today." It's not yet clear exactly how the firm might have attempted to do that.
+Late Friday, Facebook said Cambridge improperly obtained information from 270,000 people who downloaded an app described as a personality test. Those people agreed to share data with the app for research - not for political targeting. And the data included who their Facebook friends were and what they liked - even though those friends hadn't downloaded the app or given explicit consent.
+Cambridge got limited information on the friends, but machines can use detailed answers from smaller groups to make good inferences on the rest, said Kenneth Sanford of the data science company Dataiku.
+Cambridge was backed by the conservative billionaire Richard Mercer, and at one point employed Stephen Bannon - later President Donald Trump's campaign chairman and White House adviser - as a vice president. The Trump campaign paid Cambridge roughly $6 million according to federal election records, although officials have more recently played down that work.
+The type of data mining reportedly used by Cambridge Analytica is fairly common, but is typically used to sell diapers and other products. Netflix, for instance, provides individualized recommendations based on how a person's viewing behaviors fit with what other customers watch.
+But that common technique can take on an ominous cast if it's connected to possible elections meddling, said Robert Ricci, a marketing director at Blue Fountain Media.
+Wylie said Cambridge Analytica aimed to "explore mental vulnerabilities of people." He said the firm "works on creating a web of disinformation online so people start going down the rabbit hole of clicking on blogs, websites etc. that make them think things are happening that may not be."
+Wylie told "Today" that while political ads are also targeted at specific voters, the Cambridge effort aimed to make sure people wouldn't know they were getting messages aimed at influencing their views.
+The Trump campaign has denied using Cambridge's data. The firm itself denies wrongdoing, and says it didn't retain any of the data pulled from Facebook and didn't use it in its 2016 campaign work.
+Yet Cambridge boasted of its work after another client, Texas Republican Sen. Ted Cruz, won the Iowa caucus in 2016.
+Cambridge helped differentiate Cruz from similarly minded Republican rivals by identifying automated red light cameras as an issue of importance to residents upset with government intrusion. Potential voters living near the red light cameras were sent direct messages saying Cruz was against their use.
+Even on mainstay issues such as gun rights, Cambridge CEO Alexander Nix said at the time, the firm used personality types to tailor its messages. For voters who care about tradition, it could push the importance of making sure grandfathers can offer family shooting lessons. For someone identified as introverted, a pitch might have described keeping guns for protection against crime.
+It's possible that Cambridge tapped other data sources, including what Cruz's campaign app collected. Nix said during the Cruz campaign that it had five or six sources of data on each voter.
+Facebook declined to provide officials for interview and didn't immediately respond to requests for information beyond its statements Friday and Monday. Cambridge also didn't immediately respond to emailed questions.
+Facebook makes it easy for advertisers to target users based on nuanced information about them. Facebook's mapping of the "social graph" - essentially the web of people's real-life connections - is also invaluable for marketers.
+For example, researchers can look at people's clusters of friends and get good insight as to who is important and influential, said Jonathan Albright, research director at the Tow Center for Digital Journalism at Columbia University. People who bridge different friend networks, for example, can have more influence when they post something, making them prime for targeting.
+Two-thirds of Americans get at least some of their news on social media, according on Pew Research Center. While people don't exist in a Facebook-only vacuum, it is possible that bogus information users saw on the site could later be reinforced by the "rabbit hole" of clicks and conspiracy sites on the broader internet, as Wylie described.
+___
+An earlier version of this story incorrectly stated the sum paid by the 2016 Trump campaign to Cambridge Analytica. It was $5.9 million according to federal election records.
+AP technology reporter Ryan Nakashima contributed to this report from Menlo Park, California.
+ Load-Date: March 20, 2018
+
+ 
+
+End of Document
+
+
+Insurers look to pass drug price breaks straight to consumer
+The Associated Press
+April 11, 2018 Wednesday 6:09 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS; On the Money
+Length: 674 words
+Byline: By TOM MURPHY, AP Health Writer
+Body
+
+
+
+
+Some major health insurers plan to take a little sting out of prescription drug prices by giving customers rebates at the pharmacy counter.
+Aetna and UnitedHealthcare both say they will begin passing rebates they get from drugmakers along to some customers starting next year. They could spark a trend: The idea has been championed by President Donald Trump, and it's something other bill-payers like major employers might consider.
+Rebates are a key cog in the largely secretive pricing agreements ironed out between drugmakers and pharmacy benefit managers, the companies that manage prescriptions for insurers and large employers. Rebates have become more common in recent years, and some critics point to them as a factor behind soaring drug costs. Aetna and UnitedHealthcare say they want to make prescription drug pricing more transparent and simplify the process for customers.
+Here's a look at the issue.
+WHO GETS REBATES NOW?
+Pharmaceutical companies offer rebates to benefits managers as a carrot to get their drugs included in formularies, or lists of covered drugs. These concessions are usually a percentage of the initial price set by the drugmaker, or the list price.
+Pharmacy benefit managers typically pass rebates on to the insurers and large employers that hire them. Those clients often use the money to reduce their plan's spending on drugs or the cost of coverage. Only 4 percent said they passed rebates directly to customers at the point of sale, or when they buy the drug, the Pharmacy Benefit Management Institute found in a 2017 report.
+___
+WILL YOU START RECEIVING THEM SOON?
+That's unlikely.
+Aetna estimates that 3 million customers could receive rebates when it starts offering them next year, while UnitedHelathcare's plan will initially apply to over 7 million people. Those are big numbers but small slices of the more than 67 million U.S. customers these companies cover in total.
+In addition, CVS Health's pharmacy benefits business offers point-of-sale rebates through plans that cover about 10 million of its 94 million customers.
+More insurers or benefits managers could follow these examples, and big employers that pay their own health care bills also might start passing the rebates to people on their health plans, said Ana Gupte, an insurance industry analyst with Leerink.
+Plus Trump has proposed giving rebates directly to Medicare prescription drug customers.
+Rebates delivered directly to the consumer may be attractive to insurers and pharmacy benefit managers because they can help polish their image. Rebates give the companies a tangible benefit they can show consumers instead of saying generally that these refunds help keep overall coverage costs in check, noted Benedic Ippolito, an economist with the American Enterprise Institute.
+"At a minimum, it sounds like insurers are trying to do something for consumers with high drug costs," he said.
+___
+ARE WE TALKING BIG MONEY?
+It's hard to forecast how big the rebates will be. Experts say they could knock anywhere from a few bucks off your prescription bill to more than $100.
+The rebates are generally not disclosed by companies, and their size depends on factors like competition and the amount of the drug sold.
+Treatments that have competition may deliver the biggest rebates because pharmaceutical companies are jockeying to have their medicines included in formularies.
+Discounts and rebates for high-cost specialty medicines usually are lower than those for more traditional drugs, according to the IQVIA Institute for Human Data Science, which studies prescription drug spending.
+The consumers who will benefit most are those who take prescription drugs regularly and pay a lot for their medicines out of pocket, or before insurance coverage starts.
+"It reduces the cost of having a chronic illness somewhat," said Dan Mendelson, president of the consulting firm Avalere Health.
+But there may be a price to pay: The cost of coverage could rise for everyone on a given health plan if rebates are no longer being used to keep overall plan expenses in check.
+ Load-Date: April 12, 2018
+
+ 
+
+End of Document
+
+
+New data: Americans filling far fewer opioid prescriptions
+The Associated Press
+April 19, 2018 Thursday 2:53 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 627 words
+Byline: By LINDA A. JOHNSON, AP Medical Writer
+Dateline: TRENTON, N.J. 
+Body
+
+
+
+
+TRENTON, N.J. (AP) - The number of prescriptions for opioid painkillers filled in the U.S. fell dramatically last year, showing their biggest drop in 25 years and continuing a decline amid increasing legal restrictions and public awareness of the dangers of addiction, new data show.
+Health data firm IQVIA's Institute for Human Data Science released a report Thursday showing an 8.9 percent average drop nationwide in the number of prescriptions for opioids filled by retail and mail-order pharmacies. All 50 states and the District of Columbia had declines of more than 5 percent. Declines topped 10 percent in 18 states, including all of New England and other states hit hard by the opioid overdose epidemic, such as West Virginia and Pennsylvania.
+"We're at a really critical moment in the country when everybody's paying attention to this issue," said Michael Kleinrock, the institute's research director. "People really don't want them if they can avoid them."
+There was an even greater drop in total dosage of opioid prescriptions filled in 2017, down 12 percent from 2016. Reasons for that include more prescriptions being for a shorter duration, a 7.8 percent decline in new patients starting on opioid prescriptions and far fewer high-dose prescriptions.
+Opioid doses are measured in "morphine milligram equivalents." (A standard Vicodin pill has the equivalent of 5 milligrams of morphine.) Prescriptions for dosages of 90 morphine milligram equivalents per day or more, which carry the highest addiction risk, declined by 16 percent last year, according to the report.
+The U.S. is estimated to consume roughly 30 percent of all opioids used worldwide.
+Opioid prescriptions and daily doses rose steadily starting in the 1990s, fueled by factors including marketing of new opioid pills such as Oxycontin. Use peaked in 2011 at levels far above those in other wealthy countries where national health systems control narcotics more aggressively.
+The U.S. decline began after overdoses and deaths from prescription opioids and illicit narcotics soared, and multiple groups pushed back.
+The federal government and about half the states have enacted restrictions, such as limiting the dose or duration of opioids that can be prescribed. Insurers and drug stores began imposing similar limits on opioid use for acute pain, as opposed to cancer and chronic pain patients. The Drug Enforcement Administration increased prosecution of heavy prescribers. And numerous medical groups have issued guidelines urging prescribers to offer other pain-management options when possible and to limit doses and duration of opioid prescriptions.
+Despite those measures, deaths from drug overdoses have continued to increase in the U.S. and emergency rooms saw a big jump in overdoses from opioids last year, according to government data.
+Doctors have been heeding the messages from medical groups, and some worry they'll be arrested or lose their license if they provide too many opioids, said Bob Twillman, executive director of the Academy of Integrative Pain Management, which represents doctors and others who treat pain patients and gets some funding from opioid makers.
+"We get a lot of phone calls from patients whose primary care doctors have said they won't prescribe opioids at all," and want referrals to other doctors, Twillman said.
+The opioid data are part of IQVIA's annual report on U.S. drug-spending trends. It noted that last year the total spent on prescription drugs, after multiple discounts and rebates drugmakers give to middlemen, was $324 billion, up 0.6 percent. The report forecasts that after such discounts, drug spending will rise by 2 percent to 5 percent annually for the next five years.
+___
+Follow Linda A. Johnson at https://twitter.com/LindaJ_onPharma
+ Load-Date: April 20, 2018
+
+ 
+
+End of Document
+
+
+Obama campaign advisers say they used Facebook data properly
+The Associated Press
+March 21, 2018 Wednesday 9:10 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: POLITICAL NEWS
+Length: 660 words
+Byline: By KEN THOMAS, Associated Press
+Dateline: WASHINGTON 
+Body
+
+
+
+
+WASHINGTON (AP) - President Barack Obama's 2012 re-election campaign mined supporters' personal data from Facebook to benefit its voter turnout program. But former campaign officials said Wednesday they accessed and used the information in vastly different ways than Cambridge Analytica, the firm connected to President Donald Trump's 2016 campaign accused of improperly lifting data on 50 million Facebook users.
+Former Obama advisers said they collected the data with their own app, complied with the social media platform's terms of service and received permission from supporters. An estimated 1 million Obama supporters gave the campaign access to their Facebook data.
+In most cases, Obama supporters who signed on to the campaign's mailing list were asked to authorize the campaign's Facebook app, allowing it to access certain aspects of their profile, including their posts, likes, photos, demographics and similar data from their Facebook friends. The Obama data was used in voter turnout efforts, with a focus on young voters in key battleground states, and former campaign officials said the data was kept secure and not sold to or acquired from third parties.
+Ex-Obama aides said their practices did not mirror those of Cambridge Analytica, which has been accused of acquiring personal data in unauthorized ways. The British political research firm has suspended CEO Alexander Nix pending an investigation.
+"Cambridge Analytica obtained their data fraudulently, laundered through a researcher," Jim Messina, Obama's 2012 campaign manager, wrote on Twitter. Messina said the re-election campaign "told voters what they were sharing and for what purpose. Conflating these two cases is misleading."
+Trump's campaign has said it didn't use Cambridge's data, and Cambridge has denied any wrongdoing. The incident has focused new attention on whether Facebook did enough to protect users' privacy and has prompted calls for Facebook's leadership to testify before Congress on how Cambridge harvested the data.
+Carol Davidsen, who served as the Obama campaign's director of data integration and media analytics, tweeted Sunday that Facebook allowed the campaign to access the data "because they were on our side."
+She said in a separate tweet that she had worked on all "data integration projects" at the campaign. "This was the only one that felt creepy, even though we played by the rules, and didn't do anything I felt was ugly, with the data," she wrote.
+Facebook said in a statement that the tweet was inaccurate, adding that "both the Obama and Romney campaigns had access to the same tools, and no campaign received any special treatment from Facebook."
+Rayid Ghani, who was chief scientist on the Obama 2012 campaign, wrote in a Medium post that the campaign only contacted people who had provided them with access to their email address. "We did not get any contact information for their friend and did not (and could not) contact any of their friends directly," he wrote. He said the campaign "did not scrape everything available on facebook about everyone we could."
+"All we could do was ask our 'primary' supporters to contact their friends and we would recommend who those friends were based on the data they allowed us to access," Ghani said. Facebook "did not look the other way, because they did not need to," he added.
+The tech giant in 2015 shut down app developers' ability to siphon off the data of Facebook users who used their apps.
+Timothy Carone, a University of Notre Dame professor specializing in data science, said in an email that it's unclear the 2012 Obama campaign could have done what Cambridge Analytica did in 2016, adding that would require a deeper dive into the 2012 campaign practices. "Four years is a long time in the analytics business and great strides have been made with how data is collected, analyzed, and used to make decisions in between campaigns," he said.
+____
+On Twitter follow Ken Thomas at https://twitter.com/KThomasDC
+ Load-Date: March 22, 2018
+
+ 
+
+End of Document
+
+
+UMass gets Chan Zuckerberg grant for scientific project
+The Associated Press
+January 21, 2018 Sunday 3:14 PM GMT
+
+ Copyright 2018 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 142 words
+Dateline: AMHERST, Mass. 
+Body
+
+
+
+
+AMHERST, Mass. (AP) - The University of Massachusetts has received a $5.5 million grant from a philanthropy founded by the man behind Facebook and his wife to create a way to search millions of scientific research articles.
+The grant from the Chan Zuckerberg Initiative to UMass's Center for Data Science will create the Computable Knowledge project using a form of artificial intelligence. The initiative was founded by Facebook CEO Mark Zuckerberg and his wife, Priscilla Chan.
+The goal is to build a navigable map of 60 million articles to help scientists find previously unknown connections between findings in genetics, diseases, drugs and treatments.
+Once complete, the service will be accessible for free to help scientists track important discoveries, uncover patterns and deliver insights via an up-to-date collection of published scientific texts.
+ Load-Date: January 22, 2018
+
+ 
+
+End of Document
