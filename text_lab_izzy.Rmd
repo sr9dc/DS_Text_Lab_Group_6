@@ -5,4 +5,156 @@ date: "3/24/2021"
 output: html_document
 ---
 
+```{r}
+library(tidyverse)
+library(tidytext)
+library(ggwordcloud)
+library(gutenbergr)
+library(textdata)
+library(striprtf)
+library(tibble)
+library(dplyr)
+```
+
+```{r}
+nyt<-read_lines("/Users/isabelleshehan/Desktop/stat/nyt.txt")
+ajc<-read_lines("/Users/isabelleshehan/Desktop/stat/ajc.txt")
+ap<-read_lines("/Users/isabelleshehan/Desktop/stat/ap.txt")
+```
+
+```{r}
+nyt<-tibble(nyt)
+ajc<-tibble(ajc)
+ap<-tibble(ap)
+```
+
+```{r}
+nyt$nyt<-as.character(nyt$nyt)
+ajc$ajc<-as.character(ajc$ajc)
+ap$ap<-as.character(ap$ap)
+```
+
+```{r}
+nyt_tokens<-nyt%>%
+  unnest_tokens(word, nyt)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+ajc_tokens<-ajc%>%
+  unnest_tokens(word, ajc)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+
+ap_tokens<-ap%>%
+  unnest_tokens(word, ap)%>%
+  anti_join(stop_words)%>% 
+  count(word, sort=TRUE)
+```
+
+```{r}
+nyt_afinn<-nyt_tokens%>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+nyt_nrc<-nyt_tokens%>%
+  inner_join(get_sentiments("nrc"))
+nyt_bing<-nyt_tokens%>%
+  inner_join(get_sentiments("bing"))
+
+ajc_afinn<-ajc_tokens%>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+ajc_nrc<-ajc_tokens%>%
+  inner_join(get_sentiments("nrc"))
+ajc_bing<-ajc_tokens%>%
+  inner_join(get_sentiments("bing"))
+
+ap_afinn<-ap_tokens%>%
+  inner_join(get_sentiments("afinn"))#using a inner join to match words and add the sentiment variable
+ap_nrc<-ap_tokens%>%
+  inner_join(get_sentiments("nrc"))
+ap_bing<-ap_tokens%>%
+  inner_join(get_sentiments("bing"))
+```
+
+```{r}
+table(nyt_bing$sentiment)
+table(ajc_bing$sentiment)
+table(ap_bing$sentiment)
+```
+
+```{r}
+ggplot(data = nyt_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("New York Times Sentiment Range")+
+  theme_minimal()
+
+ggplot(data = ajc_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("Atlanta Journal-Constitution Sentiment Range")+
+  theme_minimal()
+
+ggplot(data = ap_afinn, 
+       aes(x=value)
+        )+
+  geom_histogram()+
+  ggtitle("Spokesman Review Sentiment Range")+
+  theme_minimal()
+```
+
+```{r}
+ggplot(nyt_tokens[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+
+ggplot(ajc_tokens[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+
+ggplot(ap_tokens[1:50,], aes(label = word, size = n)
+       ) +
+  geom_text_wordcloud() +
+  theme_minimal()
+```
+
+```{r}
+nyt_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/nyt.txt"))
+ajc_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/ajc.txt"))
+ap_raw<-as_tibble(read_lines("/Users/isabelleshehan/Desktop/stat/ap.txt"))
+```
+
+```{r}
+data_prep <- function(x,y,z){
+  i <- as_tibble(t(x))
+  ii <- unite(i,"text",y:z,remove = TRUE,sep = "")
+}
+
+nyt_bag<-data_prep(nyt_raw, 'V1','V4956')
+ajc_bag<-data_prep(ajc_raw, 'V1','V1022')
+ap_bag<-data_prep(ap_raw, 'V1','V1593')
+```
+
+```{r}
+sources<-c("NYT","AJC", "AP")
+tf_idf_text<-tibble(sources,text=t(tibble(nyt_bag, ajc_bag, ap_bag, .name_repair = "universal")))
+
+word_count<-tf_idf_text %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words) %>%
+  count(sources, word, sort = TRUE)
+
+total_words<-word_count %>% 
+  group_by(sources) %>% 
+  summarize(total = sum(n))
+
+news_words<-left_join(word_count, total_words)
+
+news_words<-news_words %>%
+  bind_tf_idf(word, sources, n)
+
+news_words
+```
 
