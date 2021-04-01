@@ -15,9 +15,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+This project 
 
 
 
@@ -44,9 +42,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Sai Rajuladevi -(https://www.linkedin.com/in/sai-rajuladevi/) - sai.rajuladevi@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/sr9dc/DS_Text_Lab_Group_6](https://github.com/your_username/repo_name)
 
 
 
