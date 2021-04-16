@@ -57,9 +57,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sai Rajuladevi: https://www.linkedin.com/in/sai-rajuladevi/
 
-Project Link: [https://github.com/sr9dc/DS_Text_Lab_Group_6](https://github.com/sr9dc/DS_Text_Lab_Group_6)
+Izzy Shehan: https://github.com/izzy-shehan
 
+Andrew Porter: https://github.com/andrewporter1212
 
+Project Link: [https://rpubs.com/izzy-shehan/750493](https://rpubs.com/izzy-shehan/750493)
 
 
 
