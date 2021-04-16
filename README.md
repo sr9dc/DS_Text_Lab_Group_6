@@ -61,8 +61,6 @@ Izzy Shehan: https://github.com/izzy-shehan
 
 Andrew Porter: https://github.com/andrewporter1212
 
-Project Link: [https://rpubs.com/izzy-shehan/750493](https://rpubs.com/izzy-shehan/750493)
-
 
 
 
